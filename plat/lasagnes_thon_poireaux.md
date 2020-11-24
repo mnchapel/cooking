@@ -9,7 +9,7 @@
 - Poivre noir
 
 # Pour la béchamel
-- 1 c. à soupe de farine 
+- 2 c. à soupe de farine 
 - 25cl lait
 - 20 beurre
 - sel
