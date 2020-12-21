@@ -7,6 +7,7 @@
 - 3 oeufs
 - 30 cl de crème liquide ou 50 cl de lait
 - huile d'olive
+- persil
 
 # Préparation
 - Emincer l'oignon et le faire revenir avec les carottes à feu doux dans une poêle.
