@@ -13,6 +13,6 @@
 - Parsemer de persil, saler et poivrer.
 - Etendre la pâte brisée dans le moule.
 - Préchauffer le four à 200°C.
-- Mélanger les oeufs, la crème et ajouter les carottes.
+- Mélanger les oeufs, la crème (ou le lait) et ajouter les carottes.
 - Saler, poivrer et ajouter le cumin.
 - Enfourner 35 mn.
