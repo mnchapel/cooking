@@ -1,6 +1,6 @@
 Pour 4 personnes
 
-# Ingrédients (4 personnes)
+# Ingrédients
 - 300g de viande hachée
 - 300g de patates
 - 30g de parmersan
