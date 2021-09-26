@@ -1,9 +1,9 @@
 Pour ?? personnes
 
 # Ingrédients
-- 250g de porc
+- 300g de porc
 - 200g de farine
-- 2 feuilles de chou blanc
+- 2 feuilles de chou blanc (possible de remplacer par 1 poireau)
 - 2 champignons de Paris
 - 2 tranches de gingembre
 - 20g de ciboulette
