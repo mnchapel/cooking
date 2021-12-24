@@ -4,7 +4,7 @@
 - 140g de cantal râpé
 - 250g de farine
 - 4 œufs
-- 12 cl de lait
+- 16 cl de lait
 - 1 gousse d'ail hachée finement
 - 5 cl d'huile d'olives
 - 1 sachet de levure
