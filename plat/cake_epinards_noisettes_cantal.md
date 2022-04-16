@@ -18,3 +18,5 @@
 - Enfourner pour 30 à 40 minutes.
 - Démouler quand le cake est tiède.
 - Déguster tiède ou froid.
+
+Recette d'origine : https://www.sabnpepper.com/cake-aux-epinards-noisettes-et-cantal/
