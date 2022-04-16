@@ -2,7 +2,7 @@ Pour 4 personnes
 
 # Ingrédients (4 personnes)
 - 8 saucisses aux herbes
-- 300g de lentilles verte
+- 350g de lentilles verte
 - 1 oignon
 - 1 carotte
 - 1 feuille de laurier
