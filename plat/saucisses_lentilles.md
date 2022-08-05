@@ -5,8 +5,7 @@ Pour 4 personnes
 - 350g de lentilles verte
 - 1 oignon
 - 2 carottes
-- 2 feuilles de laurier
-- 2 branches de thym
+- 2 bouquets garnis (laurier + thym)
 - 2 cubes de bouillon de légumes
 - huile d'olive
 - poivre
