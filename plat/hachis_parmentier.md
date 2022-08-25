@@ -14,6 +14,7 @@ Pour 4 personnes
 - poivre
 
 # Préparation
+(ATTENTION /!\ on n'a qu'une seule plaque opérationnelle pour cette recette !!)
 - Hacher l'oignon et l'ail. Les faire revenir dans l'huile d'olive jusqu'à ce qu'ils soient tendres.
 - Ajouter les tomates coupées en dés, la viande hachée, la farine, du sel, du poivre et les herbes de Provence.
 - Quand tout est cuit, couper le feu et ajouter le jaune d'oeuf et un peu de parmesan. Bien mélanger.
