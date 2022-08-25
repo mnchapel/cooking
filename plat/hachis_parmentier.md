@@ -9,6 +9,7 @@ Pour 4 personnes
 - 4 tomates
 - 2 oignons
 - 2 gousses d'ail
+- 1 c-a-s de farine
 - 1 pincée d'herbes de Provence
 - huile d'olive
 - sel
