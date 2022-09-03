@@ -2,9 +2,9 @@ Pour 4/6 personnes
 
 # Ingrédients
 - 500g de coquillettes
-- g de gruyère
+- 250g de gruyère
 - 150g de gruère râpé
-- g de dés de jambon (2 boîtes, todo à regarder la prochaine fois)
+- 400g de dés de jambon (2 boîtes, todo à regarder la prochaine fois)
 - 20cl de crème fraîche
 - basilic
 
