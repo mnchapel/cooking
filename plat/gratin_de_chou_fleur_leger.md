@@ -33,11 +33,11 @@ Préchauffer le four à 200°C (thermostat 6-7).
 
 Beurrer un plat à gratin et recouvrir le fond de sauce. Disposer dessus les bouquets têtes en bas (sinon la sauce ne s'y imprègne pas). Recouvrir du reste de sauce.
 
-### ETAPE 6
+### Etape 6
 
 Parsemer de fromage râpé (de préférence du comté qui à un goût plus prononcé).
 
-### ETAPE 7
+### Etape 7
 
 Enfourner pour environ 30 min.
 
