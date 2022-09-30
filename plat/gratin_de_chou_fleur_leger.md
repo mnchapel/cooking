@@ -1,4 +1,4 @@
-## Ingrédients pour 4 personnes
+## Ingrédients pour 2 personnes
 
 - 1 chou-fleur
 - 1 bouillon de volaille
