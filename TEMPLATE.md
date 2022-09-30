@@ -2,6 +2,7 @@
 
 - [2 oignons moyens]
 - [25 cl de vin blanc]
+- [1 c.a.s de farine]
 
 ## Préparation
 
