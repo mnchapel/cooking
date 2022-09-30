@@ -18,5 +18,9 @@
 ## Références
 
 https://www.cuisineactuelle.fr/recettes/les-tomates-farcies-de-cyril-lignac-193425
+
 https://larecette.net/les-tomates-farcies-de-cyril-lignac/
+
 https://cuisine.journaldesfemmes.fr/recette/355968-tomates-farcies
+
+https://www.marmiton.org/recettes/recette_tomates-farcies-facile_63622.aspx
