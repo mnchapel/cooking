@@ -4,7 +4,7 @@
 - 500 g de chair à saucisse (ou viande hachée de boeuf)
 - 200 g de sauce tomate
 - 1 oignon
-- 1 ail
+- 2 ails
 - 1/2 botte de persil plat
 - 20 g de beurre
 - Chapelure de pain
