@@ -1,8 +1,5 @@
 ## Ingrédients pour 2 personnes
 
-- [2 oignons moyens]
-- [25 cl de vin blanc]
-- [1 c.a.s de farine]
 - 8 tranches de pain de mie complet
 - 200 g de jambon blanc
 - 150 g de comté râpé (ou cantal ou gruyère)
