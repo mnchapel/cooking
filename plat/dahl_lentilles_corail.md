@@ -20,8 +20,8 @@ Pour 4 personnes
 - Emincer l'ail et les oignons et faire revenir dans une poêle avec un filet d'huile d'olive.
 - Ajouter le curcuma, le poivre et mélanger. Laisser dorer 5 minutes.
 - Pendant ce temps, ajouter dans un saladier la pâte de curry, le lait de coco et l'eau, puis fouetter jusqu'à avoir un mélange homogène.
-- Ajouter le tout à la préparation, avec les lentilles corail et les épinards.
-- Laisser mijoter 15 minutes.
+- Ajouter le tout à la préparation, avec les lentilles corail et les épinards hachés grossièrement.
+- Laisser mijoter 15 minutes à feu moyen.
 - Ajouter un peu de persil, mélanger et c'est prêt.
 
 Recette d'origine : https://www.fitspau.com/post/dahl-lentilles-epinards-pd
