@@ -4,7 +4,7 @@ Pour 4 personnes
 - 8 saucisses aux herbes
 - 350g de lentilles verte
 - 1 oignon
-- 2 carottes
+- 2 grosses carottes (ou 3 petites)
 - 2 bouquets garnis (laurier + thym)
 - 2 cubes de bouillon de légumes
 - huile d'olive
