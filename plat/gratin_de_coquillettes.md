@@ -31,4 +31,4 @@ Faire préchauffer le four à 180°C puis enfourner pour 20 min.
 
 ## Références
 
-Recette d'origine : https://www.750g.com/gratin-de-coquillettes-jambon-and-gruyere-r202232.htm
+https://www.750g.com/gratin-de-coquillettes-jambon-and-gruyere-r202232.htm
