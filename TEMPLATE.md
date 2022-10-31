@@ -1,8 +1,8 @@
 ## Ingrédients pour X personnes
 
 - [2 oignons moyens]
-- [25 cl de vin blanc]
-- [1 c.a.s de farine]
+- [25cl de vin blanc]
+- [1c.a.s de farine]
 
 ## Préparation
 
