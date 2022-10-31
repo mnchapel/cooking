@@ -31,7 +31,7 @@ Puis verser le bouillon dans le faitout, ajouter le vin blanc, et le laurier et 
 
 ### Etape 5
 
-Pour finir ajouter le riz cru, les olives et laisser cuire 25 minutes, saler, poivrer le tout en fin de cuisson.
+Pour finir ajouter le riz cru, les olives et laisser cuire à couvert 25 minutes, saler, poivrer le tout en fin de cuisson.
 
 ## Références
 
