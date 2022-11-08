@@ -1,8 +1,8 @@
 ## Ingrédients pour 4 personnes
 
-- 350g net égoutté de thon (soit une grosse et une petite boîte)
+- 350g de thon (net égoutté, soit une grosse et une petite boîte)
 - 20cl de crème fraîche semi-épaisse
-- 480g net égoutté de tomates entières pelées (soit une grosse boîte)
+- 480g de tomates entières pelées (net égoutté, soit une grosse boîte)
 - 2 oeufs
 - 2 échalottes
 - 1 pâte brisée
