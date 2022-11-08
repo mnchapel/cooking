@@ -23,7 +23,7 @@ Lavez et coupez les poireaux. Pelez et émincez l'oignon. Faites les revenir dan
 
 ### Etape 2
 
-Egouttez le thon, émiettez-le et ajoutez-le aux poireaux avec la crème, le vin blanc et une pincée de poivre. Laissez cuire environ 5 minutes.
+Egouttez le thon, émiettez-le et ajoutez-le aux poireaux avec la crème, le vin blanc et une pincée de poivre. Laissez cuire environ 10 à 15 minutes.
 
 ### Etape 3
 
