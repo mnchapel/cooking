@@ -3,7 +3,7 @@
 - 9 feuilles de lasagne
 - 3 blancs de poireaux
 - 1 oignon 
-- 233g de thon (net égoutté, soit une grosse boîte)/300g de thon en conserve
+- 300g de thon en conserve (net égoutté)
 - Huile d'olive
 - 30cl crème fraiche
 - 1 verre de vin blanc sec (optionnel)
