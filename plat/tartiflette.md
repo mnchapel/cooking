@@ -11,11 +11,11 @@
 
 ### Etape 1
 
-Épluchez et découpez les pommes de terre en morceaux.
+Épluchez et découpez les pommes de terre en morceaux. Puis les cuire à la vapeur à la cocotte minute pendant une dizaine de minutes. 
 
 ### Etape 2
 
-Découpez les oignons en rondelles.
+Pendant ce temps, découper les oignons en rondelles.
 
 ### Etape 3
 
