@@ -56,4 +56,5 @@ Servir chaud avec une salade verte.
 ## Références
 
 https://www.reblochon.fr/nos-recettes/tartiflette-reblochon-de-savoie/
+
 https://www.ptitchef.com/recettes/plat/la-tartiflette-selon-marc-veyrat-fid-53358
