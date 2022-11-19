@@ -3,7 +3,7 @@
 - 350g de pâtes
 - 370g de thon (net égouté)
 - 2 oignons moyens
-- 400g de purée de tomates
+- 1 petite boîte de concentré de tomates (soit 70g ou 400g de purée de tomates)
 - 30cl de crème fraîche
 - gruyère râpé
 - herbe de provence
