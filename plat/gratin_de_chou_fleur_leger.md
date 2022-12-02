@@ -1,12 +1,12 @@
-## Ingrédients pour 2 personnes
+## Ingrédients pour 4 personnes
 
-- 1 chou-fleur
-- 1 bouillon de volaille
-- 5 cl de crème
-- 25 g de beurre
-- 30 g de farine
-- 40 cl d'eau
-- 50 g de fromage râpé
+- 2 chou-fleur
+- 2 bouillon de volaille
+- 10 cl de crème
+- 50 g de beurre
+- 60 g de farine
+- 80 cl d'eau
+- 100 g de fromage râpé
 - sel
 - poivre
 - muscade
