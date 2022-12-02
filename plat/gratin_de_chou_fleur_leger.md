@@ -1,6 +1,6 @@
 ## Ingrédients pour 4 personnes
 
-- 2 chou-fleur
+- 2 choux-fleurs
 - 2 bouillon de volaille
 - 10 cl de crème
 - 50 g de beurre
