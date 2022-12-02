@@ -1,12 +1,12 @@
 ## Ingrédients pour 4 personnes
 
 - 2 choux-fleurs
-- 2 bouillon de volaille
-- 10 cl de crème
-- 50 g de beurre
-- 60 g de farine
-- 80 cl d'eau
-- 100 g de fromage râpé
+- 2 bouillons de volaille
+- 10cl de crème
+- 50g de beurre
+- 60g de farine
+- 80cl d'eau
+- 100g de fromage râpé
 - sel
 - poivre
 - muscade
