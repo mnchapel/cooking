@@ -5,7 +5,7 @@
 - 10cl de crème
 - 50g de beurre
 - 60g de farine
-- 80cl d'eau
+- 75cl d'eau
 - 100g de fromage râpé
 - sel
 - poivre
