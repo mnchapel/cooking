@@ -8,9 +8,7 @@
 - sel
 
 ## Préparation
-First season tomato sauce with oil, salt, origan. Then put the sauce, mozzarella and salami on the pizza dough. Roll it tight and put in the freezer for 10 minutes.
-Then cut it in slices an put on a baking tray lined with parchment paper.
-Bake for 20 minutes at 200ºC and enjoy.
+
 ### Etape 1
 
 Assaisonner la purée de tomate avec de l'huile d'olive, du sel et de l'origan.
