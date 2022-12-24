@@ -11,37 +11,47 @@
 
 ## Préparation
 
+La **structure** du croque-monsieur sera la suivante :
+
+- fromage rapé (sommet)
+- béchamel
+- pain de mie
+- jambon blanc
+- fromage râpé
+- béchamel
+- pain de mie (base)
+
 ### Etape 1
 
 Préchauffez le four à 190°C.
 
 ### Etape 2
 
-Préparer la béchamel : faire fondre le beurre sur feu doux puis ajoutez la farine. Mélangez au fouet pendant quelques minutes. Ajoutez le lait froid, petit à petit, tout en fouettant. Ajouter la muscade et le sel, et laisser épaissir tout en fouettant.
+Préparer la **béchamel** : faire fondre le beurre sur feu doux puis ajoutez la farine. Mélangez au fouet pendant quelques minutes. Ajoutez le lait froid, petit à petit, tout en fouettant. Ajouter la muscade et le sel, et laisser épaissir tout en fouettant.
 
 ### Etape 3
 
-Tartiner la moitié des tranches de pain de mie avec la béchamel.
+Tartiner la moitié des tranches de **pain de mie** avec la **béchamel**.
 
 ### Etape 4
 
-Ajoutez un peu plus de la moitié du fromage râpé sur ces tranches de pain de mie.
+Parsemer avec un peu plus de la moitié du **fromage râpé**.
 
 ### Etape 5
 
-Ajouter le jambon sur le fromage râpé.
+Recouvrir de **jambon blanc**.
 
 ### Etape 6
 
-Recouvrir les tranches de jambon avec le reste des tranches de pain de mie.
+Recouvrir le jambon avec le reste des tranches de **pain de mie**.
 
 ### Etape 7
 
-Étaler le restant de la béchamel sur le dessus de chaque croque-monsieur.
+Étaler le restant de la **béchamel** sur le dessus de chaque croque-monsieur.
 
 ### Etape 8
 
-Ajouter sur chaque-croque-monsieur le restant du fromage râpé.
+Parsemer le dessus avec le restant du **fromage râpé**.
 
 ### Etape 9
 
