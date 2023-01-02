@@ -2,7 +2,7 @@ Pour 4 personnes
 
 # Ingrédients
 - 300g de viande hachée
-- 300g de patates
+- 600g de patates
 - 50g de parmersan
 - 50g de fromage râpé
 - 2 jaunes d'oeufs
