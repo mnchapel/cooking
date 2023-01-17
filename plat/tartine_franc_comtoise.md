@@ -11,7 +11,7 @@
 - 75g de crème épaisse
 - 2 c.à.s de moutarde
 - 7.5cl de vin blanc
-- 200g de vieux Comté râpé
+- 100g de vieux Comté râpé
 - Sel, poivre
 
 ## Préparation
