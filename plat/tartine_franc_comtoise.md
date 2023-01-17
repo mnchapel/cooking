@@ -38,7 +38,7 @@ Après 30 minutes de cuisson, ajouter 30 cl de bouillon de cuisson de la sauciss
  
  ### Etape 6
  
-Prechauffer le four à 200°, puis déposer les tranches de lard fumé sur une plaque de cuisson recouverte de papier sulfurisé. Cuire au four jusqu’à ce que les tranches aient la consistance de chips.
+Prechauffer le four à 200°, puis déposer les tranches de lard fumé sur une plaque de cuisson recouverte de papier sulfurisé. Cuire au four environ 5 minutes jusqu’à ce que les tranches aient la consistance de chips.
 
 ### Etape 7
 
