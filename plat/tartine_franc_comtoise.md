@@ -1,15 +1,15 @@
 ## Ingrédients pour 4 personnes
 
 - 2 baguettes de bon pain
-- 3 oignons moyens
+- 2 oignons moyens
 - 2 cubes de bouillon de boeuf
 - 8 tranches fines de lard fumé
 - 2 saucisses de Morteau
-- 80g de beurre
-- 60g de farine
-- 7.5cl de vinaigre
-- 75g de crème épaisse
-- 2 c.à.s de moutarde
+- 40g de beurre
+- 40g de farine
+- 5cl de vinaigre
+- 50g de crème épaisse
+- 2c.à.s de moutarde
 - 7.5cl de vin blanc
 - 100g de vieux Comté râpé
 - Sel, poivre
