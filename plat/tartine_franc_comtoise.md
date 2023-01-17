@@ -3,8 +3,8 @@
 - 2 baguettes de bon pain
 - 2 oignons moyens
 - 2 cubes de bouillon de boeuf
-- 8 tranches fines de lard fumé
-- 2 saucisses de Morteau
+- 4 tranches fines de lard fumé
+- 1 saucisse de Morteau (350g)
 - 40g de beurre
 - 40g de farine
 - 5cl de vinaigre
@@ -18,11 +18,11 @@
 
 ### Etape 1
 
-Déposer la saucisse dans une casserole. Verser de l’eau froide à 3 cm au-dessus de la saucisse. Ajouter le cube de bouillon de bœuf. Dès que l’eau frémit, cuire doucement 45 à 60 minutes (selon l’épaisseur de la saucisse).
+Déposer la saucisse dans une casserole. Verser de l’eau froide à 3 cm au-dessus de la saucisse. Ajouter le cube de bouillon de boeuf. Dès que l’eau frémit, cuire doucement 45 à 60 minutes (selon l’épaisseur de la saucisse).
 
 ### Etape 2
 
-Pendant ce temps, dans une casserole, fondre 40 g de beurre puis suer sans coloration les oignons émincés 5 minutes à couvert.
+Pendant ce temps, dans une casserole, fondre le beurre puis suer sans coloration les oignons émincés 5 minutes à couvert.
 
 ### Etape 3
 
@@ -46,7 +46,7 @@ Couper la baguette en 2 dans la largeur, puis les 1/2 baguettes encore en 2 dans
 
 ### Etape 8
 
-Couper la saucisse en rondelles de 1/2 cm d’épaisseur.
+Couper la saucisse en 12 rondelles.
 
 ### Etape 9
 
