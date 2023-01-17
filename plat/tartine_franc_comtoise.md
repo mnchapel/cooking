@@ -30,7 +30,7 @@ Ensuite, ajouter la farine, remuer, verser le vinaigre, et mélanger. Couvrir et
 
 ### Etape 4
 
-Après 30 minutes de cuisson, ajouter 30 cl de bouillon de cuisson de la saucisse. Réduire doucement sans couvercle jusqu’à obtenir une belle comptée d’oignons. Mélanger régulièrement.
+Après 30 minutes de cuisson, ajouter 45cl de bouillon de cuisson de la saucisse. Réduire doucement sans couvercle jusqu’à obtenir une belle comptée d’oignons. Mélanger régulièrement.
 
 ### Etape 5
 
