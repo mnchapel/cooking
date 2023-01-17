@@ -30,7 +30,7 @@ Ensuite, ajouter la farine, remuer, verser le vinaigre, et mélanger. Couvrir et
 
 ### Etape 4
 
-Après 30 minutes de cuisson, ajouter 45cl de bouillon de cuisson de la saucisse. Réduire doucement sans couvercle jusqu’à obtenir une belle comptée d’oignons. Mélanger régulièrement.
+Après 30 minutes de cuisson, ajouter 45 cl de bouillon de cuisson de la saucisse. Réduire doucement sans couvercle jusqu’à obtenir une belle comptée d’oignons. Mélanger régulièrement.
 
 ### Etape 5
 
@@ -54,7 +54,7 @@ A l’aide d’un pinceau, badigeonner les quarts de baguette avec le vin blanc,
 
 ### Etape 10
 
-Gratiner au four, puis une fois gratinées, déposer sur chaque tartine une chips de lard fumé.
+Gratiner au four pendant 15 minutes, puis une fois gratinées, déposer sur chaque tartine une chips de lard fumé.
 
 ## Références
 
