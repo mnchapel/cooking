@@ -20,7 +20,7 @@ Laisser refroidir.
 
 ### Etape 3
 
-Mettre dans un blender les échalottes, les tomates, les oeufs, le thon, la crème fraîche, du sel et du poivre, puis mixer jusqu'à avoir un mélange homogène.
+Mettre dans un blender les échalottes, les tomates, les oeufs, le thon (en prélever un peu pour la redevance au chat), la crème fraîche, du sel et du poivre, puis mixer jusqu'à avoir un mélange homogène.
 
 ### Etape 4
 
