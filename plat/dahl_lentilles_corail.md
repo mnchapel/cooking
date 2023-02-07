@@ -16,8 +16,8 @@ Pour 4 personnes
 
 # Préparation
 
-- Faire cuire le riz basmati comme indiqué sur le paquet et le mettre de côté (ici le riz est un accompagnement du plat. Il est possible de le faire cuire en parallèle du reste).
-- Emincer l'ail et les oignons et faire revenir dans une poêle avec un filet d'huile d'olive.
+- Faire cuire le riz basmati comme indiqué sur le paquet et le mettre de côté. A noter que le riz étant un accompagnement du plat, il est possible de le faire cuire en parallèle du reste.
+- Emincer l'ail et les oignons et faire revenir dans une sauteuse avec un filet d'huile d'olive.
 - Ajouter le curcuma, le poivre et mélanger. Laisser dorer 5 minutes.
 - Pendant ce temps, ajouter dans un saladier la pâte de curry, le lait de coco et l'eau, puis fouetter jusqu'à avoir un mélange homogène.
 - Ajouter le tout à la préparation, avec les lentilles corail et les épinards hachés grossièrement.
