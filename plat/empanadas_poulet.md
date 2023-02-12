@@ -1,4 +1,4 @@
-## Ingrédients pour X personnes
+## Ingrédients pour 4 personnes
 
 ### Pâte
 
