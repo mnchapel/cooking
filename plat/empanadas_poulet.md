@@ -65,5 +65,5 @@ Refermez et faire cuire à feu moyen à la poêle sans matière grasse.
 
 ## Références
 
-[Recette pour la pâte](https://www.instagram.com/p/Cg1X54JITo4/)
-[Recette garniture](https://recettehealthy.com/empanadas-poulet-fromage-frais/)
+- [Recette pour la pâte](https://www.instagram.com/p/Cg1X54JITo4/)
+- [Recette garniture](https://recettehealthy.com/empanadas-poulet-fromage-frais/)
