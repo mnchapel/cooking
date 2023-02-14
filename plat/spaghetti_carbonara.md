@@ -19,11 +19,11 @@ Pendant ce temps, débarrasser la viande de sa couenne, la couper en tranches pu
 
 ### Etape 3
 
-Faire griller la viande dans une sauteuse à feu vif, sans ajout de matière grasse. Le gras du guanciale doit fondre et les cubes doivent être croquants.
+Faire griller la viande dans le faitout à feu vif, sans ajout de matière grasse. Le gras du guanciale doit fondre et les cubes doivent être croquants.
 
 ### Etape 4
 
-Au bout de 2-3 minutes, retirer la sauteuse du feu et réserver les morceaux de viande bien croustillants. Laisser le gras dans la sauteuse pour la suite.
+Au bout de 2-3 minutes, retirer le faitout du feu et réserver les morceaux de viande bien croustillants. Laisser le gras dans le faitout pour la suite.
 
 ### Etape 5
 
@@ -31,7 +31,7 @@ L'eau pour les pâtes a dû se mettre à bouillir, donc plonger les pâtes dedan
 
 ### Etape 6
 
-Pendant ce temps, dans un bol, casser les oeufs pour ne conserver que les jaunes d'oeufs. Ajouter un peu de sel, du poivre (généreusement), le fromage rapé, et 2 cuillères à soupe d'eau de cuisson de pâtes.
+Pendant ce temps, dans un bol, casser les oeufs pour ne conserver que les jaunes d'oeufs. Ajouter un peu de sel, du poivre (généreusement), le fromage rapé, et 5 cuillères à soupe (ou une louche complète) d'eau de cuisson des pâtes.
 
 ### Etape 7
 
@@ -43,7 +43,7 @@ Attendre que les pâtes finissent de cuire, puis les égoutter.
 
 ### Etape 9
 
-Faire réchauffer la sauteuse avec la viande sur feu doux. Verser les pâtes, puis tout en mélangeant doucement, ajouter le mélange crémeux préparé. Attention à ce que les oeufs ne cuisent pas trop vite au risque d'avoir des oeufs brouillés ! Continuer de lier le tout jusqu'à avoir une préparation bien homogène.
+Faire réchauffer le faitout avec la viande sur feu doux. Verser les pâtes, puis tout en mélangeant doucement, ajouter le mélange crémeux préparé. Attention à ce que les oeufs ne cuisent pas trop vite au risque d'avoir des oeufs brouillés ! Continuer de lier le tout jusqu'à avoir une préparation bien homogène.
 
 ## Références
 
