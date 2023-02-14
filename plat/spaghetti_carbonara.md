@@ -15,7 +15,7 @@ Faire bouillir dans une grande casserole un grand volume d'eau *sans sel*.
 
 ### Etape 2
 
-Pendant ce temps, débarrasser la viande de sa couenne. Le couper en tranches puis en cubes.
+Pendant ce temps, débarrasser la viande de sa couenne, la couper en tranches puis en cubes.
 
 ### Etape 3
 
