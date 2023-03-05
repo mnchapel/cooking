@@ -27,7 +27,7 @@ Dans un saladier, battre les oeufs en omelette avec la crème liquide. Assaisonn
 
 ### Etape 4
 
- Verser le contenu du saladier sur la tarte aux 3 fromages. Puis enfourner le moule à tarte pendant 25 min.
+ Verser le contenu du saladier sur la tarte aux 3 fromages. Puis enfourner le moule à tarte pendant 30 min.
 
 ## Références
 
