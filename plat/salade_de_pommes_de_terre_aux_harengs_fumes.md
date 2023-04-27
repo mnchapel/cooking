@@ -7,6 +7,7 @@
 - 3 ails
 - Persil
 - 1 salade de saison (mâche)
+- Mayonnaise
 
 ## Préparation
 
@@ -20,7 +21,7 @@ Pendant ce temps, couper le harengs en petits tronçons, les cornichons en petit
 
 ### Etape 3
 
-Quand les pommes de terre sont cuites, les égoutter, puis les mettre dans le saladier. Pour finir, ajouter le persil.
+Quand les pommes de terre sont cuites, les égoutter, puis les mettre dans le saladier. Pour finir, ajouter le persil et un peu de mayonnaise.
 
 ### Etape 4
 
