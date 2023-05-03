@@ -1,7 +1,7 @@
 ## Ingrédients pour 4 personnes
 
 - 400g de spaghetti de type Barilla, De Cecco ou Voiello
-- 250g de guanciale (ou pancetta)
+- 250g de guanciale (ou pancetta) en bloc
 - 250g de pecorino romano (ou parmigiano reggiano)
 - 4 jaunes d'oeuf
 - 20g de poivre noir
