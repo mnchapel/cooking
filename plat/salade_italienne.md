@@ -10,7 +10,7 @@
 
 Pour la sauce
 
-- 30g Olive Oil
+- 30g d'huile d'olive
 - 3c.a.s de vinaigre de vin rouge
 - 1 gousse d'ail
 - 1/2c.a.c d'assaisonnement italien
