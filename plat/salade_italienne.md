@@ -1,11 +1,11 @@
 ## Ingrédients pour 4 personnes
 
 - 2 coeurs de salade Romaine
-- 16 tranches de salami
-- 6 tranches de Provolone (ou de Gouda)
+- 200g de dés de jambon
+- 8 tranches de Provolone (ou de Gouda)
 - 6 Pepperoncinis
 - 100g de tomates cerises
-- 150g de pois chiches
+- 250g de pois chiches
 - 2c.a.s de basilic
 
 Pour la sauce
@@ -36,7 +36,7 @@ Découper le salami, le Provolone et les pepperoncinis en petits morceaux.
 
 ### Etape 3
 
-Mélanger tout les ingrédients dans un salaider.
+Mélanger tout les ingrédients dans un saladier.
 
 ### Etape 4
 
