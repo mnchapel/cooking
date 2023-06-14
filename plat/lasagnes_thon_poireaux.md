@@ -19,11 +19,11 @@
 
 ### Etape 1
 
-Lavez et coupez les poireaux. Pelez et émincez l'oignon. Faites les revenir dans une poêle à feu moyen avec un filet d'huile d'olive pendant 10 à 15 minutes. Ajoutez un fond d'eau si nécessaire.
+Lavez et coupez les poireaux. Pelez et émincez l'oignon. Faites les revenir dans une poêle à feu moyen avec un filet d'huile d'olive pendant 15 minutes à couvert. Ajoutez un fond d'eau si nécessaire.
 
 ### Etape 2
 
-Egouttez le thon, émiettez-le et ajoutez-le aux poireaux avec la crème, le vin blanc et une pincée de poivre. Laissez cuire environ 10 à 15 minutes sans couvercle. Il faut qu'en fin de cuisson une partie du liquide soit préservée pour permettre ensuite aux feuilles de lasagne de gonfler pendant la cuisson au four.
+Egouttez le thon, émiettez-le et ajoutez-le aux poireaux avec la crème, le vin blanc et une pincée de poivre. Laissez cuire environ 15 minutes sans couvercle. Il faut qu'en fin de cuisson une partie du liquide soit préservée pour permettre ensuite aux feuilles de lasagne de gonfler pendant la cuisson au four.
 
 ### Etape 3
 
