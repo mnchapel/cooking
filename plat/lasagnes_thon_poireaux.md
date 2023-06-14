@@ -6,7 +6,7 @@
 - 300g de thon en conserve (net égoutté)
 - Huile d'olive
 - 30cl crème fraiche
-- 1 verre de vin blanc sec (optionnel)
+- 25cl de vin blanc sec
 - Poivre noir
 
 ## Pour la béchamel
