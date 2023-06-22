@@ -19,7 +19,7 @@ Faire sauter les champignons dans un grand faitout avec de l'huile de manière �
 
 ### Etape 2
 
-Y incorporer les steaks hachés coupé au préalable en cubes, ainsi que l’oignon. Laisser revenir le tout environ 10 minutes.
+Y incorporer les steaks hachés coupé au préalable en cubes, ainsi que l’oignon. Laisser revenir le tout environ 15 minutes.
 
 ### Etape 3
 
