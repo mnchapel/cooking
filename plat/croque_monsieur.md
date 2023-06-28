@@ -1,13 +1,13 @@
 ## Ingrédients pour 2 personnes
 
-- 8 tranches de pain de mie complet
-- 200 g de jambon blanc
-- 150 g de comté râpé (ou cantal ou gruyère)
-- 25 g de beurre
-- 25 g de farine
-- 25 cl de lait
-- sel
-- muscade
+- 16 larges tranches de pain de mie complet
+- 16 tranches de jambon blanc
+- 300g de comté râpé (ou cantal ou gruyère)
+- 60g de beurre
+- 60g de farine
+- 60cl de lait
+- Sel
+- Muscade
 
 ## Préparation
 
