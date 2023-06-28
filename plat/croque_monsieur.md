@@ -1,4 +1,4 @@
-## Ingrédients pour 2 personnes
+## Ingrédients pour 4 personnes
 
 - 16 larges tranches de pain de mie complet
 - 16 tranches de jambon blanc
