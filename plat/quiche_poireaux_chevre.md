@@ -1,6 +1,7 @@
 ## Ingrédients pour 4 personnes
 
 - 1 pâte brisée
+- 400g fromage de chèvre
 - 3 poireaux
 - 3 oeufs
 - 20cl de crême fraiche
