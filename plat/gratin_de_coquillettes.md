@@ -11,19 +11,19 @@
 
 ### Etape 1
 
-Faire cuire les coquillettes comme indiqué sur le paquet.
+Faire cuire les **coquillettes** comme indiqué sur le paquet.
 
 ### Etape 2
 
-Verser les pâtes dans un saladier et ajouter tout de suite la crème puis mélanger.
+Verser les pâtes dans un saladier et ajouter tout de suite la **crème** puis mélanger.
 
 ### Etape 3
 
-Ajouter le gruyère coupé en dés et mélanger.
+Ajouter le **gruyère** coupé en dés et mélanger.
 
 ### Etape 4
 
-Verser le tout dans un plat à gratin et parsemer de gruyère râpé et de basilic.
+Verser le tout dans un plat à gratin et parsemer de **gruyère râpé** et de **basilic**.
 
 ### Etape 5
 
