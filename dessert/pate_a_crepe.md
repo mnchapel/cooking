@@ -1,11 +1,11 @@
 ## Ingrédients pour 2 personnes
 
-- 250g de farine
-- 3 oeufs
-- 25cl de lait
-- 25cl d'eau
-- 2 c.à.s d'huile de tournesol
-- 2 c.à.s de fleur d'oranger
+- 375g de farine
+- 5 oeufs
+- 37.5cl de lait (1/4L + 1/8L)
+- 37.5cl d'eau (1/4L + 1/8L)
+- 3 c.à.s d'huile de tournesol
+- 3 c.à.s de fleur d'oranger
 - 1/2 c.à.c de sel fin
 
 ## Préparation
