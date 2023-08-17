@@ -1,4 +1,4 @@
-## Ingrédients pour 2 personnes
+## Ingrédients pour environ 20 crêpes
 
 - 375g de farine
 - 5 oeufs
