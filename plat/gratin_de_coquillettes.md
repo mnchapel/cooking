@@ -2,10 +2,10 @@
 
 - 500g de coquillettes
 - 250g de gruyère
-- 150g de gruère râpé
+- 150g de gruyère râpé
 - 400g de dés de jambon (2 boîtes)
 - 20cl de crème fraîche
-- basilic
+- Basilic
 
 ## Préparation
 
