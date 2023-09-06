@@ -10,10 +10,12 @@
 - piment d'Espelette
 
 # Préparation
-- Emincer les oignons et les faire revenir dans l'huile d'olives.
-- Egoutter les tomates et les émincer grossièrement.
-- Etendre la pâte brisée dans le moule.
+- Emincer les **oignons** et les faire revenir dans l'huile d'olives.
+- Egoutter les **tomates séchées** et les émincer grossièrement.
+- Etendre la **pâte brisée** dans le moule.
 - Préchauffer le four à 225°C.
-- Disposer sur le fond de tarte les oignons et les tomates.
-- Mélanger les oeufs et le lait et ajouter 1 ou 2 pincées de piment d'Espelette.
+- Disposer sur le fond de tarte les **oignons** et les **tomates séchées**.
+- Mélanger les **oeufs** et le **lait** et ajouter 1 ou 2 pincées de **piment d'Espelette**.
+- Verser le mélange sur la tarte.
+- Ajouter le **basilic** et le **gruyère râpé** au dessus.
 - Cuire 10 mn à 225°C puis baisser la température à 190°C et poursuivre la cuisson 20 à 25 mn.
