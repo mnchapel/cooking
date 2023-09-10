@@ -35,7 +35,7 @@ Badigeonnez la **pâte à pizza** avec le **coulis de tomate** en laissant un bo
 
 ### Etape 6
 
-Disposez les lamelles d'oignons cuites sur la pâte puis rabattez les bords de pâte sur les oignons et badigeonnez les bords de pâte d'huile d'olive.
+Disposez les lamelles d'oignons cuites sur la pâte puis rabattez les bords de pâte sur les oignons et badigeonnez les bords de pâte d'**huile d'olive**.
 
 ### Etape 7
 
@@ -43,7 +43,7 @@ Mettez la tarte à cuire pendant 20 minutes dans un four préchauffé à 200°C.
 
 ### Etape 8
 
-Servez la tarte à l'oignon en déposant la burrata au milieu puis assaisonnez-la avec un filet d'huile d'olive, un tour de poivre et des feuilles de basilic.
+Servez la tarte à l'oignon en déposant la **burrata** au milieu puis assaisonnez-la avec un filet d'**huile d'olive**, un tour de **poivre** et des feuilles de **basilic**.
 
 ## Références
 
