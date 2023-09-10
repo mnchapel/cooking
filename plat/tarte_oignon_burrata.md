@@ -31,7 +31,7 @@ Ajoutez 2 cuillères à soupe d'eau, mélangez et laissez compotée un peu penda
 
 ### Etape 5
 
-Badigeonnez la **pâte à pizza** avec le **coulis de tomate** en laissant un bord de 4 cm et saupoudrez d'emmental râpé.
+Badigeonnez la **pâte à pizza** avec le **coulis de tomate** en laissant un bord de 4 cm et saupoudrez d'**emmental râpé**.
 
 ### Etape 6
 
