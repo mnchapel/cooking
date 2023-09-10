@@ -1,4 +1,4 @@
-## Ingrédients pour X personnes
+## Ingrédients pour 4 personnes
 
 - 1 pâte à pizza
 - 3 oignons
