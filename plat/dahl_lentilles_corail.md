@@ -29,7 +29,7 @@ Ajouter le **curcuma**, le **poivre** et mélanger. Laisser dorer 5 minutes.
 
 ### Etape 4
 
-Pendant ce temps, ajouter dans un saladier la **pâte de curry**, le **lait de coco** et l'eau, puis fouetter jusqu'à avoir un mélange homogène.
+Pendant ce temps, ajouter dans un saladier la **pâte de curry**, le **lait de coco** et l'**eau**, puis fouetter jusqu'à avoir un mélange homogène.
 
 ### Etape 5
 
