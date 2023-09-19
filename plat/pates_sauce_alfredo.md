@@ -40,7 +40,7 @@ Un fois le poulet cuit, retirer le de la pôele et verser l'eau de cuisson des p
 
 ### Etape 6
 
-Lorsque la feta a fondue (ou quasiment fondues complètement), ajouter les pâtes et le poulet. Laisser chauffer 2-3 minutes.
+Lorsque la feta a fondue (ou quasiment fondue), ajouter les pâtes et le poulet. Laisser chauffer 2-3 minutes.
 
 ## Références
 
