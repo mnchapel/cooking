@@ -12,14 +12,13 @@ Pour 4 personnes
 - sel, poivre
 
 # Préparation
-- Hacher finement les oignons et les gousses d'ail.
-- Les faire revenir dans un filet d'huile d'olive jusqu'à ce qu'ils soient translucides mais pas encore colorés.
-- Mélanger la viande hachée avec l'oignon et l’ail hachés, les herbes ciselées, l’œuf entier et un peu de chapelure, dans un saladier.
-- Saler et poivrer à votre goût.
+- Hacher finement les **oignons** et les gousses d'**ail**.
+- Les faire revenir dans un filet d'**huile d'olive** jusqu'à ce qu'ils soient translucides mais pas encore colorés.
+- Mélanger la **viande hachée** avec les **oignons** et l’**ail** hachés, les **herbes ciselées**, les **œufs** et un peu de **chapelure** dans un saladier.
+- **Saler** et **poivrer** à votre goût.
 - Former des boulettes de la taille d'une grosse noix, avec la préparation.
-- Passer les boulettes de viande dans la chapelure en veillant à les en recouvrir entièrement.
-- Faire chauffer 3 c-a-s d'huile d'olive dans une sauteuse.
+- Passer les boulettes de viande dans la **chapelure** en veillant à les en recouvrir entièrement.
+- Faire chauffer 3 c-a-s d'**huile d'olive** dans une sauteuse.
 - Faire revenir les boulettes pendant 10 minutes environ jusqu'à ce qu'elles soient bien dorées. Penser à retourner régulièrement vos boulettes afin de les cuire de manière homogène.
-- 
 
 Recette d'origine : https://www.cuisineaz.com/recettes/boulettes-de-viande-hachee-40212.aspx
