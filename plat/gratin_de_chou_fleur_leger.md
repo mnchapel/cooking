@@ -2,7 +2,7 @@
 
 - 2 choux-fleurs
 - 2 bouillons de volaille
-- 10cl de crème
+- 10cl de crème (optionnelle)
 - 50g de beurre
 - 60g de farine
 - 75cl d'eau
