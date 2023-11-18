@@ -27,7 +27,7 @@ Faire bouillir 50 cl d’eau et y diluer les cubes de bouillon.
 
 ### Etape 4
 
-Puis verser le bouillon dans le faitout, ajouter le vin blanc, et le laurier et laisser mijoter une dizaine de minutes à feu moyen.
+Puis verser le bouillon dans le faitout, ajouter le vin blanc, et le laurier et laisser mijoter à couvert une dizaine de minutes à feu faible.
 
 ### Etape 5
 
