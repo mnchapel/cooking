@@ -23,7 +23,7 @@ Y incorporer les steaks hachés coupé au préalable en cubes, ainsi que l’oig
 
 ### Etape 3
 
-Faire bouillir 50 cl d’eau et y diluer les cubes de bouillon.
+Faire bouillir 70 cl d’eau et y diluer les cubes de bouillon.
 
 ### Etape 4
 
