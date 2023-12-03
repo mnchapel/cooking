@@ -2,13 +2,13 @@
 
 - 1 baguette de gros pain
 - 2 oignons moyens
-- 2 cube de bouillon de boeuf
+- 1 cube de bouillon de boeuf
 - 4 tranches fines de lard fumé
 - 1 saucisse de Morteau (350g)
 - 40g de beurre
 - 40g de farine
 - 5cl de vinaigre
-- 50g de crème épaisse
+- 10g de crème épaisse
 - 2c.à.s de moutarde
 - 7.5cl de vin blanc
 - 100g de vieux Comté râpé
