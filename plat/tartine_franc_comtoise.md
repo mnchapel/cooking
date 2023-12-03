@@ -1,8 +1,8 @@
 ## Ingrédients pour 4 personnes
 
-- 2 baguettes de bon pain
+- 1 baguette de gros pain
 - 2 oignons moyens
-- 2 cubes de bouillon de boeuf
+- 2 cube de bouillon de boeuf
 - 4 tranches fines de lard fumé
 - 1 saucisse de Morteau (350g)
 - 40g de beurre
@@ -18,7 +18,7 @@
 
 ### Etape 1
 
-Déposer la saucisse dans une casserole. Verser de l’eau froide à 3 cm au-dessus de la saucisse. Ajouter le cube de bouillon de boeuf. Dès que l’eau frémit, cuire doucement 45 à 60 minutes (selon l’épaisseur de la saucisse).
+Déposer la saucisse dans une casserole. Verser de l’eau froide à 3 cm au-dessus de la saucisse. Ajouter les cubes de bouillon de boeuf. Dès que l’eau frémit, cuire doucement 45 à 60 minutes à feu faible (selon l’épaisseur de la saucisse).
 
 ### Etape 2
 
@@ -26,11 +26,11 @@ Pendant ce temps, dans une casserole, fondre le beurre puis suer sans coloration
 
 ### Etape 3
 
-Ensuite, ajouter la farine, remuer, verser le vinaigre, et mélanger. Couvrir et cuire tout doucement 30 minutes en remuant régulièrement pour éviter aux oignons d’attacher au fond de la casserole.
+Ensuite, ajouter la farine, remuer, verser le vinaigre, et mélanger. Couvrir et cuire tout doucement à feu faible 30 minutes en remuant régulièrement pour éviter aux oignons d’attacher au fond de la casserole.
 
 ### Etape 4
 
-Après 30 minutes de cuisson, ajouter 45 cl de bouillon de cuisson de la saucisse. Réduire doucement sans couvercle jusqu’à obtenir une belle comptée d’oignons. Mélanger régulièrement.
+Après 30 minutes de cuisson, ajouter 45 cl de bouillon de cuisson de la saucisse. Réduire doucement sans couvercle jusqu’à obtenir une belle compotée d’oignons. Mélanger régulièrement.
 
 ### Etape 5
 
