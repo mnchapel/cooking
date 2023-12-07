@@ -15,3 +15,7 @@
 - Feu faible == thermostat 3
 - Feu moyen == thermostat 4
 - Feu fort == thermostat 5
+
+## Documentation de référence
+
+- [The Cook's Thesaurus](https://foodsubs.com/).
