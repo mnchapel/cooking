@@ -30,7 +30,7 @@ Enfourner 30 minutes.
 
 ### Etape 5
 
-Faire cuire les **pâtes** comme indiquées sur le paquet.
+Faire cuire les **pâtes** comme indiqué sur le paquet.
 
 ### Etape 6
 Attendre que le plat au four refroidisse un peu. Faire sortir les gousses d'ail de leur tête en appuyant dessus et transvaser tous les ingrédients dans un mixeur. Ajouter le **St Morêt** et mixer.
