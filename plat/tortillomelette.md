@@ -24,7 +24,7 @@ Battre 2 **oeufs** avec du **paprika fumé** comme pour une omelette.
 
 ### Etape 4
 
-Verser le mélange d'oeuf sur les épinards et les oignons une fois que les feuilles d'épinards auront commencer à se réduire. Ajouter immédiatement une **tortilla** par dessus l'omelette de sorte à ce qu'elle colle à l'omelette.
+Verser le mélange d'oeuf sur les épinards et les oignons une fois que les feuilles d'épinards auront commencé à réduire. Ajouter immédiatement une **tortilla** par dessus l'omelette de sorte à ce qu'elle colle à l'omelette.
 
 ### Etape 5
 
