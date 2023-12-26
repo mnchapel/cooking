@@ -41,4 +41,4 @@ Servir les pâtes avec leur sauce.
 
 ## Références
 
-- (Recette d'origine)[https://www.instagram.com/p/Czt2ZrVp85N/]
+- [Recette d'origine](https://www.instagram.com/p/Czt2ZrVp85N/)
