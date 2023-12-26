@@ -22,7 +22,7 @@ Couper le haut de la **tête d'ail** pour laisser apparent le haut des gousses �
 
 ### Etape 3
 
-Placer la **tête d'ail**, les morceaux de **poivron rouge** et d'**oignon rouge** ainsi que les **tomates cerises** dans un plat pour le four. Aissaisonner avec **sel**, **poivre** et arroser la **tête d'ail** avec l'**huile d'olive**.
+Placer la **tête d'ail**, les morceaux de **poivron rouge** et d'**oignon rouge** ainsi que les **tomates cerises** dans un plat pour le four. Aissaisonner avec **sel**, **poivre**, **thym** et arroser la **tête d'ail** avec l'**huile d'olive**.
 
 ### Etape 4
 
