@@ -1,4 +1,4 @@
-## Ingrédients pour X personnes
+## Ingrédients pour 4 personnes
 
 - 400g de spaghetti (cru)
 - 1 tête d'ail
