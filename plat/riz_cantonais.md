@@ -2,11 +2,11 @@
 
 - 300g de riz thaï parfumé
 - 1 oignon moyen
-- 1 gousse d’ail
+- 2 gousse d’ail
 - 100g de petits pois
-- 1 carotte
-- 3 oeufs
-- Xg de dés de jambon
+- 2 carottes moyennes
+- 4 oeufs
+- 300g de dés de jambon
 - 3 c.à.s à soupe de sauce soja
 - Huile d'olive
 - Poivre
