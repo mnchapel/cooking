@@ -5,7 +5,7 @@
 - 200g de sucre
 - 140g de beurre
 - 8 oeufs (7 entiers + 1 blanc, et le 8ème jaune pour dorer)
-- 4 c.à.s de fleur d’oranger
+- 6 c.à.s de fleur d’oranger (ou de vanille)
 
 ## Préparation
 
