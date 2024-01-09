@@ -31,7 +31,7 @@ Verser le **gros sel** ou le **sel de Guérande** dans le fond de la plaque du f
 
 ### Etape 6
 
-Enfourner pendant environ 30 minutes selon la puissance de votre four. A mi-cuisson mélanger bien les **pommes de terre**. Quand elles sont bien fondantes, vérifier la cuisson avec la pointe d'un couteau, puis les sortir du four.
+Enfourner pendant environ 35 minutes selon la puissance de votre four. A mi-cuisson mélanger bien les **pommes de terre**. En fin de cuisson, vérifier avec la pointe d'un couteau si elles sont bien fondantes, puis les sortir du four.
 
 ## Références
 
