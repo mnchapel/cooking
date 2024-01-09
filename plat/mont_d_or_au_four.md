@@ -24,7 +24,7 @@ Piquer l'**ail** autour du trou.
 
 ### Etape 5
 
-Faire gratiner au four pendant 30 minutes, tout en remuer en cours de cuisson pour obtenir une pâte onctueuse.
+Faire gratiner au four pendant 35 minutes, tout en remuer en cours de cuisson pour obtenir une pâte onctueuse.
 
 ## Références
 
