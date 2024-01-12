@@ -9,7 +9,6 @@
 - 1/2c.a.c. de cannelle en poudre
 - 1/2c.a.c. de gingembre en poudre
 - 1/4c.a.c. de clous de girofle broyés
-- 1c.a.c d'eau de rose
 - sel/poivre
 
 ## Préparation
