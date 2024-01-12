@@ -15,21 +15,25 @@
 
 ### Etape 1
 
-Laissez les **abricots** entiers ou coupez-les en deux. Mettez-les dans une jatte, couvrez-les d'eau et laissez-les reposer, à couvert, au réfrigérateur, pendant 12h.
+Couper les **abricots** en deux et les déposer dans un saladier. Les couvrir d'eau, puis les laisser reposer à couvert au réfrigérateur pendant 12h.
 
 ### Etape 2
 
-Lavez, égouttez les **raisins** secs. Détaillez l'**agneau** en dés. Pelez et hachez les **oignons** finement.
+Détailler l'**agneau** en dés. Peler et hacher les **oignons** finement.
 
 ### Etape 3
 
-Faites chauffer l'huile dans une grande pôele, puis faites-y revenir la viande et les oignons, à feu moyen.
+Faites chauffer l'huile dans une grande pôele, puis y faire revenir la viande et les oignons, à feu moyen.
 
 ### Etape 4
 
-Ajoutez les **abricots** avec leur eau, les **raisins**, la **coriandre**, la **cannelle**, le **gingembre** et les **clous de girofle**. Versez suffisamment d'eau pour couvrir le tout. Faites mijoter à couvert, sur feu doux, pendant environ 45 minutes.
+Laver et égoutter les **raisins** secs. 
 
 ### Etape 5
+
+Ajouter les **abricots** avec leur eau, les **raisins**, la **coriandre**, la **cannelle**, le **gingembre** et les **clous de girofle**. Verser suffisamment d'eau pour couvrir le tout. Faites mijoter à couvert, sur feu moyen, pendant environ 45 minutes.
+
+### Etape 6
 
 A servir avec de la semoule.
 
