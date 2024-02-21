@@ -1,10 +1,10 @@
 ## Ingrédients pour 4 personnes
 
-- 200g de pâte brisée
-- 200g de lardons
-- 20cl de crême fraiche
-- 20cl de lait
-- 3 oeufs
+- 200 g de pâte brisée
+- 200 g de lardons
+- 80 g de comté coupés en lamelles
+- 40 cl de crême fraiche épaisse
+- 6 oeufs
 - Sel
 - Poivre
 - Muscade
@@ -13,36 +13,28 @@
 
 ### Etape 1
 
-Préchauffer le four à 180°C (thermostat 6).
+Préchauffer le four à 210°C (thermostat 6).
 
 ### Etape 2
 
-Etaler la pâte dans un moule et la piquer avec une fourchette.
+Etaler la pâte dans un moule, piquer le fond avec une fourchette, puis faire cuire la pâte à blanc pendant 10 minutes.
 
 ### Etape 3
 
-Faire rissoler les lardons à la poêle.
+Pendant ce temps, faire rissoler les lardons dans une poêle bien chaude.
 
 ### Etape 4
 
-Battre les oeufs, la crème fraîche et le lait.
+Préparer la migaine : dans un saladier, mélanger les oeufs avec la crème fraiche, puis ajouter le sel, le poivre et la muscade.
 
 ### Etape 5
 
-Ajouter les lardons.
-
-### Etape 5
-
-Assaisonner de sel, de poivre et de muscade.
+Sur le fond de tarte, disposer les lamelles de comté et les lardons, puis verser la migaine.
 
 ### Etape 6
 
-Verser sur la pâte.
-
-### Etape 7
-
-Faire cuire 45 à 50 min au four à  180°C (thermostat 6).
+Abaisser la température du four à 180°C (thermostat 6) et enfourner la tarte pendant 30 minutes.
 
 ## Références
 
-- <https://www.marmiton.org/recettes/recette_quiche-lorraine_30283.aspx>
+- <https://www.marieclaire.fr/cuisine/la-quiche-lorraine-facon-cyril-lignac,1433915.asp>
