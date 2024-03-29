@@ -44,7 +44,7 @@ Saupoudrer les tomates farcies de chapelure et y déposer sur chacune d’elle u
 
 ### Etape 8
 
-Enfin, verser un fond d’eau dans le plat et enfourner les tomates farcies pour 10 à 15 minutes de cuisson
+Enfin, verser un fond d’eau (environ 5 cl) dans le plat et enfourner les tomates farcies pour 10 à 15 minutes de cuisson
 
 ## Références
 
