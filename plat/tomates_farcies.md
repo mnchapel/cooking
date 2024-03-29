@@ -8,6 +8,7 @@
 - 1/2 botte de persil plat
 - 20 g de beurre
 - Chapelure de pain
+- Herbe de provence
 - Huile d'olive
 - Sel
 - Poivre
@@ -20,7 +21,7 @@ Dans une casserole, faire chauffer un filet d’huile d’olive puis ajouter l�
 
 ### Etape 2
 
-Verser la sauce tomate et agrémenter de persil finement ciselé avant de laisser mijoter 15 à 20 minutes à feu doux.
+Verser la sauce tomate et agrémenter de persil finement ciselé et d'herbe de provence avant de laisser mijoter 15 à 20 minutes à feu doux.
 
 ### Etape 3
 
