@@ -5,23 +5,23 @@
 - 25cl de crème fraiche semi-épaisse
 - 2 cubes de bouillon
 - 1.5L d'eau
+- 20cl de vin blanc
 - 2 boîtes de parmesan en copeaux
 - 16 tranches de jambon cru
-- 20cl de vin blanc
 
 ## Préparation
 
 ### Etape 1
 
-Emincer les oignons et les faire revenir à la poele dans de l'huile d'olive.
+Emincer les **oignons** et les faire revenir à la poele dans de l'huile d'olive.
 
 ### Etape 2
 
-Ajouter le riz et laisser chauffer jusqu'à ce que le riz devienne translucide.
+Ajouter le **riz** et laisser chauffer jusqu'à ce que le riz devienne translucide.
 
 ### Etape 3
 
-Faire bouillir l'eau et ajouter les cubes de bouillon.
+Faire bouillir l'**eau** et ajouter les **cubes de bouillon**.
 
 ### Etape 4
 
@@ -29,15 +29,15 @@ Lorsque le riz est translucide, ajouter le bouillon petit à petit.
 
 ### Etape 5
 
-Une fois le bouillon évaporé et le riz bien tendre, ajouter le vin blanc.
+Une fois le bouillon évaporé et le riz bien tendre, ajouter le **vin blanc**.
 
 ### Etape 6
 
-Une fois le vin blanc évaporé, ajouter la crème et laisser cuire 5min.
+Une fois le vin blanc évaporé, ajouter la **crème** et laisser cuire 5 minutes.
 
 ### Etape 7
 
-Servir avec des copeaux de parmesan et du jambon cru.
+Servir avec des **copeaux de parmesan** et du **jambon cru**.
 
 ## Références
 
