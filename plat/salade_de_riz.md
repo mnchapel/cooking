@@ -9,7 +9,7 @@
 
 **Pour la sauce :**
 
-Voir la recette de [sauce vinaigrette à la moutarde]().
+Voir la recette de [sauce vinaigrette à la moutarde](https://github.com/mnchapel/cooking/blob/main/sauce/sauce_vinaigrette_a_la_moutarde.md).
 
 ## Préparation
 
