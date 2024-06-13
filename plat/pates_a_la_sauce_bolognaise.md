@@ -1,8 +1,21 @@
-## Ingrédients pour X personnes
+## Ingrédients pour 4 personnes
 
-- [2 oignons moyens]
-- [25cl de vin blanc]
-- [1c.a.s de farine]
+- 300 g de boeuf hâché
+- 100 g de porc haché ou de chair à saucisse
+- 50 g de pancetta ou de lardons
+- 50 g de carottes
+- 50 g de celeri branche
+- 350 g de puple de tomate
+- 1 gousse d'ail
+- 1 oignon jaune
+- 1 échalotte
+- 10 cl de vin blanc
+- 1 pincée de sucre
+- 5 cl de lait
+- 1 branche de thym
+- 1 feuille de laurier
+- Huile d’olive
+- Sel et poivre
 
 ## Préparation
 
