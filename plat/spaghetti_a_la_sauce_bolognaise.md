@@ -5,7 +5,7 @@
 - 50 g de pancetta ou de lardons
 - 50 g de carottes
 - 50 g de celeri branche
-- 350 g de puple de tomate
+- 400 g de puple de tomate
 - 1 gousse d'ail
 - 1 oignon jaune
 - 1 échalotte
