@@ -37,7 +37,7 @@ Ajouter le tout à la préparation, avec les **lentilles corail** et les **épin
 
 ### Etape 6
 
-Laisser mijoter 15 minutes à feu moyen.
+Laisser mijoter 15 minutes à couvert et à feu moyen.
 
 ### Etape 7
 
