@@ -3,9 +3,9 @@
 - 16 larges tranches de pain de mie complet
 - 16 tranches de jambon blanc
 - 300g de comté râpé (ou cantal ou gruyère)
-- 60g de beurre
-- 60g de farine
-- 60cl de lait
+- 55g de beurre
+- 55g de farine
+- 55cl de lait
 - Sel
 - Muscade
 
