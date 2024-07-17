@@ -35,4 +35,4 @@ Incorporer à la préparation les **tomates séchées**, le **parmesan**, le **b
 
 ## Références
 
-- https://www.demotivateur.fr/food/15-ide-es-d-omelettes-delicieuses-pour-des-repas-faciles-et-rapides-24429)https://www.demotivateur.fr/food/15-ide-es-d-omelettes-delicieuses-pour-des-repas-faciles-et-rapides-24429
+- [Recette d'origine](https://www.demotivateur.fr/food/15-ide-es-d-omelettes-delicieuses-pour-des-repas-faciles-et-rapides-24429)
