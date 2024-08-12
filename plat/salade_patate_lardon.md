@@ -26,11 +26,11 @@ Faire cuire les **lardons**.
 
 ### Etape 4
 
-Mélanger le **yaourt grec**, la **moutarde**, l'**huile d'olive**, l'**échalote** coupée finement, le **sel**, le **poivre** et le **parmesan** ensemble pour faire la sauce.
+Pendant ce temps, dans un grand saladier, mélanger le **yaourt grec**, la **moutarde**, l'**huile d'olive**, l'**échalote** coupée finement, le **sel**, le **poivre** et le **parmesan** ensemble pour faire la sauce.
 
 ### Etape 5
 
-Une fois les pommes de terre et les lardons cuits, mélanger les ensemble et ajouter la sauce. Ajouter aussi un peu de **ciboulette et/ou herbes de Provence**.
+Une fois les pommes de terre et les lardons cuits, les verser dans le saladier. Ajouter aussi un peu de **ciboulette et/ou herbes de Provence**.
 
 ## Références
 
