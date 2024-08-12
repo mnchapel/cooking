@@ -1,6 +1,6 @@
 ## Ingrédients pour 4 personnes
 
-- 1kg de pomme de terres
+- 1.5kg de pomme de terres
 - 400g de lardons
 - 6c.a.s. de yaourt grec
 - 2c.a.s. de moutarde
