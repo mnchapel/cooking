@@ -4,7 +4,7 @@
 - 8cl de lait
 - 10 tomates séchées
 - 50g de parmesan
-- 140g de chozizo
+- 140g de chorizo
 - 350g de pommes de terre risolées en cube
 - 2 échalotes
 - 2c.a.s de basilic
@@ -31,7 +31,7 @@ Incorporer à la préparation les **tomates séchées**, le **parmesan**, le **b
 
 ### Etape 5
 
-**Beurrer** un moule rond de diamètre 20 cm et y verser la préparation aux œufs. Placer la frittata au four et faire cuire de 15 à 20 minutes ou jusqu'à ce que les œufs soient fermes.
+**Beurrer** un moule rond de diamètre 20 cm et y verser la préparation aux œufs. Placer la frittata au four et faire cuire de 30 minutes ou jusqu'à ce que les œufs soient fermes.
 
 ## Références
 
