@@ -2,8 +2,8 @@
 
 - 350 g de lentilles
 - 5 tomates
-- 2 boîtes de lardons allumettes (400 g)
-- 2 paquets de feta (300 g)
+- 400 g de lardons allumettes
+- 300 g de feta
 - 1 oignon rouge ou 2 échalotes
 - 6 cuillères à soupe de vinaigre balsamique
 - 6 cuillères à soupe d'huile d'olive
