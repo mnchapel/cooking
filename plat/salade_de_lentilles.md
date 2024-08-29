@@ -1,17 +1,22 @@
 ### Ingrédients pour 4 personnes
 
+**Pour la salade :**
+
 - 350 g de lentilles
 - 5 tomates
 - 400 g de lardons allumettes
 - 300 g de feta
+
+**Pour la sauce :**
+
 - 1 oignon rouge ou 2 échalotes
-- 6 cuillères à soupe de vinaigre balsamique
-- 6 cuillères à soupe d'huile d'olive
-- 2 cuillères à soupe d'huile de noisette
-- 2 cuillères à soupe de miel
-- 2 pincées de curry
-- sel
-- poivre
+- 9 cuillères à soupe de vinaigre balsamique
+- 9 cuillères à soupe d'huile d'olive
+- 3 cuillères à soupe d'huile de noisette
+- 3 cuillères à soupe de miel
+- 3 pincées de curry
+- Sel
+- Poivre
 
 ### Préparation
 
