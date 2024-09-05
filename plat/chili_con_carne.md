@@ -6,7 +6,7 @@
 - 720g de tomates pelées (net égoutté, soit 1 grosse + 1 petite boîtes)
 - 750g de haricots rouges (net égoutté, soit 1 grosse + 1 petite boîtes)
 - 1kg de boeuf hâché
-- 2 cubes de bouillon
+- 2 cubes de bouillon de boeuf
 - 4 c.à.s d'olives noires dénoyautées
 - 1 c.à.c de cumin
 - 1 c.à.c d'origan séché
@@ -30,7 +30,7 @@ Pendant ce temps, couper le poivron en dés et préparer 50cl de bouillon avec l
 
 ### Etape 4
 
-Ajouter à la préparation les dés de poivron, les tomates et les olives noires. Mouiller avec le bouillon. Assaisoner avec le cumin, l'origan, le piment et le Tabasco. Saler, remuer consciencieusement, mettre sur feux doux, et laisser mijoter pendant 1 heure.
+Ajouter à la préparation les dés de poivron, les tomates et les olives noires. Mouiller avec le bouillon. Assaisoner avec le cumin, l'origan, le piment et le Tabasco. Saler, remuer consciencieusement, mettre sur feux moyen, et laisser mijoter pendant 1 heure.
 
 ### Etape 5
 
