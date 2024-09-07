@@ -14,11 +14,11 @@
 
 ### Etape 2
 
-Mettre les pommes de terre dans la coctte minutes, ajouter de l'eau, ajouter le **sel**, et faire cuire pendant 20 min (après le shit).
+Mettre les **pommes de terre** dans la coctte minutes, ajouter de l'eau, ajouter le **sel**, et faire cuire pendant 20 min (après le shit).
 
 ### Etape 3
 
-Egouter les pommes de terre, puis les passer au moulin à légumes au-dessus d'une casserole.
+Egouter les **pommes de terre**, puis les passer au moulin à légumes au-dessus d'une casserole.
 
 ### Etape 4
 
