@@ -2,8 +2,8 @@
 
 - 1 kg de pomme de terre
 - 10 g de sel
-- 20 cl de lait
-- 250 g de beurre
+- 35 cl de lait
+- 125 g de beurre
 - Muscade
 
 ## Préparation
@@ -26,11 +26,11 @@ A coté, faire bouillir de **lait** dans une autre casserole et couper le **beur
 
 ### Etape 5
 
-Dessécher les pommes de terre : placer la casserole sur feu doux et remuez délicatement avec une spatule en bois, le temps que l’eau s’évapore.
+Dessécher les **pommes de terre** : placer la casserole sur feu doux et remuez délicatement avec une spatule en bois, le temps que l’eau s’évapore.
 
 ### Etape 6
 
-Ajouter le beurre froid coupé en morceaux. Saler et ajouter la **muscade**. Ajouter le lait petit à petit et commencer à travailler la purée énergiquement avec une cuillère en boix. Lorsque qu’elle devient souple, continuer à remuer, avec un fouet cette fois. La purée est prête lorsque sa consistance est onctueuse et coule du fouet.
+Ajouter le **beurre** froid coupé en morceaux. Saler et ajouter la **muscade**. Ajouter le **lait** petit à petit et commencer à travailler la purée énergiquement avec une cuillère en boix. Lorsque qu’elle devient souple, continuer à remuer, avec un fouet cette fois. La purée est prête lorsque sa consistance est onctueuse et coule du fouet.
 
 ## Références
 
