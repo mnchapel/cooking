@@ -1,6 +1,6 @@
 ## Ingrédients pour 4 personnes
 
-- 2 choux-fleurs frais ou 1,5 Kg surgelés
+- 2 choux-fleurs frais ou 1,5 Kg de choux-fleurs surgelés
 - 2 bouillons de volaille
 - 10cl de crème (optionnelle)
 - 50g de beurre
