@@ -20,6 +20,12 @@ Pour la farce :
 - 1c.a.s de fécule de pomme de terre ou de maïs
 - 1c.a.s de saké
 
+Pour l'accompagnement :
+- Pâtes de riz
+- Sauce soja
+- Coriandre
+- Graines de sésame
+
 ## Préparation
 
 ### Etape 1
