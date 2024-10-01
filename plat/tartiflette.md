@@ -2,7 +2,7 @@
 
 - 1Kg de pommes de terre à chair ferme
 - 1 Reblochon
-- 2 gros oignons
+- 2 gros oignons (ou 3 moyens)
 - 300g de lardons fumés
 - 10cl de vin blanc
 - Poivre et muscade
@@ -11,7 +11,7 @@
 
 ### Etape 1
 
-Épluchez et découpez les pommes de terre en morceaux. Puis les cuire à la vapeur à la cocotte minute pendant une dizaine de minutes. 
+Épluchez et découpez les pommes de terre en morceaux. Puis les cuire à la vapeur à la cocotte minute pendant une dizaine de minute après le pshit.
 
 ### Etape 2
 
