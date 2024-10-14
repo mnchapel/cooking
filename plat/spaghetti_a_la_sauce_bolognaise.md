@@ -1,8 +1,8 @@
 ## Ingrédients pour 4 personnes
 
-- 300 g de boeuf hâché
+- 350 g de boeuf hâché
 - 100 g de porc haché ou de chair à saucisse
-- 50 g de pancetta ou de lardons
+- 100 g de pancetta ou de lardons
 - 50 g de carottes
 - 50 g de celeri branche
 - 1 gousse d'ail
