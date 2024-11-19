@@ -1,9 +1,9 @@
 ## Ingrédients pour 4 personnes
 
-- 400g de spaghetti (cru)
-- 1 tête d'ail
-- 120/150g de tomates cerises
-- St Morêt
+- 400g de spaghetti
+- 1 gousse d'ail
+- 120/150 g de tomates cerises
+- 100 g de St Morêt (soit 5 portions individuelles)
 - 1 poivron rouge
 - 1 oignon rouge
 - Thym
