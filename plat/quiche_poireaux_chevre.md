@@ -1,11 +1,11 @@
 ## Ingrédients pour 4 personnes
 
 - 1 pâte brisée
-- 400g fromage de chèvre
+- 400 g fromage de chèvre
 - 3 poireaux
 - 3 oeufs
-- 20cl de crême fraiche
-- 10cl de lait
+- 20 cl de crême fraiche
+- 10 cl de lait
 - Sel
 - Poivre
 
@@ -45,7 +45,7 @@ Déposer les rondelles de fromage de chèvre sur la tarte.
 
 ### Etape 9
 
-Cuire au four pendant 25min.
+Cuire au four pendant 30 min.
 
 ## Références
 
