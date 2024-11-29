@@ -31,7 +31,7 @@ Mettre dans un plat allant au four, le **riz**, le bloc de **feta** au centre, l
 
 ### Etape 5
 
-Faire cuire pendant 40 minutes.
+Couvrir avec une feuille d'aluminium, puis faire cuire pendant 40 minutes.
 
 ### Etape 6
 
