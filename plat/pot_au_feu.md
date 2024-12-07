@@ -1,4 +1,4 @@
-## Ingrédients pour 4 personnes
+## Ingrédients pour 6 personnes
 
 - 500 g de viande boeuf grasse : plat-de-côtes couvert, flanchet...
 - 500 g de viande de boeuf maigre : macresue, griffe...
@@ -31,19 +31,19 @@ Ficeler les **morceaux de boeuf** pour qu'ils tiennent à la cuisson. Envelopper
 
 ### Etape 3
 
-Caraméliser les **morceaux de viande** (*sauf* l'os à moelle) dans une poele avec de l'huile et sur feu maximal. Les déposer ensuite dans un grand faitout.
+Caraméliser les **morceaux de viande** (*sauf* l'os à moelle) dans la sauteuse avec de l'huile et sur feu maximal. Déposer ensuite les morceaux dans un grand faitout.
 
 ### Etape 4
 
-Déglasser avec de l'eau la poele vide de ses viandes, puis la verser dans le faitout.
+Déglasser avec de l'eau la poele vide, puis verser son contenu dans le faitout.
 
 ### Etape 5
 
-Eplucher les **oignons**. En couper le premier oignons en deux et déposer chaque moitié dans la peole ayant servit à cuire la viande, avec du beurre et face sur le fond, puis appuyer sur chacune d'elles quelques minutes avec les doigts jusqu'à noircir les faces. Les verser ensuite dans le faitout. Découper le deuxième oignons en gros morceaux, les piquer avec les **clous de girofle** et les déposer dans le faitout.
+Eplucher les **oignons**. Couper le premier en deux et déposer chaque moitié dans la peole ayant servit à cuire la viande, avec du beurre et face sur le fond, puis appuyer sur chacune d'elles quelques minutes avec les doigts jusqu'à noircir les faces. Les verser ensuite dans le faitout. Découper le deuxième oignons en gros morceaux, les piquer avec les **clous de girofle** et les déposer dans le faitout.
 
 ### Etape 6
 
-Verser dans le faitout environ 4 à 5 litres d'**eau** et saler au **gros sel** l'équivalent d'une cuillère à soupe. Faire cuire sur feu moyen pendant quelques minutes en prenant soi d'écumer souvent (cela le rendra moins gras et plus digeste). Quand l'écume ne se forme plus, poursuivre la cuisson à feu faible pendant 1 heure.
+Recouvrir le contenu du faitout avec environ 4 à 5 litres d'**eau** et saler au **gros sel** l'équivalent d'une cuillère à soupe. Faire cuire sur feu moyen pendant 1 heure en prenant soi d'écumer souvent (cela le rendra moins gras et plus digeste).
 
 ### Etape 7
 
