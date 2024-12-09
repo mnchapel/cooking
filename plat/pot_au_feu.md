@@ -7,16 +7,16 @@
 - 3 os à moelle ou tranche de jarret (gîte)
 - Facultatif : 1 pied de veau idéalement pied de boeuf
 - 2 poireaux
-- 4 grosses carottes
-- 2 navets
-- 8 pommes de terre
+- 5 grosses carottes
+- 3 navets
+- 5 pommes de terre
 - 1 branche de céléri
 - 2 gros oignons
 - 6 gousses d'ail
 - 1 bouquet garni
 - 2 clous de girofle
 - 10 g de gingembre
-- 1 c.à.s de gros sel
+- 2 c.à.s de gros sel
 - Poivre
 
 ## Préparation
@@ -31,19 +31,19 @@ Ficeler les **morceaux de boeuf** pour qu'ils tiennent à la cuisson. Envelopper
 
 ### Etape 3
 
-Caraméliser les **morceaux de viande** (*sauf* l'os à moelle) dans la sauteuse avec de l'huile et sur feu maximal. Déposer ensuite les morceaux dans un grand faitout.
+Caraméliser les **morceaux de viande** (*sauf* l'os à moelle) dans la sauteuse avec de l'huile et sur feu maximal. Déposer ensuite les morceaux dans une grande marmitte.
 
 ### Etape 4
 
-Déglasser avec de l'eau la poele vide, puis verser son contenu dans le faitout.
+Déglasser avec de l'eau la sauteuse vide, puis verser son contenu dans la marmitte.
 
 ### Etape 5
 
-Eplucher les **oignons**. Couper le premier en deux et déposer chaque moitié dans la peole ayant servit à cuire la viande, avec du beurre et face sur le fond, puis appuyer sur chacune d'elles quelques minutes avec les doigts jusqu'à noircir les faces. Les verser ensuite dans le faitout. Découper le deuxième oignons en gros morceaux, les piquer avec les **clous de girofle** et les déposer dans le faitout.
+Eplucher les **oignons**. Couper le premier en deux et déposer chaque moitié dans la peole ayant servit à cuire la viande, avec du beurre et face sur le fond, puis appuyer sur chacune d'elles quelques minutes avec les doigts jusqu'à noircir les faces. Les verser ensuite dans la marmitte. Découper le deuxième oignons en gros morceaux, les piquer avec les **clous de girofle** et les déposer dans la marmitte.
 
 ### Etape 6
 
-Recouvrir le contenu du faitout avec environ 4 à 5 litres d'**eau** et saler au **gros sel** l'équivalent d'une cuillère à soupe. Faire cuire sur feu moyen pendant 1 heure en prenant soi d'écumer souvent (cela le rendra moins gras et plus digeste).
+Recouvrir le contenu de la marmitte avec environ 4 à 5 litres d'**eau** et saler au **gros sel** l'équivalent d'une cuillère à soupe. Faire cuire sur feu moyen pendant 1 heure en prenant soi d'écumer souvent (cela le rendra moins gras et plus digeste).
 
 ### Etape 7
 
@@ -51,15 +51,11 @@ Pendant ce temps, éplucher et couper grossièrement les **carottes**, les **pom
 
 ### Etape 8
 
-Quand le temps de cuisson de la viande et des oignons est écoulé, verser dans le faitout l'**os à moelle** et les légumes *sauf les pommes de terre*, puis ajouter le **bouquet garni**, du **poivre** et le **gingembre**. Laisser cuire à feu faible pendant 2 heures.
+Quand le temps de cuisson de la viande et des oignons est écoulé, verser dans la marmitte l'**os à moelle** et les légumes, puis ajouter le **bouquet garni**, du **poivre** et le **gingembre**. Laisser cuire à feu faible pendant 2 à 3 heures.
 
 ### Etape 9
 
-Passé ce temps, ajouter les **pommes de terre** et poursuivre la cuisson pendant 1 heure.
-
-### Etape 10
-
-En fin de cuisson, extraire les légumes et la viande du faitout puis servir immédiatement avec éventuellement un peu de bouillon. Le reste du bouillon peut être utilisé pour d'autres plats.
+En fin de cuisson, extraire les légumes et la viande la marmitte puis servir immédiatement avec éventuellement un peu de bouillon. Le reste du bouillon peut être utilisé pour d'autres plats.
 
 ## Références
 
