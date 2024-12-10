@@ -1,8 +1,8 @@
 ## Ingrédients pour X personnes
 
 - 2 blancs de poulet
-- 320g risoni
-- ??g d'épinards
+- 250g risoni
+- 100g d'épinards
 - 50cl bouillon de poulet
 - tomates séchées
 - 400ml de lait de coco
