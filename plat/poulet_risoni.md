@@ -8,7 +8,8 @@
 - 400ml de lait de coco
 - 4 gousse d'ail
 - 2c.a.c de papikra
-- 2c.a.c de mélange italien ()
+- 2c.a.c de basilic
+- 2c.a.c d'origan
 - 2c.a.s d'huile d'olive
 - sel/poivre
 
@@ -24,7 +25,7 @@ Faire cuire le poulet dans une poêle bien chaude avec de l'**huile d'olive** pe
 
 ### Etape 3
 
-Ajouter les **tomates séchées**, l'**ail**, le **paprika**, le **mélange iatalien**, le **sel**, le **poivre** et laisser cuire encore 2 à 3 minutes.
+Ajouter les **tomates séchées**, l'**ail**, le **paprika**, le **basilic**, l'**origan**, le **sel**, le **poivre** et laisser cuire encore 2 à 3 minutes.
 
 ### Etape 4
 
