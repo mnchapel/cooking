@@ -5,6 +5,7 @@
 - 250 ml de crème fleurette
 - 2 cubes de bouillon de volaille
 - Huile d'olive
+- Poivre
 
 ## Préparation
 
@@ -34,11 +35,11 @@ Couvrir à l’aide d’un papier cuisson en forme de [cartouche](https://www.yo
 
 ### Etape 7
 
-Quand les carottes sont cuites, ajouter ensuite la **crème fleurette** et laissez cuire 10 minutes supplémentaires, pour que cette dernière réduise et épaississe.
+Quand les carottes sont cuites, ajouter ensuite la **crème fleurette** et laisser cuire 10 minutes supplémentaires, pour que cette dernière réduise et épaississe.
 
 ### Etape 8
 
- Placer la préparation dans un mixeur et mixer jusqu'à obtenir une purée.
+ Placer la préparation dans un mixeur, poivrer, et mixer jusqu'à obtenir une purée.
 
 ## Références
 
