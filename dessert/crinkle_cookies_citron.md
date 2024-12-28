@@ -4,7 +4,7 @@
 - 120g de sucre
 - 2 sachet de sucre vanillé
 - 70g de beurre
-- 1 citron
+- 1 citron (zeste + 2c.a.s de jus)
 - 2 oeufs
 - 1 sachet de levure chimique
 - 1/4c.a.c. de sel
@@ -22,7 +22,7 @@ Faire fondre le **beurre** et le laisser refroidir une dizaine de minutes.
 
 ### Etape 3
 
-Pendant ce temps, mélanger le **sucre** et les **sachets de sucre vanillé** ainsi que le zeste de citron. Frotter avec les doigts pour que les sucres s'impregnnent des zestes.
+Pendant ce temps, mélanger le **sucre** et les **sachets de sucre vanillé** ainsi que le **zeste de citron**. Frotter avec les doigts pour que les sucres s'impregnnent des zestes.
 
 ### Etape 4
 
@@ -30,7 +30,7 @@ Ajouter le **beurre** fondu et mélanger.
 
 ### Etape 5
 
-Ajouter les **oeufs** et mélanger.
+Ajouter les **oeufs**, le **jus de citron** et mélanger.
 
 ### Etape 6
 
