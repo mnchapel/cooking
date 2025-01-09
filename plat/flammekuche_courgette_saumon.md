@@ -1,4 +1,4 @@
-## Ingrédients
+## Ingrédients pour 4 personnes
 
 Pour la pâte:
 
