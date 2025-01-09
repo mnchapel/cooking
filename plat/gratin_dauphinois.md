@@ -1,9 +1,9 @@
 ## Ingrédients pour 4 personnes
 
-- 2 kg de pommes de terre BF 15
-- 1 l de lait
-- 50 cl de crème fraîche
-- 1 gousse d’ail
+- 1.3 kg de pommes de terre BF 15
+- 66 cl de lait
+- 33 cl de crème fraîche
+- 1 gousse d'ail
 - 1 branche de thym
 - 1 feuille de laurier
 - Fleur de sel
