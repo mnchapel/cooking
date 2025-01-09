@@ -1,7 +1,7 @@
 ## Ingrédients pour 4 personnes
 
 - 1 pâte feuilletée
-- 750 g de pomme de terre à peau rose
+- 1 Kg de pomme de terre à peau rose
 - 100 g de Roquefort
 - 1 oeuf
 - 10 cl de crème fraiche épaisse
