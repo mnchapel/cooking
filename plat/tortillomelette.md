@@ -2,7 +2,7 @@
 
 - 4 tortillas
 - 1 feta
-- 150g de feuilles d'épinard
+- 300g de feuilles d'épinard
 - 8 oeufs
 - 1 oignon
 - Paprika fumé
