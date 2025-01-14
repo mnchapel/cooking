@@ -1,12 +1,12 @@
 ## Ingrédients pour 4 personnes
 
 - 35cl de riz
-- 1 Feta
+- 150 g de Feta
 - 1 aubergine
 - 1 courgette
-- 150g de tomates cerises
+- 150 g de tomates cerises
 - 4 gousses d'ail
-- 1 cube de bouillon de légumes
+- 2 cubes de bouillon de légumes
 - Origan
 - Romarin
 - Huile d'olive
@@ -15,7 +15,7 @@
 
 ### Etape 1
 
-Préparer le **bouillon** en faisant bouillir 50cl d'eau.
+Préparer le **bouillon** en faisant bouillir 60 cl d'eau.
 
 ### Etape 2
 
@@ -31,7 +31,7 @@ Mettre dans un plat allant au four, le **riz**, le bloc de **feta** au centre, l
 
 ### Etape 5
 
-Couvrir avec une feuille d'aluminium, puis faire cuire pendant 40 minutes.
+Couvrir avec une feuille d'aluminium, puis faire cuire pendant 50 minutes.
 
 ### Etape 6
 
