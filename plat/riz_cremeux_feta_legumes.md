@@ -4,7 +4,7 @@
 - 150 g de Feta
 - 1 aubergine
 - 1 courgette
-- 150 g de tomates cerises
+- 300 g de tomates cerises
 - 4 gousses d'ail
 - 2 cubes de bouillon de légumes
 - Origan
