@@ -2,7 +2,7 @@
 
 - 4 grosses tomates ou 8 tomates moyenne
 - 500 g de chair à saucisse (ou viande hachée de boeuf)
-- 200 g de sauce tomate
+- 200 g de purée de tomate
 - 1 oignon
 - 2 ails
 - 1/2 botte de persil plat
