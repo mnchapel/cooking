@@ -2,7 +2,8 @@
 
 - 1 pâte feuilletée
 - 1 Kg de pomme de terre à peau rose
-- 100 g de Roquefort
+- 150 g de Roquefort
+- 50 g de gruyère rapé
 - 1 oeuf
 - 10 cl de crème fraiche épaisse
 - 20 cl de lait
@@ -13,11 +14,35 @@
 
 ### Etape 1
 
-[ETAPE 1]
+Laver les **pommes de terre**, les éplucher et les émincer en tranches de 3 mm d'épaisseur avec une mandoline.
 
 ### Etape 2
 
-[ETAPE 2]
+Mettre les pommes de terre dans une casserole d'eau froide avec du sel, faire bouillir et laisser cuire 10 min.
+
+### Etape 3
+
+Préchauffer le four à 200°C.
+
+### Etape 4
+
+Sur une plat à tarte, étaler la **pâte**.
+
+### Etape 5
+
+Disposer sur la pâte les rondelles de pommes de terre en les plaçant les unes sur les autres.
+
+### Etape 6
+
+Emietter le **roquefort** par dessus, puis saupoudrer de **gruyère râpé**.
+
+### Etape 7
+
+Dans un bol, mélanger l'**oeuf** battu, le **lait** et la **crème**. Verser cet appareil sur la tarte, et poivrer à convenance.
+
+### Etape 8
+
+Mettre la tarte au four et la faire cuire pendant 30 min.
 
 ## Références
 
