@@ -1,4 +1,4 @@
-## Ingrédients pour X personnes
+## Ingrédients pour 4 personnes
 
 - 30g de moutarde
 - 1 jaune d'oeuf
