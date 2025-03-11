@@ -40,7 +40,7 @@ Déposer cette pâte à l'aide de 2 cuillères à café, en petits tas séparés
 
 ### Etape 8
 
-Il est possible de dorer les petites gougères avec un jaune d'oeuf, à l'aide d'un pinceau.
+Il est possible de dorer les petites gougères avec un **jaune d'oeuf**, à l'aide d'un pinceau.
 
 ### Etape 9
 
