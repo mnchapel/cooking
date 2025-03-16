@@ -21,7 +21,7 @@
 
 ### Etape 1
 
-Mettre tous les ingrédients de la pâte dans un bol et pétrir 6/7 minutes jusqu’à obtention d’une texture lisse et non collante assez compacte.
+Mettre **tous les ingrédients de la pâte** dans un bol et pétrir 6/7 minutes jusqu’à obtention d’une texture lisse et non collante assez compacte.
 
 ### Etape 2
 
@@ -29,7 +29,7 @@ Laissez poser au chaud 1H30 minimum.
 
 ### Etape 3
 
-Pendant ce temps là, préparez la garniture. Dans une casserole d'eau bouillante, disposez vos filets de poulet.
+Pendant ce temps là, préparez la garniture. Dans une casserole d'eau bouillante, disposez vos **blancs de poulet**.
 
 ### Etape 4
 
@@ -37,15 +37,15 @@ Effilochez-les à l'aide d'une fourchette, une fois que ceux-ci sont blanchit à
 
 ### Etape 5
 
-Dans une casserole à feu moyen, versez l'oignon émincé (haché) avec le ras el hanout et un filet d'huile d'olive.
+Dans une casserole à feu moyen, versez l'**oignon** émincé (haché) avec le **ras el hanout** et un filet d'**huile d'olive**.
 
 ### Etape 6
 
-Une fois que les oignons sont transparents, ajoutez des tomates confites hachées grossièrement. Pour cela, veillez à bien absorber l'excédent d'huile à l'aide d'un essuie-tout.
+Une fois que les oignons sont transparents, ajoutez des **tomates séchées** hachées grossièrement. Pour cela, veillez à bien absorber l'excédent d'huile à l'aide d'un essuie-tout.
 
 ### Etape 7
 
-Mettez à feu doux et verser le fromage. Une fois que celui- est crémeux, versez le poulet effiloché et mélangez jusqu'à ce que la farce soit bien homogène.
+Mettez à feu doux et verser le **St Morêt**. Une fois que celui-ci est crémeux, versez le **poulet** effiloché et mélangez jusqu'à ce que la farce soit bien homogène.
 
 ### Etape 8
 
