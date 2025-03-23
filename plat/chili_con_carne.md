@@ -1,5 +1,6 @@
 ## Ingrédients pour 8 personnes
 
+- 64 cl de Riz
 - 2 oignons moyens
 - 3 gousses d'ail
 - 1 poivron rouge
@@ -30,11 +31,15 @@ Pendant ce temps, couper le poivron en dés et préparer 50cl de bouillon avec l
 
 ### Etape 4
 
-Ajouter à la préparation les dés de poivron, les tomates et les olives noires. Mouiller avec le bouillon. Assaisoner avec le cumin, l'origan, le piment et le Tabasco. Saler, remuer consciencieusement, mettre sur feux moyen, et laisser mijoter pendant 1 heure.
+Ajouter à la préparation les dés de poivron, les tomates et les olives noires. Mouiller avec le bouillon. Assaisoner avec le cumin, l'origan, le piment et le Tabasco. Saler, remuer consciencieusement, mettre sur feux moyen, et laisser mijoter pendant 1 heure à couvert en laisse une petite ouverture.
 
 ### Etape 5
 
-Ajouter les haricots égouttés et laisser cuire encore 1 heure.
+Ajouter les haricots égouttés et laisser cuire encore 1 heure à couvert en laisse une petite ouverture.
+
+### Etape 6
+
+A part dans une casserole, cuire le riz.
 
 ## Références
 
