@@ -29,7 +29,7 @@ A part, mélanger la crème et la farine. Puis ajouter à la préparation.
 
 ### Etape 5
 
-Laisser mijoter environ 1 heure, le temps que la sauce devienne bien onctueuse.
+Laisser mijoter environ 1 heure, à feu faible et à couvert, le temps que la sauce devienne bien onctueuse.
 
 ## Références
 
