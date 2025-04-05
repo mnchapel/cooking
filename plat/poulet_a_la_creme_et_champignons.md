@@ -1,7 +1,7 @@
 ## Ingrédients pour 6 personnes
 
 - 6 cuisses de poulet
-- 2 oignons moyens
+- 2 gros oignons (ou 3 moyens)
 - 2 gousses d'ails
 - 1 cube de bouillon de volaille
 - 1 grande boîte de champignon (460g net égouttée)
