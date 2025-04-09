@@ -1,19 +1,19 @@
 ## Ingrédients pour 6 personnes
 
 - 6 cuisses de poulet
-- 2 gros oignons (ou 3 moyens)
-- 2 gousses d'ails
-- 1 cube de bouillon de volaille
-- 1 grande boîte de champignon (460g net égouttée)
-- 2 cuillères à soupe de farine
-- 40 cl de crème fraîche
-- 25 cl de vin blanc
+- 3 gros oignons (ou 6 moyens)
+- 3 gousses d'ails
+- 2 cube de bouillon de volaille
+- 1 grande + 1 petite boîte de champignon (690g net égouttée)
+- 3 cuillères à soupe de farine
+- 60 cl de crème fraîche
+- 37.5 cl de vin blanc
 
 ## Préparation
 
 ### Etape 1
 
-Faire revenir les cuisses de poulet dans l'huile pendant 20 min et diluer le cube de bouillon de volaille dans 25 cl d'eau dans une casserole.
+Faire revenir les cuisses de poulet dans l'huile pendant 20 min et diluer le cube de bouillon de volaille dans 37.5 cl d'eau dans une casserole.
 
 ### Etape 2
 
