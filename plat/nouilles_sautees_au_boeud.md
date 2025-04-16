@@ -1,6 +1,6 @@
 ## Ingrédients pour 4 personnes
 
-- 500g de boeuf
+- 350g de boeuf
 - 400g de nouilles (poids sec)
 - 2 oignons
 - 3 gousse d'ail
