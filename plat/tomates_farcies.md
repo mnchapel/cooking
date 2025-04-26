@@ -17,15 +17,15 @@
 
 ### Etape 1
 
-Laver les **tomates**, puis leur ôter le chapeau et les évider dans un saladier à l’aide d’une cuillère à soupe.
+Dans une sauteuse, faire chauffer un filet d’huile d’olive puis ajouter l’**oignon** préalablement émincé. Laisser colorer quelques minutes puis ajouter la **viande hachée** et poursuivre la cuisson 5 minutes. Ajouter l'**ail** haché, le **sel** et le **poivre**.
 
 ### Etape 2
 
-Couper la chair des **tomates** en morceaux ainsi que les chapeaux en prenant soin de retirer les pédoncules. Les ajouter au saladier et réserver le tout pour plus tard.
+Pendant ce temps, laver les **tomates**, puis leur ôter le chapeau et les évider dans un saladier à l’aide d’une cuillère à soupe.
 
 ### Etape 3
 
-Dans une sauteuse, faire chauffer un filet d’huile d’olive puis ajouter l’**oignon** préalablement émincé. Laisser colorer quelques minutes puis ajouter la **viande hachée** et poursuivre la cuisson 5 minutes. Ajouter l'**ail** haché, le **sel** et le **poivre**.
+Couper la chair des **tomates** en morceaux ainsi que les chapeaux en prenant soin de retirer les pédoncules. Les ajouter au saladier et réserver le tout pour plus tard.
 
 ### Etape 4
 
