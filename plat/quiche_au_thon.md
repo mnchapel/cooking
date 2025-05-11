@@ -3,12 +3,12 @@
 - 1 pâte brisée
 - 300g de thon
 - 2 oignons
-- épinards
+- 100g d'épinards
 - 3 oeufs
 - 1 c.a.s boursin (ou tartare)
-- crème fraîche
+- 10cl crème fraîche
 - 1 grosse poignée de gruyère
-- tomates séchées
+- une dizaine de tomates séchées
 - 1 c.a.s. Moutarde
 - Sel/poivre
 
