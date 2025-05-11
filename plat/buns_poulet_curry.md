@@ -11,7 +11,7 @@
 Pour la garniture
 
 - 2 blancs de poulet
-- Mimolette (essayer avec du chèvre la prochaine fois)
+- 250g de fromage de chèvre
 - 1 oignon
 - 3 gousses d’ail
 - Épices: sel poivre ail paprika curry persillade et un peu de gingembre
@@ -62,7 +62,7 @@ Prechauffer le four à 180°C.
 
 ### Etape 11
 
-Dégazer la pâte et la partager en 16 morceaux. Etaler un pâton en cercle (pas trop fin), disposer un peu de **mimolette** au centre puis un peu de farce au poulet par dessus. Refermer et recommencer avec les autres pâtons.
+Dégazer la pâte et la partager en 16 morceaux. Etaler un pâton en cercle (pas trop fin), disposer un peu de **fromage de chèvre** au centre puis un peu de farce au poulet par dessus. Refermer et recommencer avec les autres pâtons.
 
 ### Etape 12
 
