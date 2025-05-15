@@ -19,7 +19,7 @@ Eplucher les **carottes**, les laver et les couper en morceaux. Plus les morceau
 
 ### Etape 3
 
-Dans une petite casserole, préparer le **bouillon de volaille** dans 65 cl d'eau (**TODO :** tester avec 55cl pour éviter le surplus d'eau après le temps de cuisson imparti, qui transforme la purée en soupe).
+Dans une petite casserole, préparer le **bouillon de volaille** dans 55 cl d'eau.
 
 ### Etape 4
 
