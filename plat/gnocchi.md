@@ -45,4 +45,4 @@ Faire revenir les gnocchis avec les lardons dans une poêle.
 
 ## Références
 
-- <[LIEN]>
+- On sait pas, MN l'a perdue.
