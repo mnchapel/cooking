@@ -7,11 +7,11 @@
 - 2 oeufs
 - 600 ml d'eau
 - 1 pincée de sel
-- Tartare (petit pôt)
 
 **Pour la garniture :**
 
 - 400 g de lardons
+- Tartare (petit pot)
 
 ## Préparation
 
