@@ -3,11 +3,11 @@
 - 45cl de riz
 - 2 oignons moyens
 - 2 carottes
-- 4 oeufs
+- 5 oeufs
 - 4 gousses d'ail
 - gingembre
-- 4c.a.s de sauce soja
-- 2c.a.s de sucre
+- 4 c.a.s de sauce soja
+- 2 c.a.s de sucre
 - 1/4 de citron
 - ciboulette
 - coriandre
@@ -46,7 +46,7 @@ Arroser la préparation avec la **sauce soja** et le **surcre**. Remuer et baiss
 
 ### Etape 8
 
-Ajouter la **ciboulette** et la **coriandre** puis remuer.
+Ajouter le **citron**, la **ciboulette** et la **coriandre** puis remuer.
 
 ## Références
 
