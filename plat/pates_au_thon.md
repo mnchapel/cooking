@@ -16,7 +16,7 @@ Faire cuire les pâtes selon votre goût et le type de pâtes.
 
 ### Etape 2
 
-Dans une casserole, faire revenir les oignons avec un peu d'huile.
+Dans une sauteuse, faire revenir les oignons avec un peu d'huile.
 
 ### Etape 3
 
