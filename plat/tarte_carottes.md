@@ -1,19 +1,37 @@
-# Ingrédients (4 personnes)
-- 500g de carottes râpées
+## Ingrédients pour 4 personnes
+
+- 500 g de carottes râpées
 - 1 oignon hâché
-- sel, poivre 
 - 1 pincée de cumin
-- 1 pâte brisée
 - 3 oeufs
+- 1 pâte brisée
 - 30 cl de crème liquide ou 50 cl de lait
-- huile d'olive
-- persil
+- Huile d'olive
+- Persil
+- Sel, Poivre
 
 # Préparation
-- Emincer l'oignon et le faire revenir avec les carottes à feu doux dans une poêle.
-- Parsemer de persil, saler et poivrer.
-- Etendre la pâte brisée dans le moule.
-- Préchauffer le four à 200°C.
-- Mélanger les oeufs, la crème (ou le lait) et ajouter les carottes.
-- Saler, poivrer et ajouter le cumin.
-- Enfourner 35 mn.
+
+### Etape 1
+
+Emincer l'**oignon** et le faire revenir avec les **carottes** à feu doux dans une poêle.
+
+### Etape 2
+
+Parsemer de **persil**.
+
+### Etape 3
+
+Etendre la **pâte brisée** dans le moule., puis préchauffer le four à 200°C.
+
+### Etape 4
+
+Dans un saladier, mélanger les **oeufs**, la **crème** (ou le lait) et ajouter les **carottes**. Saler, poivrer et ajouter le **cumin**.
+
+### Etape 5
+
+Enfourner pendant 35 min.
+
+## Références
+
+- Maman Colette
