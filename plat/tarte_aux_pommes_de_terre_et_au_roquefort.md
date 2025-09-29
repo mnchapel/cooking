@@ -9,6 +9,7 @@
 - 20 cl de lait
 - Sel
 - Poivre
+- Muscade
 
 ## Préparation
 
@@ -38,7 +39,7 @@ Emietter le **roquefort** par dessus, puis saupoudrer de **gruyère râpé**.
 
 ### Etape 7
 
-Dans un bol, mélanger l'**oeuf** battu, le **lait** et la **crème**. Verser cet appareil sur la tarte, et poivrer à convenance.
+Dans un bol, mélanger l'**oeuf** battu, le **lait**, la **crème** et la **muscade**. Verser cet appareil sur la tarte, et poivrer à convenance.
 
 ### Etape 8
 
