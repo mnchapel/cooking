@@ -1,11 +1,11 @@
-## Ingrédients pour X personnes
+## Ingrédients pour 4 personnes
 
 - 1 pâte feuilletée
 - 2 tranches de jambon de pays
 - 2c.a.s de crème fraîche
 - 1c.a.s de moutarde
 - 50g de gruyère râpé poivre
-- 1 boîte de fond d'artichaut (selon les goûts)
+- 7/9 fonds d'artichaut
 - 1 boule de mozzarella
 - 3 œufs
 
@@ -42,6 +42,10 @@ Dans un saladier, cassez les œufs, ajoutez la crème fraîche, un peu de poivre
 ### Etape 8
 
 Incorporez ensuite le gruyère râpé. Versez délicatement ce mélange sur la tarte en veillant à bien le répartir.
+
+### Etape 9
+
+Glissez le tout au four et laissez cuire environ 25 à 30 minutes, jusqu’à ce que le dessus soit doré et la texture bien prise.
 
 ## Références
 
