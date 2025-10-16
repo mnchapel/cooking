@@ -5,7 +5,7 @@ Pour 4 personnes
 - 700g de brocoli
 - 4 tranches de saumon fumé
 - 100g de chèvre
-- 100g de crème fraîche
+- 10 cl de crème fraîche
 - 30cl de lait
 - 3 oeufs
 
