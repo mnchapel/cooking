@@ -29,11 +29,11 @@ Laissez poser au chaud 1H30 minimum.
 
 ### Etape 3
 
-Pendant ce temps là, préparez la garniture. Dans une casserole d'eau bouillante, disposez vos **blancs de poulet**.
+Pendant ce temps là, préparez la garniture. Découper grossièrement les **blancs de poulet** et les faire cuire 20 minutes dans une casserole d'eau bouillante.
 
 ### Etape 4
 
-Effilochez-les à l'aide d'une fourchette, une fois que ceux-ci sont blanchit à coeur.
+Effilochez-les à l'aide d'une fourchette (ou dans un blender, ça marche aussi), une fois que ceux-ci sont blanchit à coeur.
 
 ### Etape 5
 
@@ -57,7 +57,7 @@ Une fois que la pâte à terminée de glonfler, dégazez-la et retravaillez-la 2
 
 ### Etape 10
 
-Divisez la pâte en plusieurs pâtons. Étalez finement et inclure la farce.
+Divisez la pâte en 12 pâtons, étalez les finement et inclure la farce.
 
 ### Etape 11
 
