@@ -1,10 +1,10 @@
-## Ingrédients pour 2 personnes
+## Ingrédients pour 4 personnes
 
-- 4 oeufs
-- 2 grosses carottes
-- 1 courgette
-- 4 tranches de Mimolette (essayer avec du chèvre la prochaine fois)
-- 2c.a.s de maizena
+- 8 oeufs
+- 4 grosses carottes
+- 2 courgette
+- 400g de fromage de chèvre
+- 4c.a.s de maizena
 - sel
 
 ## Préparation
@@ -19,7 +19,7 @@ Mélanger dans un saladier les **carottes**, la **courgette**, les **oeufs** bat
 
 ### Etape 3
 
-Séparer la pâte en deux et faire cuire une première omelette. Lorsque l'omelette est retournée, mettre le fromage au centre et rabattre les bords pour faire un rouleau lorsque l'omelette est complètement cuite. Faire cuire la deuxième omelette de la même manière.
+Séparer la pâte en quatre et faire cuire une première omelette. Lorsque l'omelette est retournée, mettre le **fromage de chèvre** au centre et rabattre les bords pour faire un rouleau lorsque l'omelette est complètement cuite. Faire cuire les autres omelettes de la même manière.
 
 ## Références
 
