@@ -46,7 +46,7 @@ Couper la **baguette** en 2 dans la largeur, puis les 1/2 baguettes encore en 2 
 
 ### Etape 8
 
-Couper la saucisse en 12 rondelles.
+Couper la saucisse en fines rondelles.
 
 ### Etape 9
 
