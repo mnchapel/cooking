@@ -7,7 +7,7 @@
 - 3 c.a.c. de curry
 - 1 c.a.c. de garam masala
 - 1/2 c.a.c. de gingembre en poudre
-- 1/2 c.a.c. de piment en paillettes 🌶️
+- 1/2 c.a.c. de piment en paillettes
 - 1 c.a.c. de paprika
 - 1/2 c.a.c. de clou de girofle
 - 2 carottes
