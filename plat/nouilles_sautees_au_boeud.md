@@ -8,6 +8,11 @@
 - 4 c.a.s. de maïzena
 - 4 c.a.s. d'huile de sésame
 
+Sauce
+
+- 4 c.a.s. de sauce soja
+- 4 c.a.c. de sucre
+
 ## Préparation
 
 ### Etape 1
