@@ -7,6 +7,10 @@
 - 3 pots de farine
 - 1 sachet de levure
 
+Pour un marbré :
+
+- 3 c.a.c de poudre de chocolat noir non sucré
+
 ## Préparation
 
 ### Etape 1
