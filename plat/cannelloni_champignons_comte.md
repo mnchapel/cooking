@@ -13,25 +13,27 @@
 - 1 gousse d’ail
 - 1 càs de moutarde à l’ancienne
 - 1 càc de muscade
+- Huile d'olive
 - Ciboulette
+- Sel/poivre
 
 ## Préparation
 
 ### Etape 1
 
-Emincez très finement les champignons et les échalotes puis faites-les revenir à la poêle dans un filet d'huile d'olive pendant 10 minutes environ. Salez, poivrez puis déglacez au vin blanc. 
+Emincez très finement les **champignon**s et les **échalotes** puis faites-les revenir à la poêle dans un filet d'**huile d'olive** pendant 10 minutes environ. Salez, poivrez puis déglacez au **vin blanc**. 
 
 ### Etape 2
 
-Dans un bol ajoutez les champignons, la ricotta, le persil émincé finement, du sel et du poivre. Mélangez bien.
+Dans un bol ajoutez les **champignons**, la **ricotta**, le **persil** émincé finement, du **sel** et du **poivre**. Mélangez bien.
 
 ### Etape 3
 
-A l'aide d’une poche à douille ou d'un sac congélation, fourrez les cannelloni. 
+A l'aide d’une poche à douille ou d'un sac congélation, fourrez les **cannelloni**. 
 
 ### Etape 4
 
-Pour la béchamel, faites fondre le beurre dans une casserole, ajoutez la farine, mélangez au fouet puis ajoutez en deux fois le lait, l'ail râpé, la muscade, le sel et le poivre. Fouettez de manière continue sur feu doux puis une fois que la sauce s'épaissit, ajoutez la moitié du comté et la moutarde. Mélangez à nouveau jusqu’à ce que le fromage fonde bien.
+Pour la béchamel, faites fondre le **beurre** dans une casserole, ajoutez la **farine**, mélangez au fouet puis ajoutez en deux fois le **lait**, l'**ail** râpé, la **muscade**, le **sel** et le **poivre**. Fouettez de manière continue sur feu doux puis une fois que la sauce s'épaissit, ajoutez la moitié du **comté** et la **moutarde**. Mélangez à nouveau jusqu’à ce que le fromage fonde bien.
 
 ### Etape 5
 
