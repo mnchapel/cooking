@@ -1,12 +1,12 @@
 ## Ingrédients pour 6 personnes
 
-- 500 g de rattes du Touquet
+- 500 g de rattes du Touquet (pommes de terre)
 - 2 petites boules de céleri
 - 4 carottes
 - 5-6 brins de thym
 - 6 gousses d'ail
-- huile d'olive
-- ficelle de cuisine
+- Huile d'olive
+- Ficelle de cuisine
 
 **Pour la farce :**
 
@@ -18,8 +18,8 @@
 - 6 petits-suisses au lait entier (Malo)
 - 250 g de crème fraîche crue (30 à 40% de matière grasse)
 - 50 g de beurre mou
-- sel de Guérande
-- poivre du moulin
+- Sel de Guérande
+- Poivre du moulin
 
 ## Préparation
 
