@@ -4,10 +4,11 @@
 - 2 tranches de jambon de pays
 - 2c.a.s de crème fraîche
 - 1c.a.s de moutarde
-- 50g de gruyère râpé poivre
+- 50g de gruyère râpé
 - 7/9 fonds d'artichaut
 - 1 boule de mozzarella
-- 3 œufs
+- 3 oeufs
+- poivre
 
 ## Préparation
 
