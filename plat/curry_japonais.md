@@ -16,7 +16,7 @@
 - 2 cm de gingembre frais
 - 1 gousse d'ail
 - 3 c.a.s. de sauce soja
-- 30 cl de bouillon de poule maison
+- 30 cl de bouillon de poule maison (ou 1 cube de bouillon de volaille)
 
 ## Préparation
 
