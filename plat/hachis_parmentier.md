@@ -1,6 +1,6 @@
 ## Ingrédients pour 4 personnes
 
-- 300g de viande hachée
+- 350g de viande hachée
 - 50g de parmersan
 - 50g de fromage râpé
 - 2 jaunes d'oeufs

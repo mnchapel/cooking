@@ -39,7 +39,7 @@ Enfourner 5 minutes, puis dorer le dessus de la galette avec le **jaune d'oeuf**
 
 ### Etape 8
 
-Enfourner de nouveau 40 à 45 minutes et laisser refroidir.
+Enfourner de nouveau 45 à 50 minutes et laisser refroidir.
 
 ## Références
 
