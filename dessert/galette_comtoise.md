@@ -15,7 +15,7 @@ Préchauffer le four à 180°C.
 
 ### Etape 2
 
-Dans une casserole, porter le **lait** à ébullition avec le **sucre** et le **beurre**.
+Dans une casserole, porter le **lait** à ébullition avec le **sucre** et le **beurre**. Pour la suite, il est recommandé de ne pas utiliser de robot, qui aura tendance à rendre la pâte trop liquide.
 
 ### Etape 3
 
