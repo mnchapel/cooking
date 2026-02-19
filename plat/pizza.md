@@ -18,4 +18,5 @@
 
 - <https://www.pizzanapoletana.org/fr/ricetta_pizza_napoletana>
 - <https://www.bienmanger.com/1C796_Recette_Pizza_Chorizo_Piquant.html>
-- 
+- <https://www.abeilles-environnement.com/recette-legendaire-de-la-pizza-au-chevre-et-miel/>
+- <https://www.soignon.fr/recette-pizza-chevre-miel>
