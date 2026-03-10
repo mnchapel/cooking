@@ -22,11 +22,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white">
 </p>
 
-Code source du site Web de nos recettes de cuisine familiales : accompagnements, amuse-bouches, boissons, plats, sauces, petit-déjeuner, desserts. See a demo here.
-
----
-#### 〔 [Features] / [About] / [Getting started] 〕〔 [Development] 〕〔 [Deployment] 〕〔 [Usage] 〕〔 [Resources] 〕〔 [Contributing] 〕〔 [Contributors] 〕〔 [License] 〕
----
+Source code for our family recipes website: side dishes, appetizers, beverages, main courses, sauces, breakfast, and desserts. See a demo here.
 
 <p align="center">
   <a href="#-features">Features</a> &nbsp;&bull;&nbsp;
@@ -53,13 +49,15 @@ Code source du site Web de nos recettes de cuisine familiales : accompagnements,
 
 ### Built with
 
-- [Vue.js 3](https://vuejs.org/) - The web framework
+- [Vue.js 3](https://vuejs.org/) with [Vue Router](https://router.vuejs.org/) - The web framework
 - [Nuxt 4](https://nuxt.com/) - The web framework
 - [Nuxt UI](https://ui.nuxt.com/) - UI components
 - [Tailwind CSS 4](https://tailwindcss.com/) - Utility-first CSS
+- [Marked](https://marked.js.org/) - Markdown parser
+- [Vite](https://vite.dev/) - Frontend build tool
 - [GitHub Actions](https://github.com/features/actions) - Automated workflow
-- [Prettier](https://prettier.io/) - Code formatter
-- [ESLint](https://eslint.org/) with [ESLint plugin for Vue.js](https://eslint.vuejs.org/) - For catching bugs
+- [Prettier](https://prettier.io/) with [Prettier for arrays](https://www.npmjs.com/package/prettier-plugin-multiline-arrays?activeTab=readme) - Code formatter
+- [ESLint](https://eslint.org/) with ESLint plugins for [Vue.js](https://eslint.vuejs.org/), [CSS](https://www.npmjs.com/package/@eslint/css), [JSON](https://www.npmjs.com/package/@eslint/json), [HTML](https://www.npmjs.com/package/@html-eslint/eslint-plugin), [Prettier](https://www.npmjs.com/package/eslint-config-prettier) - For catching bugs
 
 ## 🚀 Getting started
 
@@ -70,11 +68,11 @@ To install, build, and deploy this website, the following software must be insta
 - [Node.js v24.13+](https://nodejs.org/en/)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
 
-For development, [VS Code](https://code.visualstudio.com/) is recommended, along with the [official Vue extension](https://marketplace.visualstudio.com/items?itemName=Vue.volar).
+For development, [VS Code](https://code.visualstudio.com/) is recommended, along with the [official Vue extension](https://marketplace.visualstudio.com/items?itemName=Vue.volar), [Prettier extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) and [ESLint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint).
 
 To verify that Node.js and npm are installed, open a terminal and run:
 
-```console
+```bash
 node --version
 npm --version
 ```
@@ -92,7 +90,7 @@ If an error occurs, download and install Node.js and npm by following the [proce
     - [Direct download as a ZIP archive](https://github.com/mnchapel/cooking/archive/refs/heads/main.zip)
     - Clone the repository with Git:
 
-      ```console
+      ```bash
       git clone https://github.com/mnchapel/cooking.git
       ```
 
@@ -100,13 +98,13 @@ If an error occurs, download and install Node.js and npm by following the [proce
 
 3. Open a terminal in the project's folder and run this command to install dependencies :
 
-    ```console
+    ```bash
     npm install
     ```
 
 4. Start a local development server:
 
-    ```console
+    ```bash
     npm run dev
     ```
 
@@ -163,7 +161,7 @@ project-root/
 
 - To **install** the npm packages:
 
-  ```console
+  ```bash
   npm install
   ```
 
@@ -171,7 +169,7 @@ project-root/
 
 - To **compile and hot-reloading** for development:
 
-  ```console
+  ```bash
   npm run dev
   ```
 
@@ -179,7 +177,7 @@ project-root/
 
 - To **compile and minify** for production:
 
-  ```console
+  ```bash
   npm run build
   ```
 
