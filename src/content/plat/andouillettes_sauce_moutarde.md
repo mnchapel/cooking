@@ -1,3 +1,10 @@
+---
+title: "Andouillettes et purée à la sauce moutarde"
+tags: ["pomme de terre", "andouillettes", "moutarde", "viande"]
+time:
+servings: 4
+---
+
 ## Ingrédients pour 4 personnes
 
 - 4 andouillettes

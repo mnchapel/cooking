@@ -1,3 +1,10 @@
+--- 
+title: "Poulet roti au estragon"
+tags: ["poulet", "estragon", "viande", "pommes de terre"]
+time:
+servings: 6
+---
+
 ## Ingrédients pour 6 personnes
 
 - 500 g de rattes du Touquet (pommes de terre)

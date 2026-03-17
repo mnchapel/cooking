@@ -1,3 +1,10 @@
+---
+title: "Gougères au fromage"
+tags: ["fromage", "végétarien"]
+time:
+servings: 6
+---
+
 ## Ingrédients pour 6 personnes
 
 - 150g de farine taminsée

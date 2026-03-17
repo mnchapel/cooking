@@ -1,3 +1,10 @@
+---
+title: "Brioche à effeuiller"
+tags: []
+time:
+servings: 6
+---
+
 ## Ingrédients
 
 - 350 g de farine de blé blanche

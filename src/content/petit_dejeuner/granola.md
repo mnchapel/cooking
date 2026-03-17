@@ -1,3 +1,10 @@
+---
+title: "Granola"
+tags: ["avoine", "chocolat"]
+time:
+servings: 3
+---
+
 ## Ingrédients pour environ 3 personnes
 
 - 100g flocons d'avoine

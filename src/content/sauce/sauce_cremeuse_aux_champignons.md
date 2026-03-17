@@ -1,3 +1,10 @@
+---
+title: "Sauce cremeuse aux champignons"
+tags: ["champignons", "crème", "bouillon de boeuf"]
+time:
+servings: 4
+---
+
 ## Ingrédients pour 4 personnes
 
 - 500 g de champignons forestiers ou champignons de paris

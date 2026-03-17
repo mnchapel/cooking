@@ -1,3 +1,10 @@
+---
+title: "Riz cantonais"
+tags: ["riz", "viande"]
+time:
+servings: 4
+---
+
 ## Ingrédients pour 4 personnes
 
 - 300g de riz thaï parfumé

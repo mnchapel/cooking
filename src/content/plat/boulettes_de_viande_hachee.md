@@ -1,3 +1,10 @@
+---
+title: "Boulettes de viande hachée"
+tags: ["viandes", "poulet", "veau", "champignons"]
+time:
+servings: 4
+---
+
 Pour 4 personnes
 
 # Ingrédients

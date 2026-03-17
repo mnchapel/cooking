@@ -1,3 +1,10 @@
+---
+title: "Cocktail de Noël"
+tags: ["vodka", "citron", "sucre de canne"]
+time:
+servings: 1
+---
+
 ## Ingrédients pour 1 personne
 
 - 5 cl de vodka

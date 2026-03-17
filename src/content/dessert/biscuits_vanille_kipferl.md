@@ -1,3 +1,10 @@
+---
+title: "Biscuits vanille Kipferl"
+tags: ["vanille"]
+time:
+servings: 4
+---
+
 # Ingrédients
 - 140g de farine
 - 60g d'amandes en poudre

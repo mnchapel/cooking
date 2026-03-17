@@ -1,4 +1,11 @@
-## Ingrédients pour X personnes
+---
+title: "Bavarois framboise et chocolat"
+tags: ["framboise", "chocolat"]
+time:
+servings: 8
+---
+
+## Ingrédients pour 8 personnes
 
 Pour le gâteau :
 

@@ -1,3 +1,10 @@
+---
+title: "Bald Eagle"
+tags: ["tequila", "citron", "pamplemousse", "cranberry"]
+time:
+servings: 1
+---
+
 ## 🦅 Ingrédients pour 1 personne
 
 - 6 cl de tequila 100 % agave

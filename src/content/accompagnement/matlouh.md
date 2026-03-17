@@ -1,3 +1,10 @@
+---
+title: "Matlouh"
+tags: []
+time:
+servings: 4
+---
+
 ## Ingrédients pour 4 pains
 
 - 300g de farine (T45 idéalement)

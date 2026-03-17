@@ -1,3 +1,10 @@
+---
+title: "Mexican Mule"
+tags: ["tequila", "citron", "sucre de canne"]
+time:
+servings: 1
+---
+
 ## 🍸 Ingrédients pour 1 personne
 
 - 4.5 cl de tequila 100 % agave

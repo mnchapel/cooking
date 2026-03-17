@@ -1,3 +1,10 @@
+---
+title: "Buns de poulet au curry"
+tags: ["viandes", "poulet", "fromage de chèvre"]
+time:
+servings: 16
+---
+
 ## Ingrédients pour 16 buns
 
 - 500g de farine

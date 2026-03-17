@@ -1,3 +1,10 @@
+---
+title: "Crackers aux graines"
+tags: ["graines", "végétarien"]
+time:
+servings: 25
+---
+
 ## Ingrédients pour environ 25 crackers
 
 - 60g de farine T80, T150 ou classique

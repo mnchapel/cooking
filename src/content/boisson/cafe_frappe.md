@@ -1,3 +1,10 @@
+---
+title: "Cafe frappé"
+tags: ["café", "lait", "sucre de canne"]
+time:
+servings: 2
+---
+
 ## Ingrédients pour 2 personnes
 
 - 30cl de lait

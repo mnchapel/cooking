@@ -1,3 +1,10 @@
+---
+title: "Madras"
+tags: ["vodka", "citron", "cranberry"]
+time:
+servings: 1
+---
+
 ## Ingrédients pour 1 personne
 
 - 4.5 cl de vodka

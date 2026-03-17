@@ -1,3 +1,10 @@
+---
+title: "Tequila Sunrise"
+tags: ["tequila", "grenadine", "orange"]
+time:
+servings: 1
+---
+
 ## Ingrédients pour 1 personne
 
 - 6 cl de tequila

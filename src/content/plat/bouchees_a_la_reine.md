@@ -1,3 +1,10 @@
+---
+title: "Bouchées à la reine"
+tags: ["viandes", "poulet", "veau", "champignons"]
+time:
+servings: 4
+---
+
 ## Ingrédients pour 4 personnes
 
 - 4 pâte feuilletées

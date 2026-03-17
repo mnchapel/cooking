@@ -1,3 +1,10 @@
+---
+title: "Crackers moutarde et comté"
+tags: ["moutarde", "comté", "végétarien"]
+time:
+servings: 4
+---
+
 ## Ingrédients pour 4 personnes
 
 - 30g de moutarde

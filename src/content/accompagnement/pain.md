@@ -1,3 +1,10 @@
+---
+title: "Pain"
+tags: []
+time:
+servings: 7
+---
+
 ## Ingrédients pour 7 petits pains
 
 - 500g de farine

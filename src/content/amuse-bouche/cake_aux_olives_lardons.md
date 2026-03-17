@@ -1,3 +1,10 @@
+---
+title: "Cake aux olives lardons"
+tags: ["viandes", "olives", "lardons"]
+time:
+servings: 6
+---
+
 ## Ingrédients pour 6 personnes
 
 - 250 g de farine

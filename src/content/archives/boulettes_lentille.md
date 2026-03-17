@@ -1,3 +1,10 @@
+---
+title: "Boulettes de lentilles"
+tags: ["lentilles", "végétarien"]
+time:
+servings: 4
+---
+
 ## Ingrédients pour 4 personnes
 
 - 300g de lentilles vertes
