@@ -53,7 +53,7 @@ Source code for our family recipes website: side dishes, appetizers, beverages, 
 - [Nuxt 4](https://nuxt.com/) - The web framework
 - [Nuxt UI](https://ui.nuxt.com/) - UI components
 - [Tailwind CSS 4](https://tailwindcss.com/) - Utility-first CSS
-- [Marked](https://marked.js.org/) - Markdown parser
+- [Marked](https://marked.js.org/) and [gray-matter](https://www.npmjs.com/package/gray-matter) - Markdown parsers
 - [Vite](https://vite.dev/) - Frontend build tool
 - [GitHub Actions](https://github.com/features/actions) - Automated workflow
 - [Prettier](https://prettier.io/) with [Prettier for arrays](https://www.npmjs.com/package/prettier-plugin-multiline-arrays?activeTab=readme) - Code formatter
@@ -120,6 +120,7 @@ project-root/
 │   └── tasks.json                 # Custom build and automation tasks for VS Code
 ├── docs/                          # Auto-generated project documentation
 ├── public/                        # Static assets served as-is at the application root (excluded from build processing)
+├── scripts/                       # Code files not intended for the Vue application but for back-end, specially with Node.js
 ├── src/                           # Application source code
 │   ├── assets/                    # Static assets processed by the build pipeline
 │   ├── components/                # Reusable Vue UI components
@@ -143,7 +144,7 @@ project-root/
 ### Code style and commit messages
 
 - **Code Formatting:** Use [Prettier](https://prettier.io/) to ensure consistency. Many editors can apply `.prettierrc.json` automatically when saving.
-- **Coding Style**: Follow the [XXX Guidelines](?) and the naming convention already in place.
+- **Coding Style**: Follow the [Vue.js Style Guide](https://vuejs.org/style-guide/) and the naming convention already in place.
 - **Commit Messages:** Follow the [Conventional Commits](https://www.conventionalcommits.org/) style to maintain a clear and informative history:
   - `feat`: New features.
   - `fix`: Bug fixes.
