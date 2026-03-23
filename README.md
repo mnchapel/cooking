@@ -57,7 +57,7 @@ Source code for our family recipes website: side dishes, appetizers, beverages, 
 - [Vite](https://vite.dev/) - Frontend build tool
 - [GitHub Actions](https://github.com/features/actions) - Automated workflow
 - [Prettier](https://prettier.io/) with [Prettier for arrays](https://www.npmjs.com/package/prettier-plugin-multiline-arrays?activeTab=readme) - Code formatter
-- [ESLint](https://eslint.org/) with ESLint plugins for [Vue.js](https://eslint.vuejs.org/), [CSS](https://www.npmjs.com/package/@eslint/css), [JSON](https://www.npmjs.com/package/@eslint/json), [HTML](https://www.npmjs.com/package/@html-eslint/eslint-plugin), [Prettier](https://www.npmjs.com/package/eslint-config-prettier) - For catching bugs
+- [ESLint](https://eslint.org/) with [the unicorn extension](https://www.npmjs.com/package/eslint-plugin-unicorn) and ESLint plugins for [Vue.js](https://eslint.vuejs.org/), [CSS](https://www.npmjs.com/package/@eslint/css), [JSON](https://www.npmjs.com/package/@eslint/json), [HTML](https://www.npmjs.com/package/@html-eslint/eslint-plugin), [Prettier for ESLint](https://www.npmjs.com/package/eslint-config-prettier) and [JS/TS imports](https://www.npmjs.com/package/eslint-plugin-import-x) with [import resolver](https://www.npmjs.com/package/eslint-import-resolver-typescript) - For catching bugs
 
 ## 🚀 Getting started
 
@@ -143,8 +143,8 @@ project-root/
 
 ### Code style and commit messages
 
-- **Code Formatting:** Use [Prettier](https://prettier.io/) to ensure consistency. Many editors can apply `.prettierrc.json` automatically when saving.
-- **Coding Style**: Follow the [Vue.js Style Guide](https://vuejs.org/style-guide/) and the naming convention already in place.
+- **Code Formatting:** Use [Prettier](https://prettier.io/) (included in `package.json`) with the file `.prettierrc.json` provided with the project to ensure consistency. Many editors can apply `.prettierrc.json` automatically when saving.
+- **Coding Style**: Follow the [Vue.js Style Guide](https://vuejs.org/style-guide/), the [*vue-best-practices* skills](https://skills.sh/dedalus-erp-pas/foundation-skills/vue-best-practices), the [ESLint setup of Alexander Opalic](https://alexop.dev/posts/opinionated-eslint-setup-vue-projects/), the [style guide of Alexander Opalic](https://alexop.dev/posts/mastering-vue-3-composables-a-comprehensive-style-guide/) and the naming convention already in place. Use [ESLint](https://eslint.org/) with [the unicorn extension](https://www.npmjs.com/package/eslint-plugin-unicorn) and ESLint plugins for [Vue.js](https://eslint.vuejs.org/), [CSS](https://www.npmjs.com/package/@eslint/css), [JSON](https://www.npmjs.com/package/@eslint/json), [HTML](https://www.npmjs.com/package/@html-eslint/eslint-plugin), [Prettier for ESLint](https://www.npmjs.com/package/eslint-config-prettier) and [JS/TS imports](https://www.npmjs.com/package/eslint-plugin-import-x) with [import resolver](https://www.npmjs.com/package/eslint-import-resolver-typescript) (all are included in `package.json`) with the file `eslint.config.js` provided with the project. It is configured to follow most of the styles cited.
 - **Commit Messages:** Follow the [Conventional Commits](https://www.conventionalcommits.org/) style to maintain a clear and informative history:
   - `feat`: New features.
   - `fix`: Bug fixes.
