@@ -2,9 +2,9 @@
 import { fileURLToPath } from "node:url";
 import process from "node:process";
 import { glob } from "node:fs/promises";
-import matter from "gray-matter";
 import { readFileSync, writeFileSync } from "node:fs";
-import { basename, dirname, parse } from "node:path";
+import path from "node:path";
+import matter from "gray-matter";
 
 /**
  * @import {RecipeMetadata} from "@/types.js"
@@ -38,18 +38,19 @@ function parseRecipes(paths) {
     const fileContent = readFileSync(path, "utf8");
     // @ts-ignore
     const { data } = matter(fileContent);
-    if (Object.keys(data).length > 0) {
-      const recipe = {
-        slug: getSlug(path),
-        path: path.replaceAll("\\", "/"),
-        title: data["title"] ?? null,
-        tags: data["tags"] ?? null,
-        time: data["time"] ?? null,
-      };
-      recipes.push(recipe);
-    } else {
+
+    if (Object.keys(data).length === 0) {
       console.info(`[recipes] Recipe with empty frontmatter found: ${path}`);
+      continue;
     }
+    const recipe = {
+      slug: getSlug(path),
+      path: path.replaceAll("\\", "/"),
+      title: data["title"] ?? null,
+      tags: data["tags"] ?? null,
+      time: data["time"] ?? null,
+    };
+    recipes.push(recipe);
   }
   return recipes;
 }
@@ -60,8 +61,8 @@ function parseRecipes(paths) {
  * @returns {string}
  */
 function getSlug(filePath) {
-  const parent = basename(dirname(filePath));
-  const name = parse(filePath).name.replaceAll("_", "-");
+  const parent = path.basename(path.dirname(filePath));
+  const name = path.parse(filePath).name.replaceAll("_", "-");
   return `${parent}-${name}`;
 }
 
@@ -84,10 +85,10 @@ async function generateIndex() {
 // Check if the file is directly called with node command
 const isMain = process.argv[1] === fileURLToPath(import.meta.url);
 if (isMain) {
-  generateIndex().catch((error) => {
+  try {
+    await generateIndex();
+  } catch (error) {
     console.error(error);
-    process.exit(1);
-  });
+    process.exitCode = 1;
+  }
 }
-
-export { generateIndex };
