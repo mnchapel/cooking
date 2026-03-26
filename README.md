@@ -49,15 +49,17 @@ Source code for our family recipes website: side dishes, appetizers, beverages, 
 
 ### Built with
 
-- [Vue.js 3](https://vuejs.org/) with [Vue Router](https://router.vuejs.org/) - The web framework
-- [Nuxt 4](https://nuxt.com/) - The web framework
+- [npm](https://www.npmjs.com/) with [npm-run-all](https://github.com/bcomnes/npm-run-all2) - The package manager
+- [TypeScript 6](https://www.typescriptlang.org/) and its essential dependencies [TSConfig bases](https://github.com/tsconfig/bases) and [Definitely Typed](https://www.npmjs.com/package/@types/node) - The programming language
+- [Vue.js 3](https://vuejs.org/) with [Vue Router](https://router.vuejs.org/), [TSConfigs for Vue](https://www.npmjs.com/package/@vue/tsconfig) and [Type checking tool for Vue](https://www.npmjs.com/package/vue-tsc) - The front-end web framework
+- [Nuxt 4](https://nuxt.com/) - The front-end web framework
 - [Nuxt UI](https://ui.nuxt.com/) - UI components
 - [Tailwind CSS 4](https://tailwindcss.com/) - Utility-first CSS
 - [Marked](https://marked.js.org/) and [gray-matter](https://www.npmjs.com/package/gray-matter) - Markdown parsers
-- [Vite](https://vite.dev/) - Frontend build tool
+- [Vite](https://vite.dev/) with [Vite for Vue](https://github.com/vitejs/vite-plugin-vue/tree/main/packages/plugin-vue), [Vue DevTools plugin](https://devtools.vuejs.org/) and [Vite checker for TS](https://vite-plugin-checker.netlify.app/) - Frontend build tool
 - [GitHub Actions](https://github.com/features/actions) - Automated workflow
 - [Prettier](https://prettier.io/) with [Prettier for arrays](https://www.npmjs.com/package/prettier-plugin-multiline-arrays?activeTab=readme) - Code formatter
-- [ESLint](https://eslint.org/) with [the unicorn extension](https://www.npmjs.com/package/eslint-plugin-unicorn) and ESLint plugins for [Vue.js](https://eslint.vuejs.org/), [CSS](https://www.npmjs.com/package/@eslint/css), [JSON](https://www.npmjs.com/package/@eslint/json), [HTML](https://www.npmjs.com/package/@html-eslint/eslint-plugin), [Prettier for ESLint](https://www.npmjs.com/package/eslint-config-prettier) and [JS/TS imports](https://www.npmjs.com/package/eslint-plugin-import-x) with [import resolver](https://www.npmjs.com/package/eslint-import-resolver-typescript) - For catching bugs
+- [ESLint](https://eslint.org/) with [ESLint for TypeScript](https://typescript-eslint.io/) and its [ESLint parser](https://typescript-eslint.io/packages/parser) plugin, [the unicorn extension](https://www.npmjs.com/package/eslint-plugin-unicorn) and ESLint plugins for [Vue.js](https://eslint.vuejs.org/) and [Vue.js parser](https://github.com/vuejs/vue-eslint-parser), [CSS](https://www.npmjs.com/package/@eslint/css), [JSON](https://www.npmjs.com/package/@eslint/json), [HTML](https://www.npmjs.com/package/@html-eslint/eslint-plugin), [Prettier for ESLint](https://www.npmjs.com/package/eslint-config-prettier) and [JS/TS imports-x](https://www.npmjs.com/package/eslint-plugin-import-x) with [import resolver](https://www.npmjs.com/package/eslint-import-resolver-typescript) - For catching bugs
 
 ## 🚀 Getting started
 
@@ -143,8 +145,8 @@ project-root/
 
 ### Code style and commit messages
 
-- **Code Formatting:** Use [Prettier](https://prettier.io/) (included in `package.json`) with the file `.prettierrc.json` provided with the project to ensure consistency. Many editors can apply `.prettierrc.json` automatically when saving.
-- **Coding Style**: Follow the [Vue.js Style Guide](https://vuejs.org/style-guide/), the [*vue-best-practices* skills](https://skills.sh/dedalus-erp-pas/foundation-skills/vue-best-practices), the [ESLint setup of Alexander Opalic](https://alexop.dev/posts/opinionated-eslint-setup-vue-projects/), the [style guide of Alexander Opalic](https://alexop.dev/posts/mastering-vue-3-composables-a-comprehensive-style-guide/) and the naming convention already in place. Use [ESLint](https://eslint.org/) with [the unicorn extension](https://www.npmjs.com/package/eslint-plugin-unicorn) and ESLint plugins for [Vue.js](https://eslint.vuejs.org/), [CSS](https://www.npmjs.com/package/@eslint/css), [JSON](https://www.npmjs.com/package/@eslint/json), [HTML](https://www.npmjs.com/package/@html-eslint/eslint-plugin), [Prettier for ESLint](https://www.npmjs.com/package/eslint-config-prettier) and [JS/TS imports](https://www.npmjs.com/package/eslint-plugin-import-x) with [import resolver](https://www.npmjs.com/package/eslint-import-resolver-typescript) (all are included in `package.json`) with the file `eslint.config.js` provided with the project. It is configured to follow most of the styles cited.
+- **Code Formatting:** Use [Prettier](https://prettier.io/) (included in `package.json`) with the file `.prettierrc.json` provided with the project to ensure consistency. Many editors can apply `.prettierrc.json` automatically when saving. If you use VS Code, the [Prettier extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) is recommanded.
+- **Coding Style**: Follow the [Vue.js Style Guide](https://vuejs.org/style-guide/), the [*vue-best-practices* skills](https://skills.sh/dedalus-erp-pas/foundation-skills/vue-best-practices), the [ESLint setup of Alexander Opalic](https://alexop.dev/posts/opinionated-eslint-setup-vue-projects/), the [style guide of Alexander Opalic](https://alexop.dev/posts/mastering-vue-3-composables-a-comprehensive-style-guide/) and the naming convention already in place. For that, use [ESLint](https://eslint.org/) with all its plugins included in `package.json` and the file `eslint.config.js` provided with the project. It is configured to follow most of the styles cited. If you use VS Code, the [ESLint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) is recommanded. Also, you can use the `npm: lint:inspector` task to launch the [ESLint Config Inspector](https://eslint.org/blog/2024/04/eslint-config-inspector/) and see which rules are active.
 - **Commit Messages:** Follow the [Conventional Commits](https://www.conventionalcommits.org/) style to maintain a clear and informative history:
   - `feat`: New features.
   - `fix`: Bug fixes.

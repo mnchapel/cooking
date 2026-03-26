@@ -1,12 +1,15 @@
 import { defineConfig, globalIgnores } from "eslint/config";
 import globals from "globals";
-import js from "@eslint/js";
-import json from "@eslint/json";
-import css from "@eslint/css";
-import html from "@html-eslint/eslint-plugin";
+import eslintJs from "@eslint/js";
+import eslintJson from "@eslint/json";
+import eslintCss from "@eslint/css";
+import eslintHtml from "@html-eslint/eslint-plugin";
+import tsEslint from "typescript-eslint";
+import tsParser from "@typescript-eslint/parser";
 import pluginImportX from "eslint-plugin-import-x";
 import pluginUnicorn from "eslint-plugin-unicorn";
 import pluginVue from "eslint-plugin-vue";
+import vueParser from "vue-eslint-parser";
 import eslintConfigPrettier from "eslint-config-prettier/flat";
 import { createTypeScriptImportResolver } from "eslint-import-resolver-typescript";
 
@@ -19,24 +22,33 @@ export default defineConfig([
       "import-x/resolver-next": [
         createTypeScriptImportResolver({
           alwaysTryTypes: true,
-          project: "./tsconfig.json",
+          project: ["./jsconfig.json", "./tsconfig.json"],
         }),
       ],
     },
     plugins: {
-      js,
+      "js": eslintJs,
       "import-x": pluginImportX,
       "unicorn": pluginUnicorn,
     },
     extends: [
+      tsEslint.configs.recommended,
+      tsEslint.configs.stylistic,
       "js/recommended",
       "import-x/flat/recommended",
       pluginUnicorn.configs.recommended,
     ],
     languageOptions: {
-      ecmaVersion: "latest",
-      sourceType: "module",
-      globals: globals.browser,
+      parser: vueParser,
+      parserOptions: {
+        parser: tsParser,
+        ecmaVersion: "latest",
+        sourceType: "module",
+      },
+      globals: {
+        ...globals.browser,
+        ...globals.node,
+      },
     },
   },
   // JS rules
@@ -51,10 +63,6 @@ export default defineConfig([
         {
           selector: "IfStatement > IfStatement.alternate",
           message: "Avoid `else if`. Prefer early returns or ternary operators.",
-        },
-        {
-          selector: "IfStatement > :not(IfStatement).alternate",
-          message: "Avoid `else`. Prefer early returns or ternary operators.",
         },
       ],
       // 'eslint-plugin-import-x' packages rules including its
@@ -123,6 +131,7 @@ export default defineConfig([
       "unicorn/prefer-node-protocol": ["error"], // Use the node: protocol when importing
       "unicorn/prefer-switch": ["error", { emptyDefaultCase: "no-default-case" }], // Prefer switch over multiple else-if
       "unicorn/prevent-abbreviations": ["off"], // props, e, Db are fine
+      "unicorn/relative-url-style": ["error", "always"], // relative URL should be prefixed with ./ to be consistent with JS/TS import
     },
   },
   // TS rules
@@ -229,7 +238,8 @@ export default defineConfig([
   {
     name: "app/json-rules",
     files: ["**/*.json"],
-    plugins: { json },
+    ignores: ["package-lock.json"],
+    plugins: { json: eslintJson },
     language: "json/json",
     extends: ["json/recommended"],
   },
@@ -237,7 +247,7 @@ export default defineConfig([
   {
     name: "app/jsonc-rules",
     files: ["**/*.jsonc"],
-    plugins: { json },
+    plugins: { json: eslintJson },
     language: "json/jsonc",
     extends: ["json/recommended"],
   },
@@ -245,7 +255,8 @@ export default defineConfig([
   {
     name: "app/css-rules",
     files: ["**/*.css"],
-    plugins: { css },
+    // @ts-expect-error it's a reported bug: https://github.com/eslint/eslint/issues/20287
+    plugins: { css: eslintCss },
     language: "css/css",
     extends: ["css/recommended"],
   },
@@ -253,7 +264,7 @@ export default defineConfig([
   {
     name: "app/html-rules",
     files: ["**/*.html"],
-    plugins: { html },
+    plugins: { html: eslintHtml },
     language: "html/html",
     extends: ["html/recommended"],
     rules: {
@@ -269,5 +280,5 @@ export default defineConfig([
     },
   },
   globalIgnores(["**/dist/**", "**/dist-ssr/**", "**/coverage/**"]),
-  // eslintConfigPrettier
+  eslintConfigPrettier
 ]);

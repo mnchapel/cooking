@@ -1,8 +1,8 @@
 import { fileURLToPath, URL } from "node:url";
-
 import { defineConfig } from "vite";
 import vue from "@vitejs/plugin-vue";
 import vueDevTools from "vite-plugin-vue-devtools";
+import checker from "vite-plugin-checker";
 import { generateIndex } from "./scripts/generate-recipes-index.js";
 
 // https://vite.dev/config/
@@ -11,6 +11,9 @@ export default defineConfig({
     recipesIndexPlugin(),
     vue(),
     vueDevTools(),
+    checker({
+      typescript: true,
+    }),
   ],
   resolve: {
     alias: {
@@ -44,14 +47,14 @@ function recipesIndexPlugin() {
     configureServer(server) {
       server.watcher.on("all", async (event, path) => {
         // Fast normalization for cross-platform support
-        const normalizedPath = path.replace(/\\/g, "/");
+        const normalizedPath = path.replaceAll("\\", "/");
         if (normalizedPath.endsWith(".md") && normalizedPath.includes("src/content")) {
           console.info(`[recipes] Event '${event}' detected at: ${path}`);
           try {
             await generateIndex();
             console.info("[recipes] Index successfully regenerated.");
-          } catch (err) {
-            console.error("[recipes] Indexing failed:", err);
+          } catch (error) {
+            console.error("[recipes] Indexing failed:", error);
           }
         }
       });

@@ -1,5 +1,13 @@
 {
-  "$schema": "https://www.schemastore.org/tsconfig",
+  "files": [],
+  "references": [
+    {
+      "path": "./tsconfig.node.json"
+    },
+    {
+      "path": "./tsconfig.app.json"
+    }
+  ],
   "compilerOptions": {
     "strict": true,
     "noFallthroughCasesInSwitch": true,
@@ -16,9 +24,6 @@
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "baseUrl": ".",
-    "target": "es2024",
-    "module": "nodenext",
-    "moduleResolution": "nodenext",
     "allowJs": true,
     "checkJs": true,
     "declaration": true,

@@ -5,10 +5,13 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "run-p type-check \"build-only {@}\" --",
     "preview": "vite preview",
+    "build-only": "vite build",
+    "type-check": "vue-tsc --build",
     "lint": "run-s lint:*",
     "lint:eslint": "eslint . --fix --cache",
+    "lint:inspector" : "eslint --inspect-config -- config \"eslint.config.js\"",
     "format": "prettier --write --experimental-cli src/",
     "generate-recipes-index": "node scripts/generate-recipes-index.js"
   },
@@ -22,7 +25,11 @@
     "@eslint/js": "^10.0.1",
     "@eslint/json": "^1.0.1",
     "@html-eslint/eslint-plugin": "^0.58.1",
+    "@tsconfig/node24": "^24.0.4",
+    "@types/node": "^25.5.0",
+    "@typescript-eslint/parser": "^8.57.2",
     "@vitejs/plugin-vue": "^6.0.4",
+    "@vue/tsconfig": "^0.9.1",
     "eslint": "^10.0.3",
     "eslint-config-prettier": "^10.1.8",
     "eslint-import-resolver-typescript": "^4.4.4",
@@ -30,10 +37,16 @@
     "eslint-plugin-unicorn": "^63.0.0",
     "eslint-plugin-vue": "^10.8.0",
     "globals": "^17.4.0",
+    "npm-run-all2": "^8.0.4",
     "prettier": "^3.8.1",
     "prettier-plugin-multiline-arrays": "^4.1.4",
+    "typescript": "^5.9.3",
+    "typescript-eslint": "^8.57.2",
     "vite": "^7.3.1",
-    "vite-plugin-vue-devtools": "^8.0.6"
+    "vite-plugin-checker": "^0.12.0",
+    "vite-plugin-vue-devtools": "^8.0.6",
+    "vue-eslint-parser": "^10.4.0",
+    "vue-tsc": "^3.2.6"
   },
   "engines": {
     "node": "^20.19.0 || >=22.12.0"
