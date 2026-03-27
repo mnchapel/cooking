@@ -1,17 +1,24 @@
+import { createTypeScriptImportResolver } from "eslint-import-resolver-typescript";
 import { defineConfig, globalIgnores } from "eslint/config";
+
 import globals from "globals";
+
 import eslintJs from "@eslint/js";
-import eslintJson from "@eslint/json";
-import eslintCss from "@eslint/css";
-import eslintHtml from "@html-eslint/eslint-plugin";
 import tsEslint from "typescript-eslint";
 import tsParser from "@typescript-eslint/parser";
+
+import eslintCss from "@eslint/css";
+import eslintJson from "@eslint/json";
+import eslintHtml from "@html-eslint/eslint-plugin";
+
 import pluginImportX from "eslint-plugin-import-x";
 import pluginUnicorn from "eslint-plugin-unicorn";
-import pluginVue from "eslint-plugin-vue";
+
 import vueParser from "vue-eslint-parser";
+import pluginVue from "eslint-plugin-vue";
+
 import eslintConfigPrettier from "eslint-config-prettier/flat";
-import { createTypeScriptImportResolver } from "eslint-import-resolver-typescript";
+
 
 export default defineConfig([
   // Common rules
