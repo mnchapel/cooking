@@ -11,9 +11,9 @@
     "type-check": "vue-tsc --build",
     "lint": "run-s lint:*",
     "lint:eslint": "eslint . --fix --cache",
-    "lint:inspector" : "eslint --inspect-config -- config \"eslint.config.js\"",
+    "lint:inspector": "eslint --inspect-config -- config \"eslint.config.ts\"",
     "format": "prettier --write --experimental-cli src/",
-    "generate-recipes-index": "node scripts/generate-recipes-index.js"
+    "generate-recipes-index": "node scripts/generate-recipes-index.ts"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",

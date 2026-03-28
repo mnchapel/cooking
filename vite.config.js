@@ -3,7 +3,7 @@ import { defineConfig } from "vite";
 import vue from "@vitejs/plugin-vue";
 import vueDevTools from "vite-plugin-vue-devtools";
 import checker from "vite-plugin-checker";
-import { generateIndex } from "./scripts/generate-recipes-index.js";
+import { generateIndex } from "./scripts/generate-recipes-index.ts";
 
 // https://vite.dev/config/
 export default defineConfig({
