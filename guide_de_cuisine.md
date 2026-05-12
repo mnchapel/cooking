@@ -12,6 +12,7 @@
 
 ## Nomenclature
 
+- Feu très faible == thermostat 2
 - Feu faible == thermostat 3
 - Feu moyen == thermostat 4
 - Feu fort == thermostat 5
