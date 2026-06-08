@@ -6,13 +6,16 @@ Pour 8 personnes
 - 370g de thon (égouté)
 - 30 bâtonnets de surimis
 - 400g de fromage de chèvre
-- mayonnaise
+- 235g de Mayonnaise
+- persil
 - sel
 
 # Préparation
-- Cuire les pâtes et les réserver.
-- Couper les tomates, le surimi, le fromage de chèvre et ajouter à la préparation.
-- Emietter le thon et ajouter à la préparation avec la mayonnaise et le sel.
+- Cuire les pâtes, les égoutter et les verser dans un grand saladier. Attendre qu'elles refroidissent. Pour la suite de la préparation, le respect de l'ordre d'ajout des ingrédients facilitera le mélange de la préparation.
+- Couper les tomates en petits cubes et les verser dans le saladier. Ajouter la mayonnaise, le persil et le sel, puis mélanger le tout.
+- Découper les bâtonnets de surimi, les verser à la préparation puis mélanger.
+- Emietter le thon, l'ajouter à la préparation et mélanger.
+- Découper le fromage de chêvres en petits morceaux, les verser dans le saladier puis mélanger.
 - Réserver au moins 1h au frais.
 
 Recette d'origine : une recette signature de Joseph

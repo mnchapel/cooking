@@ -19,4 +19,5 @@
 
 ## Documentation de référence
 
-- [The Cook's Thesaurus](https://foodsubs.com/).
+- [*Wiki Cookbook*](https://en.wikibooks.org/wiki/Cookbook:Table_of_Contents).
+- [*Cook's Thesaurus*](http://www.sonic.net/~alden/).

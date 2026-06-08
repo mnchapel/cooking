@@ -1,4 +1,4 @@
-## Ingrédients pour X personnes
+## Ingrédients pour 1 personnes
 
 - 1 oeuf
 - 90g de compote de pomme ssa

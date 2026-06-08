@@ -3,7 +3,7 @@
 - 70g de noisettes concassées
 - 140g de cantal râpé
 - 250g de farine
-- 4 œufs
+- 4 oeufs
 - 16 cl de lait
 - 1 gousse d'ail hachée finement
 - 5 cl d'huile d'olives

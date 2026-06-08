@@ -1,4 +1,4 @@
-## Ingrédients pour X personnes
+## Ingrédients pour 8 personnes
 
 Pour le gâteau :
 
