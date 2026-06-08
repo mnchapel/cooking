@@ -1,7 +1,7 @@
 {
-  "name": "my-online-cookbook",
-  "version": "0.1.0",
-  "description": "A starter kit to make your own online recipe cookbook",
+  "name": "cuisine-des-buddies",
+  "version": "1.0.0",
+  "description": "Le livre de cuisine de Joseph et Marie-Neige",
   "main": "index.js",
   "scripts": {
     "dev:css": "sass src/scss/main.scss:src/_includes/css/main.css --watch --style=compressed",
@@ -24,6 +24,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maeligg/my-online-cookbook"
+    "url": "git+https://github.com/mnchapel/cooking"
   }
 }

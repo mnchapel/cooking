@@ -1,12 +1,12 @@
 {
-    "name": "My Online Cookbook",
-    "metaDescription": "The online cookbook of John Doe",
-    "author": "John Doe",
+    "name": "Cuisine des buddies",
+    "metaDescription": "Le livre de cuisine de Joseph et Marie-Neige",
+    "author": "Joseph et Marie-Neige",
     "primaryColor": "#ffdb70",
     "secondaryColor": "#32816e",
-    "searchLabel": "Find recipes by name, tag or ingredients",
-    "searchContainsLabel": "Contains",
-    "servingsLabel": "servings",
-    "ingredientsLabel": "Ingredients",
+    "searchLabel": "Chercher des recettes par nom, tag ou ingrédients",
+    "searchContainsLabel": "Trouvés",
+    "servingsLabel": "portions",
+    "ingredientsLabel": "Ingrédients",
     "baseURL": "https://myonlinecookbook.netlify.app"
 }
