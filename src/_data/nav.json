@@ -9,6 +9,10 @@
             "url": "/recipes/"
         },
         {
+            "text": "Guide de cuisine",
+            "url": "/cooking-guide/"
+        },
+        {
             "text": "À propos",
             "url": "/about/"
         }

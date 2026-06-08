@@ -3,11 +3,17 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>all - Cuisine des buddies</title>
+    <title>Matlouh - Cuisine des buddies</title>
     <meta name="description" content="Le livre de cuisine de Joseph et Marie-Neige">
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 105 55%22><text y=%22.9em%22 font-size=%2275%22>🍽️</text></svg>">
-    <meta property="og:title" content="all - Cuisine des buddies" />
+    <meta property="og:title" content="Matlouh - Cuisine des buddies" />
 
+    
+      <meta property="og:image" content="https://myonlinecookbook.netlify.app/img/recipes/no-image-available.jpg" />
+      <meta name="twitter:card" content="summary_large_image">
+      <meta name="twitter:image" content="https://myonlinecookbook.netlify.app/img/recipes/no-image-available.jpg" />
+      <meta property="og:image:alt" content="Page image for Matlouh" />
+      <meta name="twitter:image:alt" content="Page image for Matlouh" />
     
     
     <style>
@@ -151,76 +157,130 @@
 
     <main>
         
-    <main>
-        <section>
-            <div class="l-container">
-                <h1>all</h1>
+    <picture><source type="image/webp" srcset="/img/recipes/41b0dd92-547.webp 547w" sizes="100vw"><img class="c-recipe__header-image" alt="Matlouh" loading="lazy" decoding="async" src="/img/recipes/41b0dd92-547.jpeg" width="547" height="547"></picture>
+    <h1 class="c-recipe__title">Matlouh</h1>
+    <section>
+        <div class="l-container">
+            <div class="c-recipe__recipe-content-wrapper">
+                <div class="c-recipe__tag-list">
+                    
+                        <a class="c-tags__tag" href="/tags/soup">Soup 🥣</a>
+                    
+                        <a class="c-tags__tag" href="/tags/vegetarian">Vegetarian 🌿</a>
+                    
+                        <a class="c-tags__tag" href="/tags/vegan">Vegan 🌱</a>
+                    
+                </div>
+                <div class="c-recipe__ingredients-wrapper" x-data='{currentServings: 4, ingredients: decodeURI("1%20large%20onion%C2%A36%20garlic%20cloves%C2%A33%20tablespoons%20of%20grated%20ginger%C2%A32%20tablespoons%20virgin%20coconut%20oil%C2%A35%20teaspoons%20curry%20powder%C2%A30.5%20teaspoon%20cayenne%20pepper%C2%A3400g%20can%20unsweetened%20coconut%20milk%C2%A3150g%20split%20red%20lentils%C2%A38%20tablespoons%20unsweetened%20shredded%20coconut%C2%A32%20teaspoons%20kosher%20salt%C2%A3300g%20spinach%C2%A31%20can%20crushed%20tomatoes%C2%A3plain%20whole-milk%20or%20non-dairy%20yogurt%20(for%20serving;%20optional)").split("£") }'>
+                    
+                        <div class="c-recipe__additional-info">
+                            
+                            
+                                <p>
+                                    <template x-if="currentServings > 1">
+                                        <button @click="currentServings -= 1" class="c-recipe__serving-button">
+                                            -
+                                            <span class="u-sr-only">Remove 1 serving</span>
+                                        </button>
+                                    </template>
+                                    <span x-text="currentServings"></span>
+                                    <button @click="currentServings += 1" class="c-recipe__serving-button">
+                                        +
+                                        <span class="u-sr-only">Add 1 serving</span>
+                                    </button>
+                                    <span>portions</span>
+                                </p>
+                            
+                        </div>
+                    
 
-                
-            </div>
-        </section>
-        <section class="u-bgc-grey-100">
-            <div class="l-container">
-                <div class="c-card__wrapper">
+                    <h3>Ingrédients</h3>
+                    <template x-if="currentServings">
+                        <ul class="c-recipe__ingredients-list">
+                            <template x-for="(ingredient, index) in ingredients" :key="index">
+                                <li x-text="adaptQuantity(ingredient, 4, currentServings)"></li>
+                            </template>
+                        </ul>
+                    </template>
+
+                    <template x-if="!currentServings">
+                        <ul class="c-recipe__ingredients-list">
+                            
+                                <li>1 large onion</li>
+                            
+                                <li>6 garlic cloves</li>
+                            
+                                <li>3 tablespoons of grated ginger</li>
+                            
+                                <li>2 tablespoons virgin coconut oil</li>
+                            
+                                <li>5 teaspoons curry powder</li>
+                            
+                                <li>0.5 teaspoon cayenne pepper</li>
+                            
+                                <li>400g can unsweetened coconut milk</li>
+                            
+                                <li>150g split red lentils</li>
+                            
+                                <li>8 tablespoons unsweetened shredded coconut</li>
+                            
+                                <li>2 teaspoons kosher salt</li>
+                            
+                                <li>300g spinach</li>
+                            
+                                <li>1 can crushed tomatoes</li>
+                            
+                                <li>plain whole-milk or non-dairy yogurt (for serving; optional)</li>
+                            
+                        </ul>
+                    </template>
+                </div>
+
+                <div class="c-recipe__instructions-wrapper u-free-text">
                     
-                        
+                        <p>Source : <a href="https://www.bonappetit.com/recipe/vegan-coconut-lentil-soup" target="_blank" rel="noopener">Bon Appétit</a></p>
                     
-                        
-                    
-                        
-                    
-                        
-                    
+                    <h2>Ingrédients pour 4 pains</h2>
+<ul>
+<li>300g de farine (T45 idéalement)</li>
+<li>200g de semoule fine</li>
+<li>30cl d'eau tiède (voire un peu plus, cf. préparation)</li>
+<li>1c.a.c de miel</li>
+<li>1c.a.c de sucre</li>
+<li>2c.a.c de sel fin</li>
+<li>1c.a.c d'huile</li>
+<li>1 sachet de levure boulangère</li>
+</ul>
+<h2>Préparation</h2>
+<h3>Etape 1</h3>
+<p>Activer la <strong>levure de boulanger</strong> avec 5cl d'<strong>eau tiède</strong> et le <strong>miel</strong>. Laisser reposer 10 minutes.</p>
+<h3>Etape 2</h3>
+<p>Ajouter la <strong>farine</strong>, la <strong>semoule</strong>, le <strong>sucre</strong>, le <strong>sel</strong>, l'<strong>huile</strong>. Ajouter le reste d'<strong>eau tiède</strong> (les 25cl), progressivement. Mélanger jusqu'à obtenir une texture bien homogène.</p>
+<h3>Etape 3</h3>
+<p>Transferer la pâte sur le plan de travail et pétrir pendant 10 minutes. Ne pas hésiter à ajouter de l'eau pendant le pétrissage pour avoir une pâte bien hydratée (cf. la vidéo de la recette d'origine).</p>
+<h3>Etape 4</h3>
+<p>Laisser reposer la pâte 15 minutes à couvert.</p>
+<h3>Etape 5</h3>
+<p>Faire un rabat, la bouler et la laisser reposer 1h30. Pour le rabat : etaler la boule de pâte en appuyant dessus avec les mains puis rabattre le bord inférieur vers le centre et faire pareil avec le bord supérieur. Tourner la pâte de 90° et rabattre les bords inférieurs et supérieurs comme précédemment.</p>
+<h3>Etape 6</h3>
+<p>Diviser la pâte en 4 pâtons, les bouler et les étaler légèrement dans la semoule fine. Laisser reposer les pâtons à couvert pendant 30 minutes.</p>
+<h3>Etape 7</h3>
+<p>Faire chauffer une poêle sur un feu moyen puis faire cuire les petits pains un à un. Mettre un pâton dans la poêle en l'applatissant légèrement. Lorsque des petites bulles apparaissent ou lorsque le dessous est un peu doré, le retourner. Le retourner environ toutes les 30 secondes jusqu'à ce qu'il soit bien gonflé et doré.</p>
+<h3>Etape 8</h3>
+<p>Mettre les petits pains dans un torchon tout de suite après la cuisson pour qu'ils conservent leur moelleux.</p>
+<h2>Références</h2>
+<p><a href="https://www.instagram.com/p/CxTUId8oNgi/">Recette d'origine</a></p>
+
                 </div>
             </div>
-        </section>
-        
-            <section>
-                <div class="l-container">
-                    <nav>
-    <ul class="c-tags">
-        
-            <li><a class="c-tags__tag" href="/recipes">Toutes</a></li>
-        
-        
-            
-                <li><a class="c-tags__tag" href="/tags/cake">Cake 🍰</a></li>
-            
-        
-            
-                <li><a class="c-tags__tag" href="/tags/favourite">Favourite ⭐</a></li>
-            
-        
-            
-                <li><a class="c-tags__tag" href="/tags/italian">Italian 🇮🇹</a></li>
-            
-        
-            
-                <li><a class="c-tags__tag" href="/tags/soup">Soup 🥣</a></li>
-            
-        
-            
-                <li><a class="c-tags__tag" href="/tags/sweet">Sweet 🍬</a></li>
-            
-        
-            
-                <li><a class="c-tags__tag" href="/tags/sharable">Sharable</a></li>
-            
-        
-            
-                <li><a class="c-tags__tag" href="/tags/vegetarian">Vegetarian 🌿</a></li>
-            
-        
-            
-                <li><a class="c-tags__tag" href="/tags/vegan">Vegan 🌱</a></li>
-            
-        
-    </ul>
-</nav>
-                </div>
-            </section>
-        
-    </main>
+        </div>
+    </section>
+
+    <script>
+        function adaptQuantity (ingredient, originalServings, currentServings) {
+            return ingredient.replace(/(\d|\.|,)+/, match => Number(Math.round(parseFloat(match.replace(',', '.')) * currentServings / originalServings + 'e' + 2) + 'e-' + 2));
+        }
+    </script>
 
     </main>
 

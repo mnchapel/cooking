@@ -15,7 +15,7 @@ module.exports = config => {
 
     /* Collections */
     config.addCollection('recipes', collection => {
-        return [...collection.getFilteredByGlob('./src/recipes/*.md')];
+        return [...collection.getFilteredByGlob('./src/recipes/**/*.md')];
     });
 
     config.addCollection('tagList', collection => {
