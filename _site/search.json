@@ -2,6 +2,13 @@
 [
     
         {
+            "title" : "Matlouh",
+            "url" : "/recipes/accompagnement/matlouh/",
+            "ingredients" : ["300 g de farine (T45 idéalement)","200 g de semoule fine","30 cl d&#39;eau tiède (voire un peu plus, cf. préparation)","1 c.à.c de miel","1 c.à.c de sucre","2 c.à.c de sel fin","1 c.à.c d&#39;huile","1 sachet de levure boulangère"],
+            "tags" : ["Pain 🍞"]
+        },
+    
+        {
             "title" : "Coconut lentil soup",
             "url" : "/recipes/coconut-lentil-soup/",
             "ingredients" : ["1 large onion","6 garlic cloves","3 tablespoons of grated ginger","2 tablespoons virgin coconut oil","5 teaspoons curry powder","0.5 teaspoon cayenne pepper","400g can unsweetened coconut milk","150g split red lentils","8 tablespoons unsweetened shredded coconut","2 teaspoons kosher salt","300g spinach","1 can crushed tomatoes","plain whole-milk or non-dairy yogurt (for serving; optional)"],
@@ -23,10 +30,45 @@
         },
     
         {
-            "title" : "Matlouh",
-            "url" : "/recipes/accompagnement/matlouh/",
-            "ingredients" : ["1 large onion","6 garlic cloves","3 tablespoons of grated ginger","2 tablespoons virgin coconut oil","5 teaspoons curry powder","0.5 teaspoon cayenne pepper","400g can unsweetened coconut milk","150g split red lentils","8 tablespoons unsweetened shredded coconut","2 teaspoons kosher salt","300g spinach","1 can crushed tomatoes","plain whole-milk or non-dairy yogurt (for serving; optional)"],
-            "tags" : ["Soup 🥣","Vegetarian 🌿","Vegan 🌱"]
+            "title" : "Pain",
+            "url" : "/recipes/accompagnement/pain/",
+            "ingredients" : ["500 g de farine","30 cl d&#39;eau","1 sachet de levure de boulanger","1 c.à.c de sel","100 g de noix (optionel)","1 c.à.s d&#39;huile de noix (optionel)"],
+            "tags" : ["Farine 🌾","Levure de boulanger 🍞","Noix 🥜","Huile de noix 🥜"]
+        },
+    
+        {
+            "title" : "Cake aux olives lardons",
+            "url" : "/recipes/amuse-bouche/cake_aux_olives_lardons/",
+            "ingredients" : ["250 g de farine","4 oeufs","10 cl d&#39;huile de tournesol","10 cl de vin blanc sec","200 g d&#39;olives vertes dénoyautées et coupées","200 g d&#39;allumettes de jambon blanc","150 g de gruyère rapé","1 sachet de levure chimique","Poivre","Beurre pour le moule"],
+            "tags" : ["Farine 🌾","Oeufs 🥚","Huile de tournesol 🌻","Vin blanc sec 🥂","Olives vertes 🫒","Jambon blanc 🥓","Gruyère râpé 🧀","Levure chimique 🧪","Poivre 🧂","Beurre 🧈"]
+        },
+    
+        {
+            "title" : "Cake aux épinards, noisettes et cantal",
+            "url" : "/recipes/amuse-bouche/cake_epinards_noisettes_cantal/",
+            "ingredients" : ["210 g d&#39;épinards frais ciselés","70 g de noisettes concassées","140 g de cantal râpé","250 g de farine","4 oeufs","16 cl de lait","1 gousse d&#39;ail hachée finement","5 cl d&#39;huile d&#39;olives","1 sachet de levure","sel/poivre"],
+            "tags" : ["Épinards 🥬","Noisettes 🥜","Cantal 🧀","Farine 🌾","Oeufs 🥚","Lait 🥛","Ail 🧄","Huile d&#39;olives 🌻","Levure 🍞","TEMPLATE"]
+        },
+    
+        {
+            "title" : "Crackers aux graines",
+            "url" : "/recipes/amuse-bouche/crackers_aux_graines/",
+            "ingredients" : ["60 g de farine T80, T150 ou classique","15 g de petits flocons d’avoine","60 g de mix de graines (tournesol, courge, lin, sésame…)","1/4 c.à.c de bicarbonate (ou pincée de levure chimique à défaut)","1/2 c.à.c de fleur de sel","1/4 c.à.c de poivre","1/2 c.à.c d&#39;ail semoule","1/2 c.à.c d&#39;herbes de Provence","60 g d&#39;eau froide","25 g d&#39;huile d’olive"],
+            "tags" : ["Farine 🌾","Flocons d&#39;avoine 🌾","Graines 🌻","Bicarbonate 🧪","Fleur de sel 🧂","Poivre 🧂","Ail 🧄","Herbes de Provence 🌿","Huile d&#39;olive 🌻","GRAS"]
+        },
+    
+        {
+            "title" : "Crackers moutarde et comté",
+            "url" : "/recipes/amuse-bouche/crackers_moutarde_comte/",
+            "ingredients" : ["30 g de moutarde","1 jaune d&#39;oeuf","20 g d&#39;huile d&#39;olive","30 g de comté râpé (ou parmesan)","20 g de lait (végétal ou non)","1 bonne pincée d&#39;herbes de Provence","1/2 c.à.c de sel","120 g de farine"],
+            "tags" : ["Moutarde 🍯","Jaune d&#39;oeuf 🥚","Huile d&#39;olive 🌻","Comté râpé 🧀","Lait 🥛","Herbes de Provence 🌿","Sel 🧂","Farine 🌾"]
+        },
+    
+        {
+            "title" : "Gougeres au fromage",
+            "url" : "/recipes/amuse-bouche/gougeres_au_fromage/",
+            "ingredients" : ["150 g de farine taminsée","150 g de gruyère râpé","80 g de beurre","4 oeufs (+ 1 jaune optionnel)","25 cl d&#39;eau","1 pincée de muscade","sel/poivre"],
+            "tags" : ["Farine 🌾","Gruyère râpé 🧀","Beurre 🧈","Oeufs 🥚","Jaune d&#39;oeuf 🥚","Muscade 🧂","Sel 🧂","Poivre 🧂"]
         }
     
 ]

@@ -1,41 +1,22 @@
 ---
-title: Matlouh
+title: "Matlouh"
 image: /img/recipes/no-image-available.jpg
 tags:
-    - Soup 🥣
-    - Vegetarian 🌿
-    - Vegan 🌱
-sourceLabel: Bon Appétit
-sourceURL: https://www.bonappetit.com/recipe/vegan-coconut-lentil-soup
+  - Pain 🍞
+time: 45 min
 servings: 4
+sourceLabel: "Instagram"
+sourceURL: https://www.instagram.com/p/CxTUId8oNgi/
 ingredients:
-- 1 large onion
-- 6 garlic cloves
-- 3 tablespoons of grated ginger
-- 2 tablespoons virgin coconut oil
-- 5 teaspoons curry powder
-- 0.5 teaspoon cayenne pepper
-- 400g can unsweetened coconut milk
-- 150g split red lentils
-- 8 tablespoons unsweetened shredded coconut
-- 2 teaspoons kosher salt
-- 300g spinach
-- 1 can crushed tomatoes
-- plain whole-milk or non-dairy yogurt (for serving; optional)
+  - 300 g de farine (T45 idéalement)
+  - 200 g de semoule fine
+  - 30 cl d'eau tiède (voire un peu plus, cf. préparation)
+  - 1 c.à.c de miel
+  - 1 c.à.c de sucre
+  - 2 c.à.c de sel fin
+  - 1 c.à.c d'huile
+  - 1 sachet de levure boulangère
 ---
-
-## Ingrédients pour 4 pains
-
-- 300g de farine (T45 idéalement)
-- 200g de semoule fine
-- 30cl d'eau tiède (voire un peu plus, cf. préparation)
-- 1c.a.c de miel
-- 1c.a.c de sucre
-- 2c.a.c de sel fin
-- 1c.a.c d'huile
-- 1 sachet de levure boulangère
-
-## Préparation
 
 ### Etape 1
 
@@ -68,7 +49,3 @@ Faire chauffer une poêle sur un feu moyen puis faire cuire les petits pains un 
 ### Etape 8
 
 Mettre les petits pains dans un torchon tout de suite après la cuisson pour qu'ils conservent leur moelleux.
-
-## Références
-
-[Recette d'origine](https://www.instagram.com/p/CxTUId8oNgi/)
