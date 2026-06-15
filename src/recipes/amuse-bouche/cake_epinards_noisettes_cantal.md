@@ -5,12 +5,12 @@ tags:
   - Épinards 🥬
   - Noisettes 🥜
   - Cantal 🧀
-  - Farine 🌾
+  - Farine 🍚
   - Oeufs 🥚
   - Lait 🥛
   - Ail 🧄
-  - Huile d'olives 🌻
-  - Levure 🍞
+  - Huile d'olive 🧴
+  - Levure 🧪
   - TEMPLATE
 time: 45 min
 servings: 4

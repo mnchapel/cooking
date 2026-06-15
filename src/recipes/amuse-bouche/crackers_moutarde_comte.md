@@ -2,14 +2,14 @@
 title: "Crackers moutarde et comté"
 image: /img/recipes/no-image-available.jpg
 tags:
-  - Moutarde 🍯
+  - Moutarde ⚱️
   - Jaune d'oeuf 🥚
-  - Huile d'olive 🌻
+  - Huile d'olive 🧴
   - Comté râpé 🧀
   - Lait 🥛
   - Herbes de Provence 🌿
   - Sel 🧂
-  - Farine 🌾
+  - Farine 🍚
 time: 45 min
 servings: 4
 sourceLabel: "Healthy Food Creation"

@@ -2,7 +2,7 @@
 title: "Crackers aux graines"
 image: /img/recipes/no-image-available.jpg
 tags:
-  - Farine 🌾
+  - Farine 🍚
   - Flocons d'avoine 🌾
   - Graines 🌻
   - Bicarbonate 🧪
@@ -10,7 +10,7 @@ tags:
   - Poivre 🧂
   - Ail 🧄
   - Herbes de Provence 🌿
-  - Huile d'olive 🌻
+  - Huile d'olive 🧴
   - GRAS
 time: 45 min
 servings: 4

@@ -2,10 +2,10 @@
 title: "Pain"
 image: /img/recipes/no-image-available.jpg
 tags:
-  - Farine 🌾
-  - Levure de boulanger 🍞
+  - Farine 🍚
+  - Levure de boulanger 🧪
   - Noix 🥜
-  - Huile de noix 🥜
+  - Huile de noix 🧴
 time: 45 min
 servings: 4
 sourceLabel: "Marmiton"

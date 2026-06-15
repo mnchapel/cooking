@@ -1,0 +1,68 @@
+---
+title: "Riz cantonais"
+image: /img/recipes/no-image-available.jpg
+tags:
+  - Riz thaï parfumé 🍚
+  - Oignon 🧅
+  - Ail 🧄
+  - Petits pois 🫛
+  - Carottes 🥕
+  - Oeufs 🥚
+  - Dés de jambon 🥓
+  - Sauce soja 🫙
+  - Huile d'olive 🧴
+  - Poivre 🧂
+time: 45 min
+servings: 4
+sourceLabel: "Grazia"
+sourceURL: https://www.grazia.fr/cuisine/recettes/recette-riz-cantonais-cyril-lignac-657497.html
+# sourceLabel: "Papilles et Pupilles"
+# sourceURL: https://www.papillesetpupilles.fr/2021/11/riz-cantonnais-maison.html/
+ingredients:
+  - 300 g de riz thaï parfumé
+  - 1 oignon moyen
+  - 2 gousse d’ail
+  - 100 g de petits pois
+  - 2 carottes moyennes
+  - 4 oeufs
+  - 300 g de dés de jambon
+  - 3 c.à.s à soupe de sauce soja
+  - Huile d'olive
+  - Poivre
+---
+
+### Etape 1
+
+Porter une casserole emplie d’eau salée à ébullition. Y plonger le **riz** et le laisser cuire le temps indiqué sur l’emballage. La cuisson terminée, l'égoutter et le raffraichir à l'eau froide.
+
+### Etape 2
+
+Pendant ce temps, ciseler l’**oignon** et couper la **gousse d’ail** en deux.
+
+### Etape 3
+
+Tailler la **carotte** en brunoise.
+
+### Etape 4
+
+Ebouillanter la brunoise de **carottes** 2 à 3 minutes dans de l’eau salée, puis l'égoutter et la rafraichir. Procéder de même avec les **petits pois**.
+
+### Etape 5
+
+Dans une sauteuse, verser un trait d'huile d'olive et cuire l'**oignon** et l’**ail** 2 à 3 minutes, puis les dégager sur le côté.
+
+### Etape 6
+
+Battre en omelette les **oeufs** dans un saladier, puis les verser dans la sauteuse et les cuire comme des oeufs brouillés.
+
+### Etape 7
+
+Ajouter le **riz** par-dessus et mélanger délicatement.
+
+### Etape 8
+
+Ajouter les **petits pois** et la brunoise de **carottes** et mélanger de nouveau.
+
+### Etape 9
+
+Versez la sauce soja et ajouter les **dés de jambon**. Poivrer légèrement et servir dans un plat ou dans les assiettes.

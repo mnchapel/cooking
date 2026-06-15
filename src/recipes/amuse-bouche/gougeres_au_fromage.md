@@ -2,7 +2,7 @@
 title: "Gougeres au fromage"
 image: /img/recipes/no-image-available.jpg
 tags:
-  - Farine 🌾
+  - Farine 🍚
   - Gruyère râpé 🧀
   - Beurre 🧈
   - Oeufs 🥚

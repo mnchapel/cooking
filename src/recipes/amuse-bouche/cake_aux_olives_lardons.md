@@ -2,11 +2,11 @@
 title: "Cake aux olives lardons"
 image: /img/recipes/no-image-available.jpg
 tags:
-  - Farine 🌾
+  - Farine 🍚
   - Oeufs 🥚
-  - Huile de tournesol 🌻
-  - Vin blanc sec 🥂
-  - Olives vertes 🫒
+  - Huile de tournesol 🧴
+  - Vin blanc sec 🍷
+  - Olives vertes 🌿
   - Jambon blanc 🥓
   - Gruyère râpé 🧀
   - Levure chimique 🧪
