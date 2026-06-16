@@ -1,0 +1,243 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Cooklang: Recipe (selected file)",
+      "detail": "Parse, validate and display a selected recipe file",
+      "type": "shell",
+      "options": {
+        "cwd": "${workspaceFolder}/build-aux"
+      },
+      "linux": {
+        "command": "cook recipe read"
+      },
+      "windows": {
+        "command": "cook.exe recipe read"
+      },
+      "args": [
+        "--format",
+        "human",
+        "--scale",
+        "1",
+        "--pretty",
+        "../cooklang/${input:recipeFilePath}"
+      ],
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": true,
+        "panel": "dedicated",
+        "showReuseMessage": false,
+        "clear": true
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Cooklang: Recipe (current file)",
+      "detail": "Parse, validate and display a current recipe file",
+      "type": "shell",
+      "options": {
+        "cwd": "${workspaceFolder}/build-aux"
+      },
+      "linux": {
+        "command": "cook recipe read"
+      },
+      "windows": {
+        "command": "cook.exe recipe read"
+      },
+      "args": [
+        "--format",
+        "human",
+        "--scale",
+        "1",
+        "--pretty",
+        "${file}"
+      ],
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": true,
+        "panel": "dedicated",
+        "showReuseMessage": false,
+        "clear": true
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Cooklang: Server",
+      "detail": "Start a web server to browse recipes",
+      "type": "shell",
+      "options": {
+        "cwd": "${workspaceFolder}/build-aux"
+      },
+      "linux": {
+        "command": "cook server"
+      },
+      "windows": {
+        "command": "cook.exe server"
+      },
+      "args": [
+        "../cooklang/"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": true,
+        "panel": "dedicated",
+        "showReuseMessage": false,
+        "clear": true
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Cooklang: Build Site",
+      "detail": "Generate a self-contained static website from the recipe collection",
+      "type": "shell",
+      "options": {
+        "cwd": "${workspaceFolder}/build-aux"
+      },
+      "linux": {
+        "command": "cook build web"
+      },
+      "windows": {
+        "command": "cook.exe build web"
+      },
+      "args": [
+        "--base-path",
+        "../cooklang/",
+        "../_site"
+      ],
+      "group": "build",
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": true,
+        "panel": "dedicated",
+        "showReuseMessage": false,
+        "clear": true
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Cooklang: Doctor",
+      "detail": "Analyze the recipe collection for issues and improvements",
+      "group": {
+        "kind": "test",
+        "isDefault": true
+      },
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": true,
+        "panel": "dedicated",
+        "showReuseMessage": false,
+        "clear": true
+      },
+      "problemMatcher": [],
+      "dependsOn": [
+        "Cooklang: Doctor (validate)"
+      ]
+    },
+    {
+      "label": "Cooklang: Doctor (validate)",
+      "detail": "Validate all recipes for syntax errors and warnings",
+      "type": "shell",
+      "options": {
+        "cwd": "${workspaceFolder}/build-aux"
+      },
+      "linux": {
+        "command": "cook doctor validate"
+      },
+      "windows": {
+        "command": "cook.exe doctor validate"
+      },
+      "args": [
+        "--base-path",
+        "../cooklang/",
+        "--strict"
+      ],
+      "group": "test",
+      "hide": true,
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": true,
+        "panel": "dedicated",
+        "showReuseMessage": false,
+        "clear": true
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Cooklang: Doctor (aisle)",
+      "detail": "Check for ingredients missing from the aisle configuration",
+      "type": "shell",
+      "options": {
+        "cwd": "${workspaceFolder}/build-aux"
+      },
+      "linux": {
+        "command": "cook doctor aisle"
+      },
+      "windows": {
+        "command": "cook.exe doctor aisle"
+      },
+      "args": [
+        "aisle",
+        "--base-path",
+        "../cooklang/"
+      ],
+      "group": "test",
+      "hide": true,
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": true,
+        "panel": "dedicated",
+        "showReuseMessage": false,
+        "clear": true
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Cooklang: Doctor (pantry)",
+      "detail": "Check which recipe ingredients are in the pantry inventory",
+      "type": "shell",
+      "options": {
+        "cwd": "${workspaceFolder}/build-aux"
+      },
+      "linux": {
+        "command": "cook doctor pantry"
+      },
+      "windows": {
+        "command": "cook.exe doctor pantry"
+      },
+      "args": [
+        "pantry",
+        "--base-path",
+        "../cooklang/",
+      ],
+      "group": "test",
+      "hide": true,
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": true,
+        "panel": "dedicated",
+        "showReuseMessage": false,
+        "clear": true
+      },
+      "problemMatcher": []
+    }
+  ],
+  "inputs": [
+    {
+      "type": "promptString",
+      "id": "recipeFilePath",
+      "description": "Recipe relative file path in 'cooklang/'",
+    }
+  ]
+}

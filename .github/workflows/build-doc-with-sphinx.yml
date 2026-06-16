@@ -1,0 +1,34 @@
+# ============================================================
+# GitHub Actions Workflow: Build and Deploy Sphinx Documentation
+#
+# Description:
+# This workflow builds the Sphinx documentation located in the `docs/` folder
+# and deploys it to the `gh-pages` branch for GitHub Pages hosting.
+#
+# Trigger Conditions:
+# - On push to the `main` branch
+# - Only if files inside the `doc/` directory have changed
+#
+# Manual Trigger:
+# - Can also be triggered manually via the GitHub Actions interface.
+# ============================================================
+
+name: Publish Recipes
+on:
+  push:
+    branches: [ 'prod' ]
+    paths: ['./**']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  doc:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install CookCLI
+        run: |
+          curl -L https://github.com/cooklang/cookcli/releases/latest/download/cook-x86_64-unknown-linux-gnu.tar.gz \
+            | tar xz
+          sudo mv cook /usr/local/bin/
+      - name: Build Site
+        run: cook build web --base-path ./ ./_site --base-url /recipes/
