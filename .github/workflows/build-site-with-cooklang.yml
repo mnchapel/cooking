@@ -1,13 +1,13 @@
 # ============================================================
-# GitHub Actions Workflow: Build and Deploy Sphinx Documentation
+# GitHub Actions Workflow: Build and Publish Recipes Site
 #
 # Description:
-# This workflow builds the Sphinx documentation located in the `docs/` folder
-# and deploys it to the `gh-pages` branch for GitHub Pages hosting.
+# This workflow builds the static website of recipes from the files located in the
+# `cooklang/` folder.
 #
 # Trigger Conditions:
-# - On push to the `main` branch
-# - Only if files inside the `doc/` directory have changed
+# - On push to the `prod` branch
+# - Only if files inside the `cooklang/` directory have changed
 #
 # Manual Trigger:
 # - Can also be triggered manually via the GitHub Actions interface.
@@ -17,7 +17,7 @@ name: Publish Recipes
 on:
   push:
     branches: [ 'prod' ]
-    paths: ['./**']
+    paths: ['cooklang/**']
   workflow_dispatch:
 permissions:
   contents: write
