@@ -31,4 +31,4 @@ jobs:
             | tar xz
           sudo mv cook /usr/local/bin/
       - name: Build Site
-        run: cook build web --base-path ./ ./_site --base-url /recipes/
+        run: cook build web --base-path ./ ./_site
