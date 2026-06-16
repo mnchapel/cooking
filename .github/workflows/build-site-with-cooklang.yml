@@ -13,7 +13,7 @@
 # - Can also be triggered manually via the GitHub Actions interface.
 # ============================================================
 
-name: Publish recipes
+name: Publish site with cooklang
 on:
   push:
     branches: [ 'prod' ]
@@ -33,4 +33,4 @@ jobs:
             | tar xz
           sudo mv cook /usr/local/bin/
       - name: Build Site
-        run: cook build web --base-path ./ ./_site
+        run: cook build web
