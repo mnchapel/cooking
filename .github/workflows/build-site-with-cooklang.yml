@@ -18,7 +18,7 @@ run-name: Publish site with cooklang
 on:
   push:
     branches: [ 'prod' ]
-    # paths: ['cooklang/**']
+    paths: ['cooklang/**']
   workflow_dispatch:
 permissions:
   contents: write
@@ -28,10 +28,25 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v6
+
       - name: Install CookCLI
         run: |
-          curl -L https://github.com/cooklang/cookcli/releases/latest/download/cook-x86_64-unknown-linux-gnu.tar.gz \
+          curl -L https://github.com/cooklang/cookcli/releases/download/v0.32.0/cook-x86_64-unknown-linux-gnu.tar.gz \
             | tar xz
-          sudo mv cook /usr/local/bin/
+          mv cook /usr/local/bin/
+
       - name: Build site
         run: cook build web --base-path ./cooklang/ ./_site
+
+      - name: Commit and Push generated site
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Force push because _site/ is in the .gitignore
+          git add -f _site/.
+          if git diff-index --quiet HEAD -- _site; then
+            echo "The site is up-to-date. No changes to commit."
+          else
+            git commit -m "Build site"
+            git push origin prod
+          fi
