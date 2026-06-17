@@ -22,7 +22,7 @@ on:
 permissions:
   contents: write
 jobs:
-  doc:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
