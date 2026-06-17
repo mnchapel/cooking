@@ -1,5 +1,5 @@
 # ============================================================
-# GitHub Actions Workflow: Build and Publish Recipes Site
+# GitHub Actions Workflow: Build and Publish Cooklang Website
 #
 # Description:
 # This workflow builds the static website of recipes from the files located in the
@@ -13,8 +13,8 @@
 # - Can also be triggered manually via the GitHub Actions interface.
 # ============================================================
 
-name: Publish site with cooklang
-run-name: Publish site with cooklang
+name: Build and Publish Cooklang Website
+run-name: Build and Publish Cooklang Website
 on:
   push:
     branches: [ 'prod' ]
@@ -47,6 +47,6 @@ jobs:
           if git diff-index --quiet HEAD -- _site; then
             echo "The site is up-to-date. No changes to commit."
           else
-            git commit -m "Build site"
+            git commit -m "bot: build site"
             git push origin prod
           fi
