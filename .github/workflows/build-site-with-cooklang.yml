@@ -17,7 +17,6 @@ name: Publish site with cooklang
 on:
   push:
     branches: [ 'prod' ]
-    paths: ['cooklang/**']
   workflow_dispatch:
 permissions:
   contents: write
@@ -29,4 +28,8 @@ jobs:
         uses: actions/checkout@v6
       - name: Install CookCLI
         run: |
-          ls ${{ github.workspace }}
+          curl -L https://github.com/cooklang/cookcli/releases/latest/download/cook-x86_64-unknown-linux-gnu.tar.gz \
+            | tar xz
+          sudo mv cook /usr/local/bin/
+      - name: Build site
+        run: cook build web
