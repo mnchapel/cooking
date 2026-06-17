@@ -14,9 +14,11 @@
 # ============================================================
 
 name: Publish site with cooklang
+run-name: Publish site with cooklang
 on:
   push:
     branches: [ 'prod' ]
+    # paths: ['cooklang/**']
   workflow_dispatch:
 permissions:
   contents: write
