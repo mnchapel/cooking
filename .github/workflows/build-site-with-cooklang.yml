@@ -32,4 +32,4 @@ jobs:
             | tar xz
           sudo mv cook /usr/local/bin/
       - name: Build site
-        run: cook build web
+        run: cook build web --base-path ./cooklang/ ./_site
