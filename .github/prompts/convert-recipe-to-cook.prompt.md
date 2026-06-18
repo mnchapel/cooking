@@ -252,7 +252,7 @@ diet:
 cuisine: <style gastronomique>
 servings: <nombre de portions>
 difficulty:
-time: <durée en minutes ou en heure et minutes à calculer à partir du contenu>
+time: "<durée en minutes ou en heure et minutes à calculer à partir du contenu>"
 time.prep:
 time.cook:
 source.name:
@@ -264,17 +264,18 @@ locale: "fr_FR"
 
 **Consignes complémentaires :**
 
-- Complète uniquement les champs `title`, `description`, `category`, `tags`, `diet`, `cuisine`, `servings`, `time`, `source.author`, `source.url`, NE modifie PAS les autres champs.
+- Complète uniquement les propriétés `title`, `description`, `category`, `tags`, `diet`, `cuisine`, `servings`, `time`, `source.author`, `source.url`, NE modifie PAS les autres propriétés.
+- Les valeurs des propriétés `title`, `description`, `time`, `source.author`, `locale` doivent être encadrées par des guillemets `"`.
 - Dans `title`, le nom qu'il faudra mettre sera fourni par la recette source.
 - Dans `tags`, tu dois mettre uniquement des éléments issus des ingrédients et des étapes de préparation de la recette. Pour le ou les régimes alimentaires de `tags`, tu ne dois les mettre que si tu es certain et que tu as une confiance absolue dans ce que tu proposes, sinon tu ne mets rien. Cette liste d'un ou plusieurs régimes alimentaires doit être la même que dans le champ `diet`.
 - Dans `tags`, les éléments sont en minuscule.
-- Dans `diet`, tu ne dois mettre que des items dont tu es certain et que tu as une confiance absolue dans ce que tu proposes, sinon tu ne mets rien. La liste ne peut contenir qu'un seul élément. Le contenu de ce champs doit être répercuté dans `tags`.
+- Dans `diet`, tu ne dois mettre que des items dont tu es certain et que tu as une confiance absolue dans ce que tu proposes, sinon tu ne mets rien. La liste ne peut contenir qu'un seul élément. Le contenu de cette propriété doit être répercuté dans `tags`.
 - Dans `diet`, les éléments commencent par une majuscule.
 - Dans `cuisine`, tu ne dois mettre un style gastronomique que si tu es certain et que tu as une confiance absolue dans ce que tu proposes.
 - Dans `servings`, le nombre de portions sera indiqué dans mon prompt.
 - Dans `time`, la temps doit être indiqué dans l'un des formats suivants : `<durée en minutes> min` ou `<durée en heure> h <durée en minutes> min`. Utilise le second si la temps dépasse 1 heure.
-- Dans `source.author`, si la recette a plusieurs référence, tu dois écrire chacun des noms dans ce champs et les séparer par ` | `. Par exemple: `nom-1 | nom-2 | ...`.
-- Dans `source.url`, si la recette a plusieurs référence, tu dois écrire chacune des url dans ce champs et les séparer par ` | `. Par exemple: `url-1 | url-2 | ...`.
+- Dans `source.author`, si la recette a plusieurs référence, tu dois écrire chacun des noms dans cette propriété et les séparer par ` | `. Par exemple: `nom-1 | nom-2 | ...`.
+- Dans `source.url`, si la recette a plusieurs référence, tu dois écrire chacune des url dans cette propriétés et les séparer par ` | `. Par exemple: `url-1 | url-2 | ...`.
 - Le texte doit être en français.
 - Si tu as le moindre doute sur le contenu à mettre, remplace le par `???`. Je préfère que tu fasses ça, plutôt que d'avoir des erreurs.
 - Respecte la structure que je t'ai fournie !
@@ -296,6 +297,7 @@ locale: "fr_FR"
 
 Les recettes que je te fournirai auront la plupart du temps le format suivant :
 
+<FORMAT_RECETTE_ORIGINE>
 ```markdown
 # {Nom de la recette}
 
@@ -319,11 +321,13 @@ Les recettes que je te fournirai auront la plupart du temps le format suivant :
 
 - <{LIEN}>
 ```
+</FORMAT_RECETTE_ORIGINE>
 
 ### Format attendu d'une recette générée
 
 Voici le format global d'une recette que tu dois générer :
 
+<FORMAT_RECETTE_ATTENDU>
 ```cook
 ---
 ...
@@ -338,11 +342,13 @@ Voici le format global d'une recette que tu dois générer :
 <étape n>
 
 ```
+</FORMAT_RECETTE_ATTENDU>
 
 ### Exemple
 
 La recette du Mathlouh d'origine :
 
+<EXEMPLE_RECETTE_ORIGINE>
 ```markdown
 # Mathlouh
 
@@ -396,9 +402,11 @@ Mettre les petits pains dans un torchon tout de suite après la cuisson pour qu'
 [Recette d'origine](https://www.instagram.com/p/CxTUId8oNgi/)
 
 ```
+</EXEMPLE_RECETTE_ORIGINE>
 
 La recette du Mathlouh générée :
 
+<EXEMPLE_RECETTE_ATTENDUE>
 ```cook
 ---
 title: "Matlouh"
@@ -417,7 +425,7 @@ time: "2 h 45 min"
 time.prep:
 time.cook:
 source.name:
-source.author: debo_gateaux
+source.author: "debo_gateaux"
 source.url: https://www.instagram.com/p/CxTUId8oNgi/
 locale: "fr_FR"
 ---
@@ -446,3 +454,4 @@ Faire chauffer une #poêle{} sur un feu moyen puis faire cuire les petits pains 
 Mettre les petits pains dans un torchon tout de suite après la cuisson pour qu'ils conservent leur moelleux.
 
 ```
+</EXEMPLE_RECETTE_ATTENDUE>
