@@ -1,0 +1,52 @@
+{
+  "Ingredients": {
+    "include": [
+      "**/*.cook"
+    ],
+    "prefix": "@",
+    "body": [
+      "@${1:ingredient}{${2:quantity}%${3:unit}}$0"
+    ],
+    "description": "Ingredients"
+  },
+  "Ingredients with Preparations": {
+    "include": [
+      "**/*.cook"
+    ],
+    "prefix": "@",
+    "body": [
+      "@${1:ingredient}{${2:quantity}%${3:unit}}(${4:preparation})$0"
+    ],
+    "description": "Ingredients with Preparations"
+  },
+  "Simple Timer": {
+    "prefix": [
+      "~",
+      "timersimple"
+    ],
+    "body": [
+      "~{${1:time}%${2|minutes,heures|}}$0"
+    ],
+    "description": "Simple Timer"
+  },
+  "Compound Timer": {
+    "prefix": [
+      "~",
+      "timercompound"
+    ],
+    "body": [
+      "~{${1:hour} heures ${2:min}%minutes}$0"
+    ],
+    "description": "Compound Timer"
+  },
+  "Cookware": {
+    "prefix": [
+      "#",
+      "cookware"
+    ],
+    "body": [
+      "#${1:cookware}{}$0"
+    ],
+    "description": "Cookware"
+  }
+}
