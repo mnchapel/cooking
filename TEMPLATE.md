@@ -11,10 +11,10 @@ tags:
 diet:
   - {REGIME_DIET_1|Végétarienne}
   - {REGIME_DIET_N}
-cuisine: {Algérienne|Française|...}
-servings: 4
+cuisine: {Algérienne|Française|Méditerranéenne|...}
+servings: <PORTIONS>
 difficulty:
-time: "{HEURES} h {MIN} min|{MIN} min"
+time: "{HEURES} h {MIN} min|{MIN} min|{HEURES} h"
 time.prep:
 time.cook:
 source.name:
@@ -27,3 +27,13 @@ locale: "fr_FR"
 
 
 {STEP_N}
+
+
+> **Rappel des syntaxes :**
+> - `@ingredient{}` => @sel{}
+> - `@ingredient{quantity}` => @oignon{1}
+> - `@ingredient{quantity%unit}` => @levure de boulanger{1%sachet} ; @miel{1%c.à.c}
+> - `@ingredient{quantity%unit}(preparation)` => @farine{300%g}(T45 idéalement) ; @huile de noix{1%c.à.s}(optionnel)
+> - `~{time%minutes}` => ~{15%minutes} ; ~{1%heure} ; ~{35 à 45%minutes}
+> - `~{hour heures min%minutes}` => ~{1 heure 30%minutes}
+> - `#cookware{}` => #poêle{} ; #four{}

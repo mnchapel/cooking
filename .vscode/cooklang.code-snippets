@@ -3,21 +3,53 @@
     "include": [
       "**/*.cook"
     ],
-    "prefix": "@",
+    "prefix": [
+      "@",
+      "ingredient"
+    ],
     "body": [
-      "@${1:ingredient}{${2:quantity}%${3:unit}}$0"
+      "@${1:ingredient}{}$0"
     ],
     "description": "Ingredients"
   },
-  "Ingredients with Preparations": {
+  "Ingredient with Quantity": {
     "include": [
       "**/*.cook"
     ],
-    "prefix": "@",
+    "prefix": [
+      "@",
+      "ingredientquant"
+    ],
+    "body": [
+      "@${1:ingredient}{${2:quantity}}$0"
+    ],
+    "description": "Ingredient with Quantity"
+  },
+  "Ingredient with Unit": {
+    "include": [
+      "**/*.cook"
+    ],
+    "prefix": [
+      "@",
+      "ingredientunit"
+    ],
+    "body": [
+      "@${1:ingredient}{${2:quantity}%${3:unit}}$0"
+    ],
+    "description": "Ingredient with Unit"
+  },
+  "Ingredient with Preparations": {
+    "include": [
+      "**/*.cook"
+    ],
+    "prefix": [
+      "@",
+      "ingredientprepa"
+    ],
     "body": [
       "@${1:ingredient}{${2:quantity}%${3:unit}}(${4:preparation})$0"
     ],
-    "description": "Ingredients with Preparations"
+    "description": "Ingredient with Preparation"
   },
   "Simple Timer": {
     "prefix": [

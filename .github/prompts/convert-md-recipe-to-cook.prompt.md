@@ -1,11 +1,11 @@
 ---
-name: "Convert recipe to cooklang"
-description: "Convertie les recettes écrites en Markdown en Cooklang"
+name: "Convert md recipe to cooklang"
+description: "Convertit des recettes écrites en Markdown en Cooklang"
 ---
 
 ## Objectif
 
-Pour chaque recette de cuisine au format markdown que je te donne, je vais te demander de la convertir au format Cooklang (fichier `.cook`).
+Pour chaque recette de cuisine au format markdown que je te donne, je vais te demander de la convertir au format Cooklang (fichier `.cook`). Mon objectif est d'ensuite utiliser ces fichiers au format Cooklang pour générer un site Web de recettes après les avoir parsés.
 
 ## A propos de Cooklang
 
@@ -252,7 +252,7 @@ diet:
 cuisine: <style gastronomique>
 servings: <nombre de portions>
 difficulty:
-time: "<durée en minutes ou en heure et minutes à calculer à partir du contenu>"
+time: "<durée en minutes ou en heure et minutes à calculer à partir du contenu. Il est le résultat des temps de cuisson et du temps de préparation estimé>"
 time.prep:
 time.cook:
 source.name:
@@ -265,7 +265,7 @@ locale: "fr_FR"
 **Consignes complémentaires :**
 
 - Complète uniquement les propriétés `title`, `description`, `category`, `tags`, `diet`, `cuisine`, `servings`, `time`, `source.author`, `source.url`, NE modifie PAS les autres propriétés.
-- Les valeurs des propriétés `title`, `description`, `time`, `source.author`, `locale` doivent être encadrées par des guillemets `"`.
+- Les valeurs des propriétés `title`, `description`, `time`, `source.author`, `locale` doivent être encadrées par des guillemets `"`. Les autres propriétés sont encadrées de guillemets que si c'est nécessaire.
 - Dans `title`, le nom qu'il faudra mettre sera fourni par la recette source.
 - Dans `tags`, tu dois mettre uniquement des éléments issus des ingrédients et des étapes de préparation de la recette. Pour le ou les régimes alimentaires de `tags`, tu ne dois les mettre que si tu es certain et que tu as une confiance absolue dans ce que tu proposes, sinon tu ne mets rien. Cette liste d'un ou plusieurs régimes alimentaires doit être la même que dans le champ `diet`.
 - Dans `tags`, les éléments sont en minuscule.
@@ -273,7 +273,7 @@ locale: "fr_FR"
 - Dans `diet`, les éléments commencent par une majuscule.
 - Dans `cuisine`, tu ne dois mettre un style gastronomique que si tu es certain et que tu as une confiance absolue dans ce que tu proposes.
 - Dans `servings`, le nombre de portions sera indiqué dans mon prompt.
-- Dans `time`, la temps doit être indiqué dans l'un des formats suivants : `<durée en minutes> min` ou `<durée en heure> h <durée en minutes> min`. Utilise le second si la temps dépasse 1 heure.
+- Dans `time`, la temps doit être indiqué dans l'un des formats suivants : `<durée en minutes> min` ou `<durée en heure> h <durée en minutes> min`. Utilise le second format si la temps dépasse 1 heure.
 - Dans `source.author`, si la recette a plusieurs référence, tu dois écrire chacun des noms dans cette propriété et les séparer par ` | `. Par exemple: `nom-1 | nom-2 | ...`.
 - Dans `source.url`, si la recette a plusieurs référence, tu dois écrire chacune des url dans cette propriétés et les séparer par ` | `. Par exemple: `url-1 | url-2 | ...`.
 - Le texte doit être en français.
@@ -289,9 +289,10 @@ locale: "fr_FR"
 - Tu dois laisser une ligne blanche après le front-matter.
 - Tu dois laisser une ligne blanche à la fin du document.
 - Pour les ustensiles de cuisine, utilise la syntaxe `#<nom de l'ustensile>{}`.
-- Pour les ingrédients, utilise toujours la syntaxe `@<nom de l'ingrédient>{}`.
+- Pour les ingrédients, utilise toujours la syntaxe `@<nom de l'ingrédient>{}` mais PAS `@<nom de l'ingrédient>`.
 - Pour les ingrédients, "c.a.c" doit être "c.à.c" et "c.a.s" doit être "c.à.s".
 - Pour le temps, utilise soit la syntaxe `~{<temps>%<unité>}`, par exemple `~{25%minutes}` lorsqu'il ne se rapporte pas à un ingrédient particulier. Soit la syntaxe `~<nom>{<temps>%<unité>}` lorsque le temps concerne un ingrédient particulier, par exemple `~oeufs{3%minutes}`. Si le temps est supérieur à 59 minutes, utilise la syntaxe `~{<temps>%heures}` ou `~{<temps> heures <temps>%minutes}`. Ajuste les singuliers et les pluriels.
+- Les ingrédients et des ustensiles ne doivent être déclarés qu'une seule fois avec la syntaxe Cooklang. Sinon le parser va les faire apparaitre en plusieurs occurences sur le résumé de la recette qui sera généré pour le site Web.
 
 ### Format d'une recette source
 
