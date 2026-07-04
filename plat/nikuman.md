@@ -11,14 +11,14 @@ Pour la pâte :
 
 Pour la farce :
 - 350 g de porc haché
-- 4 shiitakés (qu'il faudra réhydrater 2H avant la recette et garder l'eau de trempage)
 - 1c.a.c de gingembre râpé
-- 2 branches de cébette
+- 2 branches de cébette (ou 1 oignon)
 - 1c.a.c de sucre
 - 3c.a.s de sauce soja claire
 - 1c.a.s d'huile de sésame
 - 1c.a.s de fécule de pomme de terre ou de maïs
-- 1c.a.s de saké
+- 4 shiitakés (qu'il faudra réhydrater 2H avant la recette et garder l'eau de trempage) (optionel)
+- 1c.a.s de saké (optionel)
 
 Pour l'accompagnement :
 - Pâtes de riz
