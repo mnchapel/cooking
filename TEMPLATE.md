@@ -1,32 +1,32 @@
 ---
-title: "{TITRE}"
-description: "{DESCRIPTION}."
+title: "<TITRE>"
+description: "<DESCRIPTION>."
 image:
-category: {Accompagnement|Amuse-bouche|Archive|Boisson|Dessert|Petit-déjeuner|Plat|Sauce}
+category: <Accompagnement|Amuse-bouche|Archive|Boisson|Dessert|Petit-déjeuner|Plat|Sauce>
 tags:
-  - {TAG_1}
-  - {TAG_N}
-  - {TAG_REGIME_DIET_1|végétarienne}
-  - {TAG_REGIME_DIET_N}
+  - <TAG_1>
+  - <TAG_N>
+  - <TAG_REGIME_DIET_1|végétarienne>
+  - <TAG_REGIME_DIET_N>
 diet:
-  - {REGIME_DIET_1|Végétarienne}
-  - {REGIME_DIET_N}
-cuisine: {Algérienne|Française|Méditerranéenne|...}
+  - <REGIME_DIET_1|Végétarienne>
+  - <REGIME_DIET_N>
+cuisine: <Algérienne|Française|Méditerranéenne|...>
 servings: <PORTIONS>
 difficulty:
-time: "{HEURES} h {MIN} min|{MIN} min|{HEURES} h"
+time: "<HEURES> h <MIN> min|<MIN> min|<HEURES> h"
 time.prep:
 time.cook:
 source.name:
-source.author: "{PRENOM} {NOM}"
-source.url: {URL}
+source.author: "<PRENOM> <NOM>"
+source.url: <URL>
 locale: "fr_FR"
 ---
 
-{STEP_1}
+<STEP_1>
 
 
-{STEP_N}
+<STEP_N>
 
 
 > **Rappel des syntaxes :**

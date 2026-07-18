@@ -1,6 +1,7 @@
 ---
 name: "Convert md recipe to cooklang"
 description: "Convertit des recettes écrites en Markdown en Cooklang"
+applyTo: '*'
 ---
 
 ## Objectif
@@ -300,27 +301,27 @@ Les recettes que je te fournirai auront la plupart du temps le format suivant :
 
 <FORMAT_RECETTE_ORIGINE>
 ```markdown
-# {Nom de la recette}
+# [NOM_DE_LA_RECETTE]
 
-## Ingrédients pour {nombre de portions} {unité des portions}
+## Ingrédients pour [NOMBRE_DE_PORTIONS] [UNITÉ_DES_PORTIONS]
 
-- {ingrédient 1}
-- {ingrédient 2}
+- [INGRÉDIENT_1]
+- [INGRÉDIENT_2]
 - ...
 
 ## Préparation
 
 ### Etape 1
 
-{ETAPE 1}
+[ETAPE_1]
 
 ### Etape 2
 
-{ETAPE 2}
+[ETAPE_2]
 
 ## Références
 
-- <{LIEN}>
+- <[LIEN]>
 ```
 </FORMAT_RECETTE_ORIGINE>
 
