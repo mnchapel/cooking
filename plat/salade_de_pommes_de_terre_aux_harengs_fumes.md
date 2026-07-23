@@ -3,6 +3,7 @@
 - 1.5Kg de pommes de terre
 - 400g de harengs fumés extra-doux (2 paquets)
 - 205g égouttés de petits cornichons
+- 150g de comté
 - 2 oignons rouges moyens (ou échalotes)
 - 3 ails
 - Persil
@@ -17,7 +18,7 @@
 
 ### Etape 2
 
-Pendant ce temps, couper le harengs en petits tronçons, les cornichons en petits morceaux, puis réserver le tout dans un grand saladier. Couper les oignons en morceaux, hacher l'ail, et les ajouter au reste de la préparation.
+Pendant ce temps, couper le harengs en petits tronçons, les cornichons en petits morceaux, le comté en petits carrés, puis réserver le tout dans un grand saladier. Couper les oignons en morceaux, hacher l'ail, et les ajouter au reste de la préparation.
 
 ### Etape 3
 
