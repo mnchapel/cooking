@@ -8,7 +8,7 @@
       "ingredient"
     ],
     "body": [
-      "@${1:ingredient}{}$0"
+      "@${TM_SELECTED_TEXT:${1:ingredient}}{}$0"
     ],
     "description": "Ingredients"
   },
@@ -21,7 +21,7 @@
       "ingredientquant"
     ],
     "body": [
-      "@${1:ingredient}{${2:quantity}}$0"
+      "@${TM_SELECTED_TEXT:${1:ingredient}}{${2:quantity}}$0"
     ],
     "description": "Ingredient with Quantity"
   },
@@ -34,7 +34,7 @@
       "ingredientunit"
     ],
     "body": [
-      "@${1:ingredient}{${2:quantity}%${3:unit}}$0"
+      "@${TM_SELECTED_TEXT:${1:ingredient}}{${2:quantity}%${3:unit}}$0"
     ],
     "description": "Ingredient with Unit"
   },
@@ -47,7 +47,7 @@
       "ingredientprepa"
     ],
     "body": [
-      "@${1:ingredient}{${2:quantity}%${3:unit}}(${4:preparation})$0"
+      "@${TM_SELECTED_TEXT:${1:ingredient}}{${2:quantity}%${3:unit}}(${4:preparation})$0"
     ],
     "description": "Ingredient with Preparation"
   },
@@ -57,7 +57,7 @@
       "timersimple"
     ],
     "body": [
-      "~{${1:time}%${2|minutes,heures|}}$0"
+      "~{${TM_SELECTED_TEXT:${1:time}}%${2|minutes,heures|}}$0"
     ],
     "description": "Simple Timer"
   },
@@ -67,7 +67,7 @@
       "timercompound"
     ],
     "body": [
-      "~{${1:hour} heures ${2:min}%minutes}$0"
+      "~{${TM_SELECTED_TEXT:${1:hour}} heures ${2:min}%minutes}$0"
     ],
     "description": "Compound Timer"
   },
@@ -77,7 +77,7 @@
       "cookware"
     ],
     "body": [
-      "#${1:cookware}{}$0"
+      "#${TM_SELECTED_TEXT:${1:cookware}}{}$0"
     ],
     "description": "Cookware"
   }
