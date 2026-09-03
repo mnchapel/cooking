@@ -1,3 +1,4 @@
 {
-  "cooklang.serverPath": "build-aux/cook"
+  "cooklang.serverPath": "build-aux/cook",
+  "editor.suggest.showWords": false
 }
