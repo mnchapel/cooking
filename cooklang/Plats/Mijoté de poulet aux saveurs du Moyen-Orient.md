@@ -1,5 +1,5 @@
 ---
-title: "Tarte méditerranéenne tomate et chorizo"
+title: "Mijoté de poulet aux saveurs du Moyen-Orient"
 description: "{{DESCRIPTION}}."
 image:
 category: {{Accompagnement|Amuse-bouche|Archive|Boisson|Dessert|Petit-déjeuner|Plat|Sauce}}
@@ -19,7 +19,7 @@ time.prep:
 time.cook:
 source.name:
 source.author: "{{PRENOM}} {{NOM}}"
-source.url: https://www.hellofresh.fr/recipes/tarte-sans-gluten-mediterraneenne-gratinee-au-chorizo-69a17f21e7bff1dd159ff2da
+source.url: https://www.hellofresh.fr/recipes/mijote-de-poulet-au-saveurs-du-moyen-orient-663ddf205e4dcee2f122a435
 locale: "fr_FR"
 ---
 

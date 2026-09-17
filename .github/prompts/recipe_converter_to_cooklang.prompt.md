@@ -247,7 +247,7 @@ Rules:
 - Use `(preparation)` for explicit preparation instructions associated with an ingredient.
 - Keep `{}` when an ingredient is explicitly present but has no quantity.
 - Always use `{}` after an ingredient name, including when no quantity is provided.
-- Exception: normalize `c.a.c` to `c.à.c` and `c.a.s` to `c.à.s`.
+- Exception: normalize `c.a.c` or `cc` to `c.à.c` and `c.a.s` or `cs` to `c.à.s`.
 - Exception: always convert ingredient names to lowercase when writing them in Cooklang syntax. This applies only to the ingredient name itself.
 
 Examples:
@@ -355,6 +355,8 @@ Examples:
 
 - Preserve instruction order.
 - Convert each logical cooking step into one Markdown list item.
+- Convert French second-person plural present imperative (vous) to the infinitive, preserving all other wording, meaning, quantities, conditions, and order; reposition object/reflexive pronouns and negation according to French infinitive syntax (`Découpez les` => `Découper les`, `Lavez-vous les mains` => `Se laver les mains`, `Faites chauffer` => `Faire chauffer`, `Faites-y revenir` => `Faire revenir`, `Enfournez-la` => `L'enfourner`).
+- Do not otherwise rewrite, correct, normalize, or paraphrase.
 - Separate logical steps with two blank lines.
 - Do not merge distinct steps.
 - Do not split a step unless the source structure clearly requires it.

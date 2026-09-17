@@ -1,5 +1,5 @@
 ---
-title: "Tarte fine poireaux-lardons et salade fraîche"
+title: "Couscous royal semoule, poulet et merguez"
 description: "{{DESCRIPTION}}."
 image:
 category: {{Accompagnement|Amuse-bouche|Archive|Boisson|Dessert|Petit-déjeuner|Plat|Sauce}}
@@ -19,7 +19,7 @@ time.prep:
 time.cook:
 source.name:
 source.author: "{{PRENOM}} {{NOM}}"
-source.url: https://www.hellofresh.fr/recipes/tarte-fine-poireaux-lardons-gratinee-68275654c4a648afcacfa744
+source.url: https://www.hellofresh.fr/recipes/couscous-royal-semoule-poulet-and-merguez-696fc11984d22895b02c4d3c
 locale: "fr_FR"
 ---
 
