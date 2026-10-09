@@ -1,5 +1,5 @@
 ---
-title: "Mijoté de poulet aux saveurs du Moyen-Orient"
+title: "{{TITRE}}"
 description: "{{DESCRIPTION}}."
 image:
 category: {{Accompagnement|Amuse-bouche|Archive|Boisson|Dessert|Petit-déjeuner|Plat|Sauce}}
@@ -19,9 +19,20 @@ time.prep:
 time.cook:
 source.name:
 source.author: "{{PRENOM}} {{NOM}}"
-source.url: https://www.hellofresh.fr/recipes/mijote-de-poulet-au-saveurs-du-moyen-orient-663ddf205e4dcee2f122a435
+source.url: {{URL}}
 locale: "fr_FR"
 ---
+
+Ingrédients pour 1 :
+
+- 12.5g de beurre
+- 3 oeufs
+- Sel + poivre
+
+garniture :
+- 50g de champi
+- 5g de beurre
+- 37.5g de jambon
 
 {{STEP_1}}
 
