@@ -2,7 +2,7 @@
 
 - 400g de spaghetti
 - 1 tête d'ail
-- 150 g de tomates cerises
+- 200 g de tomates cerises
 - 100 g de St Morêt (soit 5 portions individuelles)
 - 1 poivron rouge
 - 1 oignon rouge
